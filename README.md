@@ -5,7 +5,7 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
         
         for (int i = 0; i < nums.length; i++) {
-            int need = target - nu
+            in
             if (map.containsKey(need)) {
                 return new int[]{map.get(n
             map.put(nums[i], i);
