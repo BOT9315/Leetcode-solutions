@@ -8,6 +8,5 @@ class Solution {
             if (map.containsKey(need)) {
                 return new int[]{map.get(n
             map.put(nums[i]
-        return new int[]{};
-    }
+        return new int
 }
