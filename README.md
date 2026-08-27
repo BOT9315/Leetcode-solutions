@@ -6,4 +6,3 @@ class Solution {
         for (int i = 0; i < nums.l
             if (map.contai
                 return new int[]{m
-            map.p
