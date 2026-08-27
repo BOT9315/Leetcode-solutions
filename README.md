@@ -5,4 +5,4 @@ class Solution {
         HashMap<Integer, Integer>
         for (int i = 0; i < nums.l
             if (map.contai
-                return new int[]{
+                return new 
