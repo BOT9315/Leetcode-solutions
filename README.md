@@ -9,7 +9,6 @@ public class Pattern {
                 stars = 6 - i;
         
             for (int j = 1; j <= spaces; j++) {
-                System.out.print(" ");
             }
 
             // stars
