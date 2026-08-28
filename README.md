@@ -6,8 +6,7 @@ public class Pattern {
         for (int i = 1; i <= 5; i+
             if (i <= n) {
                 spaces = n - i;
-                stars = i;
-            } else {
+                star
                 spaces = i - n;
                 stars = 6 - i;
             }
