@@ -3,8 +3,7 @@ public class Pattern {
             for (int j = 1; j <= spaces; j++) {
             }
 
-            // stars
-            for (int j = 1; j <= stars; j++) {
+            // s
                 System.out.print("* ");
             }
 
