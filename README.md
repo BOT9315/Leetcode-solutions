@@ -3,8 +3,7 @@ public class Pattern {
 
         int n = 3;
 
-        for (int i = 1; i <= 5; i                stars = 6 - i;
-        
+        for (int i = 1; i <= 5; i                stars
             for (int j = 1; j <= spaces; j++) {
             }
 
