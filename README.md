@@ -1,2 +1,1 @@
-public class Pattern {
-    pu
+public class Pattern
