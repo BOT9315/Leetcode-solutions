@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-30T14:12:50.314Z",
+  "updatedAt": "2026-08-30T14:13:06.697Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "08f3498aafe00370b136d6873a3571dd32717637",
+          "lastSyncedAt": "2026-08-30T14:13:06.697Z"
+        }
+      ]
+    },
     {
       "frontendId": "4",
       "title": "Median of Two Sorted Arrays",
