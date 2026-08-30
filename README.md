@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 6 | 9 | 2 |
+| 21 | 7 | 11 | 3 |
 
 ## Activity
 
@@ -17,28 +17,28 @@
 | 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
-| 2026-08-30 | 12 |
+| 2026-08-30 | 16 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 7 | 41% |
-| String | 7 | 41% |
-| Math | 5 | 29% |
-| Two Pointers | 5 | 29% |
-| Divide and Conquer | 2 | 12% |
-| Dynamic Programming | 2 | 12% |
-| Hash Table | 2 | 12% |
-| Sorting | 2 | 12% |
-| Stack | 2 | 12% |
-| Binary Search | 1 | 6% |
+| Array | 8 | 38% |
+| String | 8 | 38% |
+| Two Pointers | 6 | 29% |
+| Math | 5 | 24% |
+| Hash Table | 3 | 14% |
+| Recursion | 3 | 14% |
+| Divide and Conquer | 2 | 10% |
+| Dynamic Programming | 2 | 10% |
+| Linked List | 2 | 10% |
+| Sorting | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
+| [Array](Topics/array/) | 8 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -46,22 +46,26 @@
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
