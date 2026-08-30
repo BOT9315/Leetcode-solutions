@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 14 | 6 | 6 | 2 |
+| 17 | 6 | 9 | 2 |
 
 ## Activity
 
@@ -17,28 +17,28 @@
 | 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
-| 2026-08-30 | 9 |
+| 2026-08-30 | 12 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 6 | 43% |
-| Array | 5 | 36% |
-| Math | 4 | 29% |
-| Two Pointers | 3 | 21% |
-| Divide and Conquer | 2 | 14% |
-| Dynamic Programming | 2 | 14% |
-| Stack | 2 | 14% |
-| Binary Search | 1 | 7% |
-| Binary Search Tree | 1 | 7% |
-| Binary Tree | 1 | 7% |
+| Array | 7 | 41% |
+| String | 7 | 41% |
+| Math | 5 | 29% |
+| Two Pointers | 5 | 29% |
+| Divide and Conquer | 2 | 12% |
+| Dynamic Programming | 2 | 12% |
+| Hash Table | 2 | 12% |
+| Sorting | 2 | 12% |
+| Stack | 2 | 12% |
+| Binary Search | 1 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -50,18 +50,18 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Sorting](Topics/sorting/) | 0 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
