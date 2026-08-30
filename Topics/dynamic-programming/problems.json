@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-30T14:11:54.111Z",
-  "problems": []
+  "updatedAt": "2026-08-30T14:12:30.056Z",
+  "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0005-longest-palindromic-substring.py",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
+          "sha": "ab5a5194f831c79b38b318ae768c07740b20fe7f",
+          "lastSyncedAt": "2026-08-30T14:12:30.056Z"
+        }
+      ]
+    }
+  ]
 }
