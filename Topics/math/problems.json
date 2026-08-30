@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-30T14:13:47.934Z",
+  "updatedAt": "2026-08-30T14:25:42.101Z",
   "problems": [
     {
       "frontendId": "7",
@@ -22,7 +22,7 @@
           "filename": "0007-reverse-integer.py",
           "path": "0007-reverse-integer/0007-reverse-integer.py",
           "sha": "6c6855b978da1b65ba82bc3a856c80929130f47e",
-          "lastSyncedAt": "2026-08-30T14:12:22.196Z"
+          "lastSyncedAt": "2026-08-30T14:25:42.101Z"
         }
       ]
     },
