@@ -30,4 +30,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BOT9315/temp/tree/main/0001-two-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/BOT9315/temp/tree/main/0006-zigzag-conversion/) | Medium |
 <!---LeetCode Topics End-->
