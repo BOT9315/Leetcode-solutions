@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-30T14:13:11.755Z",
+  "updatedAt": "2026-08-30T14:25:11.411Z",
   "problems": [
     {
       "frontendId": "4",
@@ -22,7 +22,7 @@
           "filename": "0004-median-of-two-sorted-arrays.py",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "efc1b6d8c44e89add95d595f78f37d28d9375efb",
-          "lastSyncedAt": "2026-08-30T14:12:41.011Z"
+          "lastSyncedAt": "2026-08-30T14:25:11.411Z"
         }
       ]
     },
