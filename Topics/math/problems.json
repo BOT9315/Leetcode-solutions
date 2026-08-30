@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-30T14:13:25.863Z",
+  "updatedAt": "2026-08-30T14:13:47.934Z",
   "problems": [
     {
       "frontendId": "7",
@@ -63,6 +63,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "302edf63e68b41d7f492555c8a6ee0372d44ce6f",
           "lastSyncedAt": "2026-08-30T14:13:25.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "0263-ugly-number/",
+      "readmePath": "0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0263-ugly-number.cpp",
+          "path": "0263-ugly-number/0263-ugly-number.cpp",
+          "sha": "947e7d5d3d12cdbb7c5f7d906c30c39638a20b3e",
+          "lastSyncedAt": "2026-08-30T14:13:47.934Z"
         }
       ]
     }
