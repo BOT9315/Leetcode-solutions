@@ -83,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/BOT9315/temp/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BOT9315/temp/tree/main/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
