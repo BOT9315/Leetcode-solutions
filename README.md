@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/BOT9315/temp/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/BOT9315/temp/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
