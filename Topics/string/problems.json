@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-30T14:12:10.107Z",
+  "updatedAt": "2026-08-30T14:12:25.565Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "0006-zigzag-conversion/",
+      "readmePath": "0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "aaa42e5b2959734d8b7843009de2aef9cb0f5f33",
+          "lastSyncedAt": "2026-08-30T14:12:25.565Z"
+        }
+      ]
+    },
     {
       "frontendId": "8",
       "title": "String to Integer (atoi)",
