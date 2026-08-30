@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-30T14:26:06.505Z",
+  "updatedAt": "2026-08-30T14:26:16.250Z",
   "problems": [
     {
       "frontendId": "7",
@@ -36,6 +36,14 @@
       "folderPath": "0009-palindrome-number/",
       "readmePath": "0009-palindrome-number/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0009-palindrome-number.java",
+          "path": "0009-palindrome-number/0009-palindrome-number.java",
+          "sha": "cbf2f3ba7fb82561ea18703d2902d97de5a79639",
+          "lastSyncedAt": "2026-08-30T14:26:16.250Z"
+        },
         {
           "language": "Python",
           "extension": ".py",
