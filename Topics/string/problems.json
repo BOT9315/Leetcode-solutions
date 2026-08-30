@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-08-30T14:12:10.107Z",
+  "problems": [
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0008-string-to-integer-atoi.py",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
+          "sha": "a20c3e51bd761b764b80ae6545149523c4a7b0e6",
+          "lastSyncedAt": "2026-08-30T14:12:10.107Z"
+        }
+      ]
+    }
+  ]
+}
