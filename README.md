@@ -1,2 +1,2 @@
 public class Pattern {
-    public static void main(Str
+    public static void 
