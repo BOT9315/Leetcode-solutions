@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-30T14:12:30.056Z",
+  "updatedAt": "2026-08-30T14:12:50.314Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,6 +23,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "ab5a5194f831c79b38b318ae768c07740b20fe7f",
           "lastSyncedAt": "2026-08-30T14:12:30.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "0011-container-with-most-water/",
+      "readmePath": "0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0011-container-with-most-water.py",
+          "path": "0011-container-with-most-water/0011-container-with-most-water.py",
+          "sha": "e9178e49474c8065a93e4b5f5bd16682dccd6b69",
+          "lastSyncedAt": "2026-08-30T14:12:50.314Z"
         }
       ]
     }
