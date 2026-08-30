@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-30T14:28:09.744Z",
+  "updatedAt": "2026-08-30T14:28:17.348Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,14 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "e02fa02bf1a4367745daa8427e5d50a6e712dee3",
           "lastSyncedAt": "2026-08-30T14:28:09.744Z"
+        },
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "e62e4ae866a95d56f5e4954734e861610ee6422c",
+          "lastSyncedAt": "2026-08-30T14:28:17.348Z"
         }
       ]
     },
