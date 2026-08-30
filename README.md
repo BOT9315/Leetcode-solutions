@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 7 | 11 | 3 |
+| 22 | 7 | 12 | 3 |
 
 ## Activity
 
@@ -17,22 +17,22 @@
 | 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
-| 2026-08-30 | 16 |
+| 2026-08-30 | 17 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 38% |
-| String | 8 | 38% |
-| Two Pointers | 6 | 29% |
-| Math | 5 | 24% |
+| Array | 8 | 36% |
+| String | 8 | 36% |
+| Math | 6 | 27% |
+| Two Pointers | 6 | 27% |
+| Recursion | 4 | 18% |
 | Hash Table | 3 | 14% |
-| Recursion | 3 | 14% |
-| Divide and Conquer | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
-| Linked List | 2 | 10% |
-| Sorting | 2 | 10% |
+| Linked List | 3 | 14% |
+| Divide and Conquer | 2 | 9% |
+| Dynamic Programming | 2 | 9% |
+| Sorting | 2 | 9% |
 
 ## Topics
 
@@ -53,12 +53,12 @@
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 2 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
