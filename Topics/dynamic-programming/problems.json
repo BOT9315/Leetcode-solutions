@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-30T14:12:30.056Z",
+  "updatedAt": "2026-08-30T14:12:59.373Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,6 +23,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "ab5a5194f831c79b38b318ae768c07740b20fe7f",
           "lastSyncedAt": "2026-08-30T14:12:30.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "0010-regular-expression-matching/",
+      "readmePath": "0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0010-regular-expression-matching.py",
+          "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
+          "sha": "fb72b16c4b96ddfdda4131396bd85799fc31a2e8",
+          "lastSyncedAt": "2026-08-30T14:12:59.373Z"
         }
       ]
     }
