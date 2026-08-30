@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-30T14:29:15.492Z",
+  "updatedAt": "2026-08-30T14:35:56.427Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers.py",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.py",
+          "sha": "07b754fd7a4e9a5bc928b7b5b8a50d3df0009c7c",
+          "lastSyncedAt": "2026-08-30T14:35:56.427Z"
+        }
+      ]
+    },
     {
       "frontendId": "10",
       "title": "Regular Expression Matching",
