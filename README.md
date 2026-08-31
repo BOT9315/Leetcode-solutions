@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 12 | 16 | 3 |
+| 32 | 12 | 16 | 4 |
 
 ## Activity
 
@@ -18,20 +18,20 @@
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
-| 2026-08-31 | 9 |
+| 2026-08-31 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 39% |
-| Array | 11 | 35% |
-| Two Pointers | 10 | 32% |
-| Math | 8 | 26% |
-| Hash Table | 5 | 16% |
+| String | 13 | 41% |
+| Array | 11 | 34% |
+| Two Pointers | 10 | 31% |
+| Math | 8 | 25% |
+| Hash Table | 6 | 19% |
 | Linked List | 5 | 16% |
 | Recursion | 5 | 16% |
-| Sorting | 3 | 10% |
+| Sorting | 3 | 9% |
 | Divide and Conquer | 2 | 6% |
 | Dynamic Programming | 2 | 6% |
 
@@ -52,7 +52,7 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -62,10 +62,10 @@
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
