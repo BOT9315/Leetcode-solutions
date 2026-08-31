@@ -90,6 +90,7 @@
 | [0002-add-two-numbers](https://github.com/BOT9315/temp/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/BOT9315/temp/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/BOT9315/temp/tree/main/0013-roman-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,11 +104,13 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BOT9315/temp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/BOT9315/temp/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BOT9315/temp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/BOT9315/temp/tree/main/0013-roman-to-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
