@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T13:38:00.233Z",
+  "updatedAt": "2026-08-31T13:38:00.555Z",
   "problems": [
     {
       "frontendId": "1",
@@ -82,7 +82,7 @@
           "filename": "0014-longest-common-prefix.py",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "9c17d70772b1700218ac0570c33bbad703683e45",
-          "lastSyncedAt": "2026-08-31T13:38:00.233Z"
+          "lastSyncedAt": "2026-08-31T13:38:00.555Z"
         }
       ]
     },
