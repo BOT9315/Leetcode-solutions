@@ -115,6 +115,7 @@
 | [0012-integer-to-roman](https://github.com/BOT9315/temp/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/BOT9315/temp/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/BOT9315/temp/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/BOT9315/temp/tree/main/0022-generate-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +153,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BOT9315/temp/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BOT9315/temp/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BOT9315/temp/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
