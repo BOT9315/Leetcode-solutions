@@ -9,7 +9,7 @@
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 29 days | 3 days | 6 |
+| 29 days | 29 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
