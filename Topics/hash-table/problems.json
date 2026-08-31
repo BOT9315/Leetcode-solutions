@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-31T13:44:28.205Z",
+  "updatedAt": "2026-08-31T13:44:32.739Z",
   "problems": [
     {
       "frontendId": "1",
@@ -122,7 +122,7 @@
           "filename": "0030-substring-with-concatenation-of-all-words.py",
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
           "sha": "957a072873cf69c8f452ce3a93468557e939f398",
-          "lastSyncedAt": "2026-08-31T13:44:28.205Z"
+          "lastSyncedAt": "2026-08-31T13:44:32.739Z"
         }
       ]
     }
