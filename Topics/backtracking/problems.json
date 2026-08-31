@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-31T13:42:18.448Z",
+  "updatedAt": "2026-08-31T13:42:20.279Z",
   "problems": [
     {
       "frontendId": "17",
@@ -22,7 +22,7 @@
           "filename": "0017-letter-combinations-of-a-phone-number.py",
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py",
           "sha": "0c2276dac606590802b58ba8720658688881208a",
-          "lastSyncedAt": "2026-08-31T13:42:18.448Z"
+          "lastSyncedAt": "2026-08-31T13:42:20.279Z"
         }
       ]
     }
