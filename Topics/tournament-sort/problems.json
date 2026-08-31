@@ -4,7 +4,7 @@
     "slug": "tournament-sort",
     "name": "Tournament Sort"
   },
-  "updatedAt": "2026-08-30T14:28:44.314Z",
+  "updatedAt": "2026-08-31T13:40:00.789Z",
   "problems": [
     {
       "frontendId": "23",
@@ -22,7 +22,7 @@
           "filename": "0023-merge-k-sorted-lists.py",
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "65e361115d146fa3caa419fd6580ef8ebd01265e",
-          "lastSyncedAt": "2026-08-30T14:28:44.314Z"
+          "lastSyncedAt": "2026-08-31T13:40:00.789Z"
         }
       ]
     }
