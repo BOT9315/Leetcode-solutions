@@ -76,6 +76,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/BOT9315/temp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/BOT9315/temp/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/BOT9315/temp/tree/main/0014-longest-common-prefix/) | Easy |
+| [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BOT9315/temp/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/BOT9315/temp/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
 <!---LeetCode Topics End-->
