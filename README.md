@@ -40,7 +40,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 11 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -51,7 +51,7 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
@@ -63,7 +63,7 @@
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
