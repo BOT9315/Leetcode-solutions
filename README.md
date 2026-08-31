@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 11 | 15 | 3 |
+| 30 | 12 | 15 | 3 |
 
 ## Activity
 
@@ -18,16 +18,16 @@
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
-| 2026-08-31 | 7 |
+| 2026-08-31 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 38% |
-| String | 11 | 38% |
-| Two Pointers | 9 | 31% |
-| Math | 7 | 24% |
+| String | 12 | 40% |
+| Array | 11 | 37% |
+| Two Pointers | 10 | 33% |
+| Math | 7 | 23% |
 | Hash Table | 5 | 17% |
 | Linked List | 5 | 17% |
 | Recursion | 5 | 17% |
