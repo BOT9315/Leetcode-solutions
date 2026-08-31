@@ -3,51 +3,34 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 12 | 16 | 4 |
+| 33 | 12 | 17 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 29 days | 29 days | 6 |
+| 3 days | 3 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-1 | 1 |
-| 2026-07-2 | 1 |
-| 2026-07-3 | 1 |
-| 2026-07-4 | 1 |
-| 2026-07-5 | 1 |
-| 2026-07-6 | 1 |
-| 2026-07-7 | 1 |
-| 2026-07-8 | 1 |
-| 2026-07-9 | 1 |
-| 2026-07-10 | 1 |
-| 2026-07-11 | 1 |
-| 2026-07-12 | 1 |
-| 2026-07-13 | 1 |
-| 2026-07-14 | 1 |
-| 2026-07-15 | 1 |
-| 2026-07-16 | 1 |
-| 2026-07-17 | 1 |
 | 2026-08-23 | 1 |
 | 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
-| 2026-08-30 | 3 |
-| 2026-08-31 | 10 |
+| 2026-08-30 | 17 |
+| 2026-08-31 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 13 | 41% |
-| Array | 11 | 34% |
-| Two Pointers | 10 | 31% |
-| Math | 8 | 25% |
-| Hash Table | 6 | 19% |
-| Linked List | 5 | 16% |
-| Recursion | 5 | 16% |
+| String | 13 | 39% |
+| Array | 12 | 36% |
+| Two Pointers | 11 | 33% |
+| Math | 8 | 24% |
+| Hash Table | 6 | 18% |
+| Linked List | 5 | 15% |
+| Recursion | 5 | 15% |
 | Sorting | 3 | 9% |
 | Divide and Conquer | 2 | 6% |
 | Dynamic Programming | 2 | 6% |
@@ -56,7 +39,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -87,7 +70,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
