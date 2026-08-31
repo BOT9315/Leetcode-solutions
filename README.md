@@ -100,6 +100,7 @@
 | [0011-container-with-most-water](https://github.com/BOT9315/temp/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/BOT9315/temp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/BOT9315/temp/tree/main/0031-next-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [0011-container-with-most-water](https://github.com/BOT9315/temp/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BOT9315/temp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/BOT9315/temp/tree/main/0031-next-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
