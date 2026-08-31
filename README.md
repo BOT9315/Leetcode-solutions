@@ -3,13 +3,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 7 | 12 | 3 |
+| 27 | 10 | 14 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 5 |
+| 3 days | 3 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -18,27 +18,28 @@
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
+| 2026-08-31 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 36% |
-| String | 8 | 36% |
-| Math | 6 | 27% |
-| Two Pointers | 6 | 27% |
-| Recursion | 4 | 18% |
-| Hash Table | 3 | 14% |
-| Linked List | 3 | 14% |
-| Divide and Conquer | 2 | 9% |
-| Dynamic Programming | 2 | 9% |
-| Sorting | 2 | 9% |
+| Array | 10 | 37% |
+| String | 10 | 37% |
+| Two Pointers | 8 | 30% |
+| Math | 7 | 26% |
+| Linked List | 5 | 19% |
+| Recursion | 5 | 19% |
+| Hash Table | 4 | 15% |
+| Sorting | 3 | 11% |
+| Divide and Conquer | 2 | 7% |
+| Dynamic Programming | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -50,22 +51,23 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 10 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
