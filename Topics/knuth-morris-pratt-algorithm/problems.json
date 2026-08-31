@@ -4,7 +4,7 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-08-31T13:42:51.076Z",
+  "updatedAt": "2026-08-31T13:42:50.478Z",
   "problems": [
     {
       "frontendId": "28",
@@ -22,7 +22,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "e30a276a166eee150e50436cd08acfe0666bf6b7",
-          "lastSyncedAt": "2026-08-31T13:42:51.076Z"
+          "lastSyncedAt": "2026-08-31T13:42:50.478Z"
         }
       ]
     }
