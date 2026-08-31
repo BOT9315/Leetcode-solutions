@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 10 | 14 | 3 |
+| 28 | 11 | 14 | 3 |
 
 ## Activity
 
@@ -18,19 +18,19 @@
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
-| 2026-08-31 | 5 |
+| 2026-08-31 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 37% |
-| String | 10 | 37% |
-| Two Pointers | 8 | 30% |
-| Math | 7 | 26% |
-| Linked List | 5 | 19% |
-| Recursion | 5 | 19% |
-| Hash Table | 4 | 15% |
+| Array | 11 | 39% |
+| String | 10 | 36% |
+| Two Pointers | 9 | 32% |
+| Math | 7 | 25% |
+| Linked List | 5 | 18% |
+| Recursion | 5 | 18% |
+| Hash Table | 4 | 14% |
 | Sorting | 3 | 11% |
 | Divide and Conquer | 2 | 7% |
 | Dynamic Programming | 2 | 7% |
@@ -39,7 +39,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -67,7 +67,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
