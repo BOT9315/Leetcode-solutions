@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-30T14:11:54.111Z",
-  "problems": []
+  "updatedAt": "2026-08-31T13:43:51.208Z",
+  "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0029-divide-two-integers.py",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.py",
+          "sha": "775c5f95d9b7ef6675faed5cdebb204928e97053",
+          "lastSyncedAt": "2026-08-31T13:43:51.208Z"
+        }
+      ]
+    }
+  ]
 }
