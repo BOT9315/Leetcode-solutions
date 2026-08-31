@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 12 | 15 | 3 |
+| 31 | 12 | 16 | 3 |
 
 ## Activity
 
@@ -18,22 +18,22 @@
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
-| 2026-08-31 | 8 |
+| 2026-08-31 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 40% |
-| Array | 11 | 37% |
-| Two Pointers | 10 | 33% |
-| Math | 7 | 23% |
-| Hash Table | 5 | 17% |
-| Linked List | 5 | 17% |
-| Recursion | 5 | 17% |
+| String | 12 | 39% |
+| Array | 11 | 35% |
+| Two Pointers | 10 | 32% |
+| Math | 8 | 26% |
+| Hash Table | 5 | 16% |
+| Linked List | 5 | 16% |
+| Recursion | 5 | 16% |
 | Sorting | 3 | 10% |
-| Divide and Conquer | 2 | 7% |
-| Dynamic Programming | 2 | 7% |
+| Divide and Conquer | 2 | 6% |
+| Dynamic Programming | 2 | 6% |
 
 ## Topics
 
@@ -44,7 +44,8 @@
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
@@ -54,9 +55,10 @@
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
@@ -64,10 +66,12 @@
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 12 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
+| [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
