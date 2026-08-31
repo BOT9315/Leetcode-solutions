@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 11 | 14 | 3 |
+| 29 | 11 | 15 | 3 |
 
 ## Activity
 
@@ -18,20 +18,20 @@
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
-| 2026-08-31 | 6 |
+| 2026-08-31 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 39% |
-| String | 10 | 36% |
-| Two Pointers | 9 | 32% |
-| Math | 7 | 25% |
-| Linked List | 5 | 18% |
-| Recursion | 5 | 18% |
-| Hash Table | 4 | 14% |
-| Sorting | 3 | 11% |
+| Array | 11 | 38% |
+| String | 11 | 38% |
+| Two Pointers | 9 | 31% |
+| Math | 7 | 24% |
+| Hash Table | 5 | 17% |
+| Linked List | 5 | 17% |
+| Recursion | 5 | 17% |
+| Sorting | 3 | 10% |
 | Divide and Conquer | 2 | 7% |
 | Dynamic Programming | 2 | 7% |
 
@@ -63,11 +63,11 @@
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
