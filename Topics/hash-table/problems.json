@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-31T13:37:38.848Z",
+  "updatedAt": "2026-08-31T13:42:17.460Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.py",
           "sha": "15f2d33f3119a45c3fb6801dd0d7f8c84b4af240",
           "lastSyncedAt": "2026-08-31T13:37:38.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0017-letter-combinations-of-a-phone-number.py",
+          "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py",
+          "sha": "0c2276dac606590802b58ba8720658688881208a",
+          "lastSyncedAt": "2026-08-31T13:42:17.460Z"
         }
       ]
     }
