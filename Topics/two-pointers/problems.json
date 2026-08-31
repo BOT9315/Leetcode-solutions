@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-31T13:42:55.179Z",
+  "updatedAt": "2026-08-31T13:56:20.893Z",
   "problems": [
     {
       "frontendId": "5",
@@ -183,6 +183,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "e30a276a166eee150e50436cd08acfe0666bf6b7",
           "lastSyncedAt": "2026-08-31T13:42:55.179Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "0031-next-permutation/",
+      "readmePath": "0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0031-next-permutation.py",
+          "path": "0031-next-permutation/0031-next-permutation.py",
+          "sha": "afd559a76ea841f931ecc86b3cb8cbc017ccc741",
+          "lastSyncedAt": "2026-08-31T13:56:20.893Z"
         }
       ]
     },
