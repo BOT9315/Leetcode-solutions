@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-31T13:42:20.279Z",
+  "updatedAt": "2026-09-01T09:55:58.195Z",
   "problems": [
     {
       "frontendId": "17",
@@ -23,6 +23,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py",
           "sha": "0c2276dac606590802b58ba8720658688881208a",
           "lastSyncedAt": "2026-08-31T13:42:20.279Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0039-combination-sum.cpp",
+          "path": "0039-combination-sum/0039-combination-sum.cpp",
+          "sha": "457a73946bc89376cc07b4a4d30e7a0ac2de0ca0",
+          "lastSyncedAt": "2026-09-01T09:55:58.195Z"
         }
       ]
     }
