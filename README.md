@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 12 | 17 | 5 |
+| 41 | 13 | 23 | 5 |
 
 ## Activity
 
@@ -19,30 +19,30 @@
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
-| 2026-09-01 | 1 |
+| 2026-09-01 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 14 | 41% |
-| Array | 12 | 35% |
-| Two Pointers | 11 | 32% |
-| Math | 8 | 24% |
-| Hash Table | 6 | 18% |
-| Linked List | 5 | 15% |
-| Recursion | 5 | 15% |
-| Dynamic Programming | 3 | 9% |
-| Sorting | 3 | 9% |
-| Stack | 3 | 9% |
+| Array | 18 | 44% |
+| String | 15 | 37% |
+| Two Pointers | 11 | 27% |
+| Math | 8 | 20% |
+| Hash Table | 7 | 17% |
+| Linked List | 5 | 12% |
+| Recursion | 5 | 12% |
+| Binary Search | 4 | 10% |
+| Backtracking | 3 | 7% |
+| Dynamic Programming | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
-| [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Array](Topics/array/) | 18 |
+| [Backtracking](Topics/backtracking/) | 3 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -53,20 +53,20 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 8 |
-| [Matrix](Topics/matrix/) | 0 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 14 |
+| [String](Topics/string/) | 15 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
