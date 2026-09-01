@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 13 | 23 | 6 |
+| 43 | 13 | 23 | 7 |
 
 ## Activity
 
@@ -19,28 +19,28 @@
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
-| 2026-09-01 | 9 |
+| 2026-09-01 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 45% |
-| String | 15 | 36% |
-| Two Pointers | 11 | 26% |
+| Array | 20 | 47% |
+| String | 15 | 35% |
+| Two Pointers | 12 | 28% |
 | Hash Table | 8 | 19% |
 | Math | 8 | 19% |
 | Linked List | 5 | 12% |
 | Recursion | 5 | 12% |
-| Binary Search | 4 | 10% |
-| Backtracking | 3 | 7% |
-| Dynamic Programming | 3 | 7% |
+| Binary Search | 4 | 9% |
+| Dynamic Programming | 4 | 9% |
+| Stack | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 19 |
+| [Array](Topics/array/) | 20 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -50,7 +50,7 @@
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 8 |
@@ -65,13 +65,13 @@
 | [Recursion](Topics/recursion/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 3 |
+| [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 15 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
