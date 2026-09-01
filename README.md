@@ -85,10 +85,12 @@
 | [0014-longest-common-prefix](https://github.com/BOT9315/temp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/BOT9315/temp/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/BOT9315/temp/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/BOT9315/temp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BOT9315/temp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/BOT9315/temp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
