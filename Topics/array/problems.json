@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T13:56:20.893Z",
+  "updatedAt": "2026-09-01T09:53:35.536Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "0031-next-permutation/0031-next-permutation.py",
           "sha": "afd559a76ea841f931ecc86b3cb8cbc017ccc741",
           "lastSyncedAt": "2026-08-31T13:56:20.893Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0033-search-in-rotated-sorted-array.cpp",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
+          "sha": "ff3afbed807502b6fb0709c6a2790a3710be0a33",
+          "lastSyncedAt": "2026-09-01T09:53:35.536Z"
         }
       ]
     },
