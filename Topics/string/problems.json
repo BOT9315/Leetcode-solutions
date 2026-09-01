@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-01T09:52:12.459Z",
+  "updatedAt": "2026-09-01T09:55:35.377Z",
   "problems": [
     {
       "frontendId": "3",
@@ -271,6 +271,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "7185297c71805ad66a2978babe43fd81efd8147f",
           "lastSyncedAt": "2026-09-01T09:52:12.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "problemName": "0038-count-and-say",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+      "folderPath": "0038-count-and-say/",
+      "readmePath": "0038-count-and-say/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0038-count-and-say.cpp",
+          "path": "0038-count-and-say/0038-count-and-say.cpp",
+          "sha": "9f7124b0c70efc5f7fca0e011f1943c3f8bd20b1",
+          "lastSyncedAt": "2026-09-01T09:55:35.377Z"
         }
       ]
     },
