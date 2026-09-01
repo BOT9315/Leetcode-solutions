@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-01T09:52:12.389Z",
+  "updatedAt": "2026-09-01T09:52:12.255Z",
   "problems": [
     {
       "frontendId": "20",
@@ -50,7 +50,7 @@
           "filename": "0032-longest-valid-parentheses.py",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "7185297c71805ad66a2978babe43fd81efd8147f",
-          "lastSyncedAt": "2026-09-01T09:52:12.389Z"
+          "lastSyncedAt": "2026-09-01T09:52:12.255Z"
         }
       ]
     },
