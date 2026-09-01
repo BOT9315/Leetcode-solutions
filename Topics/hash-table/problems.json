@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-31T13:44:32.739Z",
+  "updatedAt": "2026-09-01T09:54:33.039Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,6 +123,26 @@
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
           "sha": "957a072873cf69c8f452ce3a93468557e939f398",
           "lastSyncedAt": "2026-08-31T13:44:32.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0036-valid-sudoku.py",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.py",
+          "sha": "9d45ec625d51b0e72f27af0510ab3501d0006ab0",
+          "lastSyncedAt": "2026-09-01T09:54:33.039Z"
         }
       ]
     }
