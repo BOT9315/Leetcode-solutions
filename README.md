@@ -3,13 +3,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 12 | 17 | 4 |
+| 34 | 12 | 17 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 6 |
+| 4 days | 4 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -19,21 +19,22 @@
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
+| 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 13 | 39% |
-| Array | 12 | 36% |
-| Two Pointers | 11 | 33% |
+| String | 14 | 41% |
+| Array | 12 | 35% |
+| Two Pointers | 11 | 32% |
 | Math | 8 | 24% |
 | Hash Table | 6 | 18% |
 | Linked List | 5 | 15% |
 | Recursion | 5 | 15% |
+| Dynamic Programming | 3 | 9% |
 | Sorting | 3 | 9% |
-| Divide and Conquer | 2 | 6% |
-| Dynamic Programming | 2 | 6% |
+| Stack | 3 | 9% |
 
 ## Topics
 
@@ -46,10 +47,10 @@
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 6 |
@@ -64,8 +65,8 @@
 | [Recursion](Topics/recursion/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 13 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 14 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
