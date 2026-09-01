@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T09:55:58.195Z",
+  "updatedAt": "2026-09-01T09:56:18.000Z",
   "problems": [
     {
       "frontendId": "1",
@@ -302,7 +302,7 @@
           "filename": "0039-combination-sum.cpp",
           "path": "0039-combination-sum/0039-combination-sum.cpp",
           "sha": "457a73946bc89376cc07b4a4d30e7a0ac2de0ca0",
-          "lastSyncedAt": "2026-09-01T09:55:58.195Z"
+          "lastSyncedAt": "2026-09-01T09:56:18.000Z"
         }
       ]
     },
