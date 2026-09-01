@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-31T13:44:32.739Z",
+  "updatedAt": "2026-09-01T09:51:22.861Z",
   "problems": [
     {
       "frontendId": "3",
@@ -251,6 +251,26 @@
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
           "sha": "957a072873cf69c8f452ce3a93468557e939f398",
           "lastSyncedAt": "2026-08-31T13:44:32.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0032-longest-valid-parentheses.py",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
+          "sha": "7185297c71805ad66a2978babe43fd81efd8147f",
+          "lastSyncedAt": "2026-09-01T09:51:22.861Z"
         }
       ]
     },
