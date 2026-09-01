@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-01T09:55:35.377Z",
+  "updatedAt": "2026-09-01T10:09:02.663Z",
   "problems": [
     {
       "frontendId": "3",
@@ -291,6 +291,26 @@
           "path": "0038-count-and-say/0038-count-and-say.cpp",
           "sha": "9f7124b0c70efc5f7fca0e011f1943c3f8bd20b1",
           "lastSyncedAt": "2026-09-01T09:55:35.377Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0043-multiply-strings.py",
+          "path": "0043-multiply-strings/0043-multiply-strings.py",
+          "sha": "0ecf108403ad502d51d44cdfc561a930e63f39bc",
+          "lastSyncedAt": "2026-09-01T10:09:02.663Z"
         }
       ]
     },
