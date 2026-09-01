@@ -3,18 +3,33 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 13 | 23 | 5 |
+| 42 | 13 | 23 | 6 |
 
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 4 days | 4 days | 7 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-08-23 | 1 |
+| 2026-08-24 | 1 |
+| 2026-08-26 | 1 |
+| 2026-08-29 | 2 |
+| 2026-08-30 | 17 |
+| 2026-08-31 | 11 |
+| 2026-09-01 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 44% |
-| String | 15 | 37% |
-| Two Pointers | 11 | 27% |
-| Math | 8 | 20% |
-| Hash Table | 7 | 17% |
+| Array | 19 | 45% |
+| String | 15 | 36% |
+| Two Pointers | 11 | 26% |
+| Hash Table | 8 | 19% |
+| Math | 8 | 19% |
 | Linked List | 5 | 12% |
 | Recursion | 5 | 12% |
 | Binary Search | 4 | 10% |
@@ -25,7 +40,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -38,7 +53,7 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
