@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-31T13:38:49.075Z",
+  "updatedAt": "2026-09-02T16:12:46.593Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,6 +63,26 @@
           "path": "0018-4sum/0018-4sum.py",
           "sha": "b718ebd64765df9d2748dcfea9b834607f18eee0",
           "lastSyncedAt": "2026-08-31T13:38:49.075Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "problemName": "0047-permutations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+      "folderPath": "0047-permutations-ii/",
+      "readmePath": "0047-permutations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0047-permutations-ii.py",
+          "path": "0047-permutations-ii/0047-permutations-ii.py",
+          "sha": "69c36d2901931b6ec3f6819f1d2931b5461312c4",
+          "lastSyncedAt": "2026-09-02T16:12:46.593Z"
         }
       ]
     }
