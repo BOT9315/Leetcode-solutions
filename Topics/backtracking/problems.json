@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-02T16:12:46.593Z",
+  "updatedAt": "2026-09-02T16:21:41.175Z",
   "problems": [
     {
       "frontendId": "17",
@@ -103,6 +103,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.py",
           "sha": "69c36d2901931b6ec3f6819f1d2931b5461312c4",
           "lastSyncedAt": "2026-09-02T16:12:46.593Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0051-n-queens.py",
+          "path": "0051-n-queens/0051-n-queens.py",
+          "sha": "30ce45687aeb66026fa4d4e94653c8edfe8984a4",
+          "lastSyncedAt": "2026-09-02T16:21:41.175Z"
         }
       ]
     }
