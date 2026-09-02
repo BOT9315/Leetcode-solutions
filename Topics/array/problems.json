@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T16:13:15.310Z",
+  "updatedAt": "2026-09-02T16:21:41.175Z",
   "problems": [
     {
       "frontendId": "1",
@@ -463,6 +463,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.py",
           "sha": "743c12d3605ba218199ffd65783f00d3295a11f6",
           "lastSyncedAt": "2026-09-02T16:13:15.310Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0051-n-queens.py",
+          "path": "0051-n-queens/0051-n-queens.py",
+          "sha": "30ce45687aeb66026fa4d4e94653c8edfe8984a4",
+          "lastSyncedAt": "2026-09-02T16:21:41.175Z"
         }
       ]
     },
