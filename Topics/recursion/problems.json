@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-31T13:39:37.526Z",
+  "updatedAt": "2026-09-02T16:12:08.851Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,6 +83,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py",
           "sha": "3913ceb61210ee28f1cc692a798e4525bfa541ce",
           "lastSyncedAt": "2026-08-30T14:29:15.492Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "b22bc1ad308584fec8d4000147aa0ffa177e0126",
+          "lastSyncedAt": "2026-09-02T16:12:08.851Z"
         }
       ]
     }
