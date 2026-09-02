@@ -4,7 +4,7 @@
     "slug": "algorithm-x",
     "name": "Algorithm X"
   },
-  "updatedAt": "2026-09-02T16:21:41.175Z",
+  "updatedAt": "2026-09-02T16:22:22.008Z",
   "problems": [
     {
       "frontendId": "51",
@@ -23,6 +23,26 @@
           "path": "0051-n-queens/0051-n-queens.py",
           "sha": "30ce45687aeb66026fa4d4e94653c8edfe8984a4",
           "lastSyncedAt": "2026-09-02T16:21:41.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "52",
+      "title": "N-Queens II",
+      "slug": "n-queens-ii",
+      "problemName": "0052-n-queens-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+      "folderPath": "0052-n-queens-ii/",
+      "readmePath": "0052-n-queens-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0052-n-queens-ii.py",
+          "path": "0052-n-queens-ii/0052-n-queens-ii.py",
+          "sha": "c4f19ac35d117e610fc5123b88d6c3da21047c6f",
+          "lastSyncedAt": "2026-09-02T16:22:22.008Z"
         }
       ]
     }
