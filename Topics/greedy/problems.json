@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-02T16:12:08.851Z",
+  "updatedAt": "2026-09-02T16:12:22.935Z",
   "problems": [
     {
       "frontendId": "11",
@@ -43,6 +43,26 @@
           "path": "0044-wildcard-matching/0044-wildcard-matching.py",
           "sha": "b22bc1ad308584fec8d4000147aa0ffa177e0126",
           "lastSyncedAt": "2026-09-02T16:12:08.851Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "0045-jump-game-ii/",
+      "readmePath": "0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0045-jump-game-ii.py",
+          "path": "0045-jump-game-ii/0045-jump-game-ii.py",
+          "sha": "276f88c209e149d83e25e13465a99e1acf36ec04",
+          "lastSyncedAt": "2026-09-02T16:12:22.935Z"
         }
       ]
     }
