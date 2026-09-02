@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 13 | 29 | 10 |
+| 53 | 13 | 30 | 10 |
 
 ## Activity
 
@@ -20,29 +20,29 @@
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
-| 2026-09-02 | 9 |
+| 2026-09-02 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 50% |
-| String | 17 | 33% |
+| Array | 27 | 51% |
+| String | 17 | 32% |
 | Two Pointers | 12 | 23% |
 | Math | 10 | 19% |
 | Hash Table | 9 | 17% |
 | Backtracking | 7 | 13% |
+| Dynamic Programming | 7 | 13% |
 | Recursion | 7 | 13% |
-| Dynamic Programming | 6 | 12% |
-| Linked List | 5 | 10% |
-| Sorting | 5 | 10% |
+| Linked List | 5 | 9% |
+| Sorting | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -51,8 +51,8 @@
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 9 |
