@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 13 | 28 | 8 |
+| 50 | 13 | 29 | 8 |
 
 ## Activity
 
@@ -20,19 +20,19 @@
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
-| 2026-09-02 | 6 |
+| 2026-09-02 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 51% |
-| String | 17 | 35% |
+| Array | 25 | 50% |
+| String | 17 | 34% |
 | Two Pointers | 12 | 24% |
+| Math | 10 | 20% |
 | Hash Table | 9 | 18% |
-| Math | 9 | 18% |
+| Recursion | 7 | 14% |
 | Dynamic Programming | 6 | 12% |
-| Recursion | 6 | 12% |
 | Backtracking | 5 | 10% |
 | Linked List | 5 | 10% |
 | Sorting | 5 | 10% |
@@ -60,11 +60,11 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
