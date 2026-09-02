@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 13 | 29 | 8 |
+| 51 | 13 | 29 | 9 |
 
 ## Activity
 
@@ -20,20 +20,20 @@
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
-| 2026-09-02 | 7 |
+| 2026-09-02 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 50% |
-| String | 17 | 34% |
+| Array | 26 | 51% |
+| String | 17 | 33% |
 | Two Pointers | 12 | 24% |
 | Math | 10 | 20% |
 | Hash Table | 9 | 18% |
 | Recursion | 7 | 14% |
+| Backtracking | 6 | 12% |
 | Dynamic Programming | 6 | 12% |
-| Backtracking | 5 | 10% |
 | Linked List | 5 | 10% |
 | Sorting | 5 | 10% |
 
@@ -41,8 +41,9 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
-| [Backtracking](Topics/backtracking/) | 5 |
+| [Algorithm X](Topics/algorithm-x/) | 1 |
+| [Array](Topics/array/) | 26 |
+| [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
