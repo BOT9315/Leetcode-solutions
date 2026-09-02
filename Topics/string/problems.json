@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-02T16:12:08.851Z",
+  "updatedAt": "2026-09-02T16:13:15.310Z",
   "problems": [
     {
       "frontendId": "3",
@@ -331,6 +331,26 @@
           "path": "0044-wildcard-matching/0044-wildcard-matching.py",
           "sha": "b22bc1ad308584fec8d4000147aa0ffa177e0126",
           "lastSyncedAt": "2026-09-02T16:12:08.851Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "743c12d3605ba218199ffd65783f00d3295a11f6",
+          "lastSyncedAt": "2026-09-02T16:13:15.310Z"
         }
       ]
     },
