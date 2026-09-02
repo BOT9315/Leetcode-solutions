@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-02T16:12:46.593Z",
+  "updatedAt": "2026-09-02T16:13:15.310Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.py",
           "sha": "69c36d2901931b6ec3f6819f1d2931b5461312c4",
           "lastSyncedAt": "2026-09-02T16:12:46.593Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "743c12d3605ba218199ffd65783f00d3295a11f6",
+          "lastSyncedAt": "2026-09-02T16:13:15.310Z"
         }
       ]
     }
