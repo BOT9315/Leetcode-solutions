@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-01T10:02:33.804Z",
+  "updatedAt": "2026-09-02T16:13:15.310Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "0041-first-missing-positive/0041-first-missing-positive.py",
           "sha": "ca3338c749633ac71e75bfc8ebf2cfc275a19cd9",
           "lastSyncedAt": "2026-09-01T10:02:33.804Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "743c12d3605ba218199ffd65783f00d3295a11f6",
+          "lastSyncedAt": "2026-09-02T16:13:15.310Z"
         }
       ]
     }
