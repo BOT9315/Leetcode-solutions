@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-30T14:26:32.692Z",
+  "updatedAt": "2026-09-02T16:12:08.851Z",
   "problems": [
     {
       "frontendId": "11",
@@ -23,6 +23,26 @@
           "path": "0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "e9178e49474c8065a93e4b5f5bd16682dccd6b69",
           "lastSyncedAt": "2026-08-30T14:26:32.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "b22bc1ad308584fec8d4000147aa0ffa177e0126",
+          "lastSyncedAt": "2026-09-02T16:12:08.851Z"
         }
       ]
     }
