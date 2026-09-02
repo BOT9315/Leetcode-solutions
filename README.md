@@ -3,13 +3,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 13 | 23 | 7 |
+| 44 | 13 | 23 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 7 |
+| 5 days | 5 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,20 +20,21 @@
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
+| 2026-09-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 47% |
-| String | 15 | 35% |
-| Two Pointers | 12 | 28% |
-| Hash Table | 8 | 19% |
-| Math | 8 | 19% |
-| Linked List | 5 | 12% |
-| Recursion | 5 | 12% |
+| Array | 20 | 45% |
+| String | 16 | 36% |
+| Two Pointers | 12 | 27% |
+| Hash Table | 8 | 18% |
+| Math | 8 | 18% |
+| Recursion | 6 | 14% |
+| Dynamic Programming | 5 | 11% |
+| Linked List | 5 | 11% |
 | Binary Search | 4 | 9% |
-| Dynamic Programming | 4 | 9% |
 | Stack | 4 | 9% |
 
 ## Topics
@@ -50,23 +51,25 @@
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Recursion](Topics/recursion/) | 4 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Recursion](Topics/recursion/) | 5 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
