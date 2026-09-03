@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 13 | 33 | 10 |
+| 57 | 13 | 34 | 10 |
 
 ## Activity
 
@@ -21,20 +21,20 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
-| 2026-09-03 | 3 |
+| 2026-09-03 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 54% |
+| Array | 31 | 54% |
 | String | 17 | 30% |
 | Two Pointers | 12 | 21% |
 | Math | 10 | 18% |
 | Hash Table | 9 | 16% |
 | Dynamic Programming | 8 | 14% |
-| Backtracking | 7 | 13% |
-| Recursion | 7 | 13% |
+| Backtracking | 7 | 12% |
+| Recursion | 7 | 12% |
 | Sorting | 6 | 11% |
 | Linked List | 5 | 9% |
 
@@ -43,7 +43,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
