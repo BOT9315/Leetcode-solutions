@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-03T16:56:34.589Z",
+  "updatedAt": "2026-09-03T16:57:37.213Z",
   "problems": [
     {
       "frontendId": "1",
@@ -563,6 +563,26 @@
           "path": "0056-merge-intervals/0056-merge-intervals.py",
           "sha": "e89b809c2d08c5dba71711bc4370333b7526afb7",
           "lastSyncedAt": "2026-09-03T16:56:34.589Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "57",
+      "title": "Insert Interval",
+      "slug": "insert-interval",
+      "problemName": "0057-insert-interval",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+      "folderPath": "0057-insert-interval/",
+      "readmePath": "0057-insert-interval/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0057-insert-interval.py",
+          "path": "0057-insert-interval/0057-insert-interval.py",
+          "sha": "a4e68090d886853b5d86512de1d3b4a1249d9b8e",
+          "lastSyncedAt": "2026-09-03T16:57:37.213Z"
         }
       ]
     },
