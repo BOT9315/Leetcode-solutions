@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-03T17:02:40.917Z",
+  "updatedAt": "2026-09-03T17:05:21.511Z",
   "problems": [
     {
       "frontendId": "2",
@@ -211,6 +211,26 @@
           "path": "0060-permutation-sequence/0060-permutation-sequence.py",
           "sha": "a8f9b2b9a3c46b6bfdb2e007488b25a9f9f259bb",
           "lastSyncedAt": "2026-09-03T17:02:40.917Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0062-unique-paths.py",
+          "path": "0062-unique-paths/0062-unique-paths.py",
+          "sha": "7dcb4ef6a76395606a6934cc09a1a69adf23ee4a",
+          "lastSyncedAt": "2026-09-03T17:05:21.511Z"
         }
       ]
     },
