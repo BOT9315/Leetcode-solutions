@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 13 | 31 | 10 |
+| 55 | 13 | 32 | 10 |
 
 ## Activity
 
@@ -21,19 +21,19 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
-| 2026-09-03 | 1 |
+| 2026-09-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 52% |
+| Array | 29 | 53% |
 | String | 17 | 31% |
 | Two Pointers | 12 | 22% |
-| Math | 10 | 19% |
-| Hash Table | 9 | 17% |
+| Math | 10 | 18% |
+| Hash Table | 9 | 16% |
+| Dynamic Programming | 8 | 15% |
 | Backtracking | 7 | 13% |
-| Dynamic Programming | 7 | 13% |
 | Recursion | 7 | 13% |
 | Linked List | 5 | 9% |
 | Sorting | 5 | 9% |
@@ -43,7 +43,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 29 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -53,9 +53,9 @@
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
