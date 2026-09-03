@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-03T17:01:37.142Z",
+  "updatedAt": "2026-09-03T17:11:34.434Z",
   "problems": [
     {
       "frontendId": "36",
@@ -83,6 +83,26 @@
           "path": "0059-spiral-matrix-ii/0059-spiral-matrix-ii.py",
           "sha": "eecec67038c56abf84cb365e243c406da06f2c61",
           "lastSyncedAt": "2026-09-03T17:01:37.142Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "problemName": "0063-unique-paths-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "folderPath": "0063-unique-paths-ii/",
+      "readmePath": "0063-unique-paths-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0063-unique-paths-ii.py",
+          "path": "0063-unique-paths-ii/0063-unique-paths-ii.py",
+          "sha": "80839aece228d6c23f21a6ce071645be4a3b45db",
+          "lastSyncedAt": "2026-09-03T17:11:34.434Z"
         }
       ]
     }
