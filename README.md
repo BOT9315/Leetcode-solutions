@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 14 | 36 | 11 |
+| 62 | 14 | 37 | 11 |
 
 ## Activity
 
@@ -21,18 +21,18 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
-| 2026-09-03 | 8 |
+| 2026-09-03 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 32 | 52% |
-| String | 18 | 30% |
+| String | 18 | 29% |
 | Two Pointers | 13 | 21% |
-| Math | 11 | 18% |
+| Math | 12 | 19% |
+| Dynamic Programming | 9 | 15% |
 | Hash Table | 9 | 15% |
-| Dynamic Programming | 8 | 13% |
 | Recursion | 8 | 13% |
 | Backtracking | 7 | 11% |
 | Linked List | 6 | 10% |
@@ -51,9 +51,10 @@
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 9 |
@@ -62,7 +63,7 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
