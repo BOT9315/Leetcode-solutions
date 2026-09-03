@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-03T16:57:56.281Z",
+  "updatedAt": "2026-09-03T17:01:24.501Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,6 +583,26 @@
           "path": "0057-insert-interval/0057-insert-interval.py",
           "sha": "a4e68090d886853b5d86512de1d3b4a1249d9b8e",
           "lastSyncedAt": "2026-09-03T16:57:56.281Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "59",
+      "title": "Spiral Matrix II",
+      "slug": "spiral-matrix-ii",
+      "problemName": "0059-spiral-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-ii/",
+      "folderPath": "0059-spiral-matrix-ii/",
+      "readmePath": "0059-spiral-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0059-spiral-matrix-ii.py",
+          "path": "0059-spiral-matrix-ii/0059-spiral-matrix-ii.py",
+          "sha": "eecec67038c56abf84cb365e243c406da06f2c61",
+          "lastSyncedAt": "2026-09-03T17:01:24.501Z"
         }
       ]
     },
