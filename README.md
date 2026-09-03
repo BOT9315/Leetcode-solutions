@@ -3,27 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 13 | 30 | 10 |
+| 54 | 13 | 31 | 10 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 8 |
+| 6 days | 6 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-3 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
-| 2026-08-23 | 1 |
 | 2026-08-23 | 1 |
 | 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
@@ -32,14 +21,15 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
+| 2026-09-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 51% |
-| String | 17 | 32% |
-| Two Pointers | 12 | 23% |
+| Array | 28 | 52% |
+| String | 17 | 31% |
+| Two Pointers | 12 | 22% |
 | Math | 10 | 19% |
 | Hash Table | 9 | 17% |
 | Backtracking | 7 | 13% |
@@ -53,7 +43,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -73,11 +63,11 @@
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 4 |
