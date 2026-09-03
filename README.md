@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 57 | 13 | 34 | 10 |
+| 58 | 14 | 34 | 10 |
 
 ## Activity
 
@@ -21,21 +21,21 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
-| 2026-09-03 | 4 |
+| 2026-09-03 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 54% |
-| String | 17 | 30% |
+| Array | 31 | 53% |
+| String | 18 | 31% |
 | Two Pointers | 12 | 21% |
-| Math | 10 | 18% |
+| Math | 10 | 17% |
 | Hash Table | 9 | 16% |
 | Dynamic Programming | 8 | 14% |
 | Backtracking | 7 | 12% |
 | Recursion | 7 | 12% |
-| Sorting | 6 | 11% |
+| Sorting | 6 | 10% |
 | Linked List | 5 | 9% |
 
 ## Topics
@@ -72,7 +72,7 @@
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
