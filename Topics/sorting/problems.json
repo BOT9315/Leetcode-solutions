@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-02T16:13:15.310Z",
+  "updatedAt": "2026-09-03T16:56:34.589Z",
   "problems": [
     {
       "frontendId": "15",
@@ -103,6 +103,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.py",
           "sha": "743c12d3605ba218199ffd65783f00d3295a11f6",
           "lastSyncedAt": "2026-09-02T16:13:15.310Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0056-merge-intervals.py",
+          "path": "0056-merge-intervals/0056-merge-intervals.py",
+          "sha": "e89b809c2d08c5dba71711bc4370333b7526afb7",
+          "lastSyncedAt": "2026-09-03T16:56:34.589Z"
         }
       ]
     }
