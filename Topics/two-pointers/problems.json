@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-01T10:03:23.111Z",
+  "updatedAt": "2026-09-03T17:02:57.069Z",
   "problems": [
     {
       "frontendId": "5",
@@ -223,6 +223,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "431d9442d8f33983521de4ca7190f6a8d1a435ef",
           "lastSyncedAt": "2026-09-01T10:03:23.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0061-rotate-list.py",
+          "path": "0061-rotate-list/0061-rotate-list.py",
+          "sha": "f2293275496388475a767969d6541bf4ff92cc97",
+          "lastSyncedAt": "2026-09-03T17:02:57.069Z"
         }
       ]
     },
