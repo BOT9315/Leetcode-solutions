@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-02T16:13:55.423Z",
+  "updatedAt": "2026-09-03T17:02:13.405Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +123,26 @@
           "path": "0050-powx-n/0050-powx-n.py",
           "sha": "3481980dce19650552f1443128a02a11d231fdb3",
           "lastSyncedAt": "2026-09-02T16:13:55.423Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "problemName": "0060-permutation-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+      "folderPath": "0060-permutation-sequence/",
+      "readmePath": "0060-permutation-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0060-permutation-sequence.py",
+          "path": "0060-permutation-sequence/0060-permutation-sequence.py",
+          "sha": "a8f9b2b9a3c46b6bfdb2e007488b25a9f9f259bb",
+          "lastSyncedAt": "2026-09-03T17:02:13.405Z"
         }
       ]
     }
