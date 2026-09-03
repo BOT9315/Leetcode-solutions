@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-03T17:11:34.434Z",
+  "updatedAt": "2026-09-03T17:26:34.653Z",
   "problems": [
     {
       "frontendId": "1",
@@ -622,7 +622,7 @@
           "filename": "0063-unique-paths-ii.py",
           "path": "0063-unique-paths-ii/0063-unique-paths-ii.py",
           "sha": "80839aece228d6c23f21a6ce071645be4a3b45db",
-          "lastSyncedAt": "2026-09-03T17:11:34.434Z"
+          "lastSyncedAt": "2026-09-03T17:26:34.653Z"
         }
       ]
     },
