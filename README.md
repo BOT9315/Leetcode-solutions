@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 14 | 35 | 10 |
+| 60 | 14 | 35 | 11 |
 
 ## Activity
 
@@ -21,20 +21,20 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
-| 2026-09-03 | 6 |
+| 2026-09-03 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 54% |
-| String | 18 | 31% |
+| Array | 32 | 53% |
+| String | 18 | 30% |
 | Two Pointers | 12 | 20% |
-| Math | 10 | 17% |
+| Math | 11 | 18% |
 | Hash Table | 9 | 15% |
-| Dynamic Programming | 8 | 14% |
+| Dynamic Programming | 8 | 13% |
+| Recursion | 8 | 13% |
 | Backtracking | 7 | 12% |
-| Recursion | 7 | 12% |
 | Sorting | 6 | 10% |
 | Linked List | 5 | 8% |
 
@@ -62,12 +62,12 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
