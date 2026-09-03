@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 14 | 34 | 10 |
+| 59 | 14 | 35 | 10 |
 
 ## Activity
 
@@ -21,29 +21,29 @@
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
-| 2026-09-03 | 5 |
+| 2026-09-03 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 53% |
+| Array | 32 | 54% |
 | String | 18 | 31% |
-| Two Pointers | 12 | 21% |
+| Two Pointers | 12 | 20% |
 | Math | 10 | 17% |
-| Hash Table | 9 | 16% |
+| Hash Table | 9 | 15% |
 | Dynamic Programming | 8 | 14% |
 | Backtracking | 7 | 12% |
 | Recursion | 7 | 12% |
 | Sorting | 6 | 10% |
-| Linked List | 5 | 9% |
+| Linked List | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -63,12 +63,12 @@
 | [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 4 |
