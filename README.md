@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 15 | 38 | 12 |
+| 66 | 15 | 38 | 13 |
 
 ## Activity
 
@@ -22,14 +22,14 @@
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
-| 2026-09-04 | 2 |
+| 2026-09-04 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 52% |
-| String | 19 | 29% |
+| Array | 35 | 53% |
+| String | 20 | 30% |
 | Math | 13 | 20% |
 | Two Pointers | 13 | 20% |
 | Dynamic Programming | 10 | 15% |
@@ -44,7 +44,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -70,11 +70,11 @@
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Simulation](Topics/simulation/) | 3 |
+| [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 20 |
+| [String](Topics/string/) | 21 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
