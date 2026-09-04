@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 66 | 15 | 38 | 13 |
+| 67 | 16 | 38 | 13 |
 
 ## Activity
 
@@ -22,20 +22,20 @@
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
-| 2026-09-04 | 3 |
+| 2026-09-04 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 53% |
+| Array | 35 | 52% |
 | String | 20 | 30% |
-| Math | 13 | 20% |
-| Two Pointers | 13 | 20% |
+| Math | 14 | 21% |
+| Two Pointers | 13 | 19% |
 | Dynamic Programming | 10 | 15% |
-| Hash Table | 9 | 14% |
+| Hash Table | 9 | 13% |
 | Recursion | 8 | 12% |
-| Backtracking | 7 | 11% |
+| Backtracking | 7 | 10% |
 | Linked List | 6 | 9% |
 | Sorting | 6 | 9% |
 
@@ -46,7 +46,7 @@
 | [Algorithm X](Topics/algorithm-x/) | 2 |
 | [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 7 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -64,10 +64,11 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Newton's Method](Topics/newtons-method/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 4 |
