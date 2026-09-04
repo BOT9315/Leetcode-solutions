@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-04T08:48:45.371Z",
+  "updatedAt": "2026-09-04T08:49:11.660Z",
   "problems": [
     {
       "frontendId": "2",
@@ -271,6 +271,26 @@
           "path": "0069-sqrtx/0069-sqrtx.py",
           "sha": "1be06a54dceececaa3a18976a1a2205f24cbcad8",
           "lastSyncedAt": "2026-09-04T08:48:45.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0070-climbing-stairs.py",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.py",
+          "sha": "af7699f71f5061abe0349e4941f9af700bacb2da",
+          "lastSyncedAt": "2026-09-04T08:49:11.660Z"
         }
       ]
     },
