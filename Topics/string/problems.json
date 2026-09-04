@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-03T16:58:34.187Z",
+  "updatedAt": "2026-09-04T08:45:41.484Z",
   "problems": [
     {
       "frontendId": "3",
@@ -371,6 +371,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.py",
           "sha": "40b9f08a90544390d4ab129cdeb015aac83fd621",
           "lastSyncedAt": "2026-09-03T16:58:34.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "65",
+      "title": "Valid Number",
+      "slug": "valid-number",
+      "problemName": "0065-valid-number",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
+      "folderPath": "0065-valid-number/",
+      "readmePath": "0065-valid-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0065-valid-number.java",
+          "path": "0065-valid-number/0065-valid-number.java",
+          "sha": "8c4d1106f4ff9f4e39237654dac444b160bf6bcf",
+          "lastSyncedAt": "2026-09-04T08:45:41.484Z"
         }
       ]
     },
