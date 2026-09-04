@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "newtons-method",
+    "name": "Newton's Method"
+  },
+  "updatedAt": "2026-09-04T08:48:45.371Z",
+  "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "0069-sqrtx/0069-sqrtx.py",
+          "sha": "1be06a54dceececaa3a18976a1a2205f24cbcad8",
+          "lastSyncedAt": "2026-09-04T08:48:45.371Z"
+        }
+      ]
+    }
+  ]
+}
