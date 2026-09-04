@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-04T08:46:39.641Z",
+  "updatedAt": "2026-09-04T08:47:48.015Z",
   "problems": [
     {
       "frontendId": "1",
@@ -643,6 +643,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "4decf4ba0915831864b166a0fe214e008751cd20",
           "lastSyncedAt": "2026-09-04T08:46:39.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "68",
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "problemName": "0068-text-justification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
+      "folderPath": "0068-text-justification/",
+      "readmePath": "0068-text-justification/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0068-text-justification.py",
+          "path": "0068-text-justification/0068-text-justification.py",
+          "sha": "1216a0906a65d426d15bf0a99df6a50c54dde407",
+          "lastSyncedAt": "2026-09-04T08:47:48.015Z"
         }
       ]
     },
