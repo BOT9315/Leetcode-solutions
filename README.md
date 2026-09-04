@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 16 | 38 | 13 |
+| 68 | 17 | 38 | 13 |
 
 ## Activity
 
@@ -22,17 +22,17 @@
 | 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
-| 2026-09-04 | 4 |
+| 2026-09-04 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 52% |
-| String | 20 | 30% |
-| Math | 14 | 21% |
+| Array | 35 | 51% |
+| String | 20 | 29% |
+| Math | 15 | 22% |
 | Two Pointers | 13 | 19% |
-| Dynamic Programming | 10 | 15% |
+| Dynamic Programming | 11 | 16% |
 | Hash Table | 9 | 13% |
 | Recursion | 8 | 12% |
 | Backtracking | 7 | 10% |
@@ -55,7 +55,7 @@
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 9 |
