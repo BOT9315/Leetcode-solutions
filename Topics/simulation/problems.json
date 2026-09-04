@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-03T17:01:37.142Z",
+  "updatedAt": "2026-09-04T08:47:48.015Z",
   "problems": [
     {
       "frontendId": "43",
@@ -63,6 +63,26 @@
           "path": "0059-spiral-matrix-ii/0059-spiral-matrix-ii.py",
           "sha": "eecec67038c56abf84cb365e243c406da06f2c61",
           "lastSyncedAt": "2026-09-03T17:01:37.142Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "68",
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "problemName": "0068-text-justification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
+      "folderPath": "0068-text-justification/",
+      "readmePath": "0068-text-justification/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0068-text-justification.py",
+          "path": "0068-text-justification/0068-text-justification.py",
+          "sha": "1216a0906a65d426d15bf0a99df6a50c54dde407",
+          "lastSyncedAt": "2026-09-04T08:47:48.015Z"
         }
       ]
     }
