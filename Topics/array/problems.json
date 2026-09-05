@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-05T13:57:59.915Z",
+  "updatedAt": "2026-09-05T13:59:01.634Z",
   "problems": [
     {
       "frontendId": "1",
@@ -723,6 +723,26 @@
           "path": "0075-sort-colors/0075-sort-colors.py",
           "sha": "b522b212c33e1b5110d7171012ac152d033c29a9",
           "lastSyncedAt": "2026-09-05T13:57:59.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0078-subsets.py",
+          "path": "0078-subsets/0078-subsets.py",
+          "sha": "7395ea70cc88846d3804aeabcef3002159ac6dcb",
+          "lastSyncedAt": "2026-09-05T13:59:01.634Z"
         }
       ]
     },
