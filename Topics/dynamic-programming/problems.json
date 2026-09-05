@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-05T13:57:23.992Z",
+  "updatedAt": "2026-09-05T13:57:25.158Z",
   "problems": [
     {
       "frontendId": "5",
@@ -242,7 +242,7 @@
           "filename": "0072-edit-distance.py",
           "path": "0072-edit-distance/0072-edit-distance.py",
           "sha": "0234d3123dce5d108af510686637f005fadd1aa3",
-          "lastSyncedAt": "2026-09-05T13:57:23.992Z"
+          "lastSyncedAt": "2026-09-05T13:57:25.158Z"
         }
       ]
     }
