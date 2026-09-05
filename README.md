@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 17 | 42 | 13 |
+| 76 | 17 | 45 | 14 |
 
 ## Activity
 
@@ -23,43 +23,44 @@
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
-| 2026-09-05 | 4 |
+| 2026-09-05 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 51% |
-| String | 22 | 31% |
-| Math | 15 | 21% |
-| Two Pointers | 13 | 18% |
-| Dynamic Programming | 12 | 17% |
-| Hash Table | 9 | 13% |
+| Array | 39 | 51% |
+| String | 23 | 30% |
+| Math | 15 | 20% |
+| Two Pointers | 14 | 18% |
+| Dynamic Programming | 12 | 16% |
+| Hash Table | 10 | 13% |
+| Backtracking | 9 | 12% |
 | Recursion | 8 | 11% |
-| Backtracking | 7 | 10% |
-| Binary Search | 7 | 10% |
-| Matrix | 7 | 10% |
+| Binary Search | 7 | 9% |
+| Matrix | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 37 |
-| [Backtracking](Topics/backtracking/) | 7 |
+| [Array](Topics/array/) | 39 |
+| [Backtracking](Topics/backtracking/) | 9 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -71,18 +72,18 @@
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
-| [Quicksort](Topics/quicksort/) | 1 |
+| [Quicksort](Topics/quicksort/) | 2 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 6 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 23 |
+| [String](Topics/string/) | 24 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
