@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-01T10:03:23.111Z",
+  "updatedAt": "2026-09-05T13:57:03.425Z",
   "problems": [
     {
       "frontendId": "20",
@@ -71,6 +71,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "431d9442d8f33983521de4ca7190f6a8d1a435ef",
           "lastSyncedAt": "2026-09-01T10:03:23.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "problemName": "0071-simplify-path",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+      "folderPath": "0071-simplify-path/",
+      "readmePath": "0071-simplify-path/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0071-simplify-path.py",
+          "path": "0071-simplify-path/0071-simplify-path.py",
+          "sha": "4f777646449bca781c0026c5ad85a60951505656",
+          "lastSyncedAt": "2026-09-05T13:57:03.425Z"
         }
       ]
     },
