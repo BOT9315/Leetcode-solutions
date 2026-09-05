@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 17 | 41 | 13 |
+| 69 | 17 | 39 | 13 |
 
 ## Activity
 
@@ -23,29 +23,29 @@
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
-| 2026-09-05 | 3 |
+| 2026-09-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 51% |
-| String | 22 | 31% |
-| Math | 15 | 21% |
-| Two Pointers | 13 | 18% |
-| Dynamic Programming | 12 | 17% |
+| Array | 35 | 51% |
+| String | 21 | 30% |
+| Math | 15 | 22% |
+| Two Pointers | 13 | 19% |
+| Dynamic Programming | 11 | 16% |
 | Hash Table | 9 | 13% |
-| Recursion | 8 | 11% |
+| Recursion | 8 | 12% |
 | Backtracking | 7 | 10% |
-| Binary Search | 6 | 8% |
-| Linked List | 6 | 8% |
+| Linked List | 6 | 9% |
+| Sorting | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -56,17 +56,17 @@
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 16 |
-| [Matrix](Topics/matrix/) | 6 |
+| [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
