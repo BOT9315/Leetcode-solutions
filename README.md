@@ -3,13 +3,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 68 | 17 | 38 | 13 |
+| 69 | 17 | 39 | 13 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 10 |
+| 8 days | 8 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,13 +23,14 @@
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
+| 2026-09-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 35 | 51% |
-| String | 20 | 29% |
+| String | 21 | 30% |
 | Math | 15 | 22% |
 | Two Pointers | 13 | 19% |
 | Dynamic Programming | 11 | 16% |
@@ -66,6 +67,7 @@
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 5 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -74,8 +76,8 @@
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 21 |
+| [Stack](Topics/stack/) | 5 |
+| [String](Topics/string/) | 23 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
