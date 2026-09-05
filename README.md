@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 17 | 45 | 14 |
+| 77 | 17 | 46 | 14 |
 
 ## Activity
 
@@ -23,30 +23,30 @@
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
-| 2026-09-05 | 8 |
+| 2026-09-05 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 51% |
-| String | 23 | 30% |
-| Math | 15 | 20% |
+| Array | 40 | 52% |
+| String | 24 | 31% |
+| Math | 15 | 19% |
 | Two Pointers | 14 | 18% |
 | Dynamic Programming | 12 | 16% |
+| Backtracking | 10 | 13% |
 | Hash Table | 10 | 13% |
-| Backtracking | 9 | 12% |
-| Recursion | 8 | 11% |
+| Matrix | 8 | 10% |
+| Recursion | 8 | 10% |
 | Binary Search | 7 | 9% |
-| Matrix | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 39 |
-| [Backtracking](Topics/backtracking/) | 9 |
+| [Array](Topics/array/) | 40 |
+| [Backtracking](Topics/backtracking/) | 10 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -56,6 +56,7 @@
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Graph](Topics/graph/) | 0 |
@@ -67,7 +68,7 @@
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 16 |
-| [Matrix](Topics/matrix/) | 7 |
+| [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -78,7 +79,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 24 |
+| [String](Topics/string/) | 25 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
