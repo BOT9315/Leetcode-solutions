@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-05T13:57:38.090Z",
+  "updatedAt": "2026-09-05T13:57:46.888Z",
   "problems": [
     {
       "frontendId": "36",
@@ -123,6 +123,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.py",
           "sha": "1b5ce277f6a4497013e23821bdd457f9117907c3",
           "lastSyncedAt": "2026-09-05T13:57:38.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0074-search-a-2d-matrix.py",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
+          "sha": "d239814c87bf1037831e3d07ad2f2a41d1411c90",
+          "lastSyncedAt": "2026-09-05T13:57:46.888Z"
         }
       ]
     }
