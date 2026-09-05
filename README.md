@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 17 | 46 | 14 |
+| 78 | 17 | 47 | 14 |
 
 ## Activity
 
@@ -23,17 +23,17 @@
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
-| 2026-09-05 | 9 |
+| 2026-09-05 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 52% |
+| Array | 41 | 53% |
 | String | 24 | 31% |
 | Math | 15 | 19% |
-| Two Pointers | 14 | 18% |
-| Dynamic Programming | 12 | 16% |
+| Two Pointers | 15 | 19% |
+| Dynamic Programming | 12 | 15% |
 | Backtracking | 10 | 13% |
 | Hash Table | 10 | 13% |
 | Matrix | 8 | 10% |
@@ -45,7 +45,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -84,7 +84,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 14 |
+| [Two Pointers](Topics/two-pointers/) | 15 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
