@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-05T13:59:01.634Z",
+  "updatedAt": "2026-09-05T13:59:09.673Z",
   "problems": [
     {
       "frontendId": "17",
@@ -182,7 +182,7 @@
           "filename": "0078-subsets.py",
           "path": "0078-subsets/0078-subsets.py",
           "sha": "7395ea70cc88846d3804aeabcef3002159ac6dcb",
-          "lastSyncedAt": "2026-09-05T13:59:01.634Z"
+          "lastSyncedAt": "2026-09-05T13:59:09.673Z"
         }
       ]
     }
