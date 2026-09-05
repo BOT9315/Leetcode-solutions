@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-31T13:44:32.739Z",
+  "updatedAt": "2026-09-05T13:58:23.311Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,6 +43,26 @@
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
           "sha": "957a072873cf69c8f452ce3a93468557e939f398",
           "lastSyncedAt": "2026-08-31T13:44:32.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0076-minimum-window-substring.py",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
+          "sha": "ec71600d52e7db1a99aeafbce2ca858049153965",
+          "lastSyncedAt": "2026-09-05T13:58:23.311Z"
         }
       ]
     }
