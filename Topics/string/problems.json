@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-05T13:57:23.992Z",
+  "updatedAt": "2026-09-05T13:58:24.124Z",
   "problems": [
     {
       "frontendId": "3",
@@ -451,6 +451,26 @@
           "path": "0072-edit-distance/0072-edit-distance.py",
           "sha": "0234d3123dce5d108af510686637f005fadd1aa3",
           "lastSyncedAt": "2026-09-05T13:57:23.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0076-minimum-window-substring.py",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
+          "sha": "ec71600d52e7db1a99aeafbce2ca858049153965",
+          "lastSyncedAt": "2026-09-05T13:58:24.124Z"
         }
       ]
     },
