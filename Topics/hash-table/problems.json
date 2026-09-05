@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-05T13:58:24.124Z",
+  "updatedAt": "2026-09-05T13:58:35.737Z",
   "problems": [
     {
       "frontendId": "1",
@@ -222,7 +222,7 @@
           "filename": "0076-minimum-window-substring.py",
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "ec71600d52e7db1a99aeafbce2ca858049153965",
-          "lastSyncedAt": "2026-09-05T13:58:24.124Z"
+          "lastSyncedAt": "2026-09-05T13:58:35.737Z"
         }
       ]
     }
