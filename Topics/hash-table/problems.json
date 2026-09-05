@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-02T16:13:15.310Z",
+  "updatedAt": "2026-09-05T13:57:38.090Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.py",
           "sha": "743c12d3605ba218199ffd65783f00d3295a11f6",
           "lastSyncedAt": "2026-09-02T16:13:15.310Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "0073-set-matrix-zeroes/",
+      "readmePath": "0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0073-set-matrix-zeroes.py",
+          "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.py",
+          "sha": "1b5ce277f6a4497013e23821bdd457f9117907c3",
+          "lastSyncedAt": "2026-09-05T13:57:38.090Z"
         }
       ]
     }
