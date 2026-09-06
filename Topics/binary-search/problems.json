@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-06T17:04:08.273Z",
+  "updatedAt": "2026-09-06T17:04:09.382Z",
   "problems": [
     {
       "frontendId": "4",
@@ -122,7 +122,7 @@
           "filename": "0081-search-in-rotated-sorted-array-ii.py",
           "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py",
           "sha": "e2b85318db404e6bf4cf573b9efa17449218ee90",
-          "lastSyncedAt": "2026-09-06T17:04:08.273Z"
+          "lastSyncedAt": "2026-09-06T17:04:09.382Z"
         }
       ]
     }
