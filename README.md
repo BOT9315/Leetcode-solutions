@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 80 | 18 | 48 | 14 |
+| 81 | 18 | 48 | 15 |
 
 ## Activity
 
@@ -24,19 +24,19 @@
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
-| 2026-09-06 | 2 |
+| 2026-09-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 53% |
+| Array | 43 | 53% |
 | String | 24 | 30% |
 | Math | 15 | 19% |
 | Two Pointers | 15 | 19% |
 | Dynamic Programming | 12 | 15% |
-| Backtracking | 10 | 13% |
-| Hash Table | 10 | 13% |
+| Backtracking | 10 | 12% |
+| Hash Table | 10 | 12% |
 | Binary Search | 8 | 10% |
 | Matrix | 8 | 10% |
 | Recursion | 8 | 10% |
@@ -46,7 +46,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 43 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -72,14 +72,14 @@
 | [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 5 |
+| [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 25 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
