@@ -3,13 +3,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 17 | 47 | 14 |
+| 79 | 17 | 48 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 11 |
+| 9 days | 9 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,30 +24,31 @@
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
+| 2026-09-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 41 | 53% |
-| String | 24 | 31% |
+| Array | 42 | 53% |
+| String | 24 | 30% |
 | Math | 15 | 19% |
 | Two Pointers | 15 | 19% |
 | Dynamic Programming | 12 | 15% |
 | Backtracking | 10 | 13% |
 | Hash Table | 10 | 13% |
+| Binary Search | 8 | 10% |
 | Matrix | 8 | 10% |
 | Recursion | 8 | 10% |
-| Binary Search | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 41 |
+| [Array](Topics/array/) | 42 |
 | [Backtracking](Topics/backtracking/) | 10 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
