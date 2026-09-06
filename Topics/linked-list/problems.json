@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-03T17:02:57.069Z",
+  "updatedAt": "2026-09-06T17:04:31.541Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +123,26 @@
           "path": "0061-rotate-list/0061-rotate-list.py",
           "sha": "f2293275496388475a767969d6541bf4ff92cc97",
           "lastSyncedAt": "2026-09-03T17:02:57.069Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "problemName": "0083-remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "folderPath": "0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "0083-remove-duplicates-from-sorted-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0083-remove-duplicates-from-sorted-list.py",
+          "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
+          "sha": "b2babe25e5a65dce8472a10ceb1d3596f735ac85",
+          "lastSyncedAt": "2026-09-06T17:04:31.541Z"
         }
       ]
     }
