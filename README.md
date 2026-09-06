@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 18 | 49 | 15 |
+| 83 | 18 | 49 | 16 |
 
 ## Activity
 
@@ -24,29 +24,29 @@
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
-| 2026-09-06 | 4 |
+| 2026-09-06 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 43 | 52% |
+| Array | 44 | 53% |
 | String | 24 | 29% |
-| Two Pointers | 16 | 20% |
+| Two Pointers | 16 | 19% |
 | Math | 15 | 18% |
-| Dynamic Programming | 12 | 15% |
+| Dynamic Programming | 13 | 16% |
 | Backtracking | 10 | 12% |
 | Hash Table | 10 | 12% |
+| Matrix | 9 | 11% |
 | Binary Search | 8 | 10% |
 | Linked List | 8 | 10% |
-| Matrix | 8 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 43 |
+| [Array](Topics/array/) | 44 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -59,7 +59,7 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 11 |
@@ -69,10 +69,10 @@
 | [Linked List](Topics/linked-list/) | 8 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 16 |
-| [Matrix](Topics/matrix/) | 8 |
+| [Matrix](Topics/matrix/) | 9 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
@@ -80,7 +80,7 @@
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 6 |
+| [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 25 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
