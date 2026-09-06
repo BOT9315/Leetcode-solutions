@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-05T14:00:12.296Z",
+  "updatedAt": "2026-09-06T17:05:27.069Z",
   "problems": [
     {
       "frontendId": "36",
@@ -163,6 +163,26 @@
           "path": "0079-word-search/0079-word-search.py",
           "sha": "833489a2c9b316a414c104066b429c76abe672df",
           "lastSyncedAt": "2026-09-05T14:00:12.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0085-maximal-rectangle.py",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
+          "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
+          "lastSyncedAt": "2026-09-06T17:05:27.069Z"
         }
       ]
     }
