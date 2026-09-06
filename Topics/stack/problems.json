@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-06T17:05:05.832Z",
+  "updatedAt": "2026-09-06T17:05:27.069Z",
   "problems": [
     {
       "frontendId": "20",
@@ -111,6 +111,26 @@
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
           "sha": "988a2ce4f7e33109d2735a0444ea3d5bdaf9448e",
           "lastSyncedAt": "2026-09-06T17:05:05.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0085-maximal-rectangle.py",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
+          "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
+          "lastSyncedAt": "2026-09-06T17:05:27.069Z"
         }
       ]
     },
