@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 18 | 48 | 15 |
+| 82 | 18 | 49 | 15 |
 
 ## Activity
 
@@ -24,22 +24,22 @@
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
-| 2026-09-06 | 3 |
+| 2026-09-06 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 43 | 53% |
-| String | 24 | 30% |
-| Math | 15 | 19% |
-| Two Pointers | 15 | 19% |
+| Array | 43 | 52% |
+| String | 24 | 29% |
+| Two Pointers | 16 | 20% |
+| Math | 15 | 18% |
 | Dynamic Programming | 12 | 15% |
 | Backtracking | 10 | 12% |
 | Hash Table | 10 | 12% |
 | Binary Search | 8 | 10% |
+| Linked List | 8 | 10% |
 | Matrix | 8 | 10% |
-| Recursion | 8 | 10% |
 
 ## Topics
 
@@ -66,7 +66,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 8 |
@@ -85,7 +85,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 16 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
