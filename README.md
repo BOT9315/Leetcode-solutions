@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 17 | 48 | 14 |
+| 80 | 18 | 48 | 14 |
 
 ## Activity
 
@@ -24,7 +24,7 @@
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
-| 2026-09-06 | 1 |
+| 2026-09-06 | 2 |
 
 ## Top Tags
 
@@ -66,7 +66,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 8 |
