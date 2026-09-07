@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-06T17:05:00.121Z",
+  "updatedAt": "2026-09-07T02:50:22.838Z",
   "problems": [
     {
       "frontendId": "2",
@@ -163,6 +163,26 @@
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
           "sha": "b2babe25e5a65dce8472a10ceb1d3596f735ac85",
           "lastSyncedAt": "2026-09-06T17:04:34.387Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0086-partition-list.py",
+          "path": "0086-partition-list/0086-partition-list.py",
+          "sha": "f46ad511b90d4dc755dfdce63a4959476da0f631",
+          "lastSyncedAt": "2026-09-07T02:50:22.838Z"
         }
       ]
     }
