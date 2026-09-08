@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-08T12:19:09.119Z",
+  "updatedAt": "2026-09-08T12:20:00.528Z",
   "problems": [
     {
       "frontendId": "1",
@@ -863,6 +863,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "11b659fd05dc17369afb9d37f77529cde01e6e94",
           "lastSyncedAt": "2026-09-08T12:19:09.119Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0090-subsets-ii.py",
+          "path": "0090-subsets-ii/0090-subsets-ii.py",
+          "sha": "e05ad7951155e73eed9638700e19a0b069979d9a",
+          "lastSyncedAt": "2026-09-08T12:20:00.528Z"
         }
       ]
     },
