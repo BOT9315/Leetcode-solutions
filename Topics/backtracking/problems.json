@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-08T12:19:38.972Z",
+  "updatedAt": "2026-09-08T12:20:00.528Z",
   "problems": [
     {
       "frontendId": "17",
@@ -223,6 +223,26 @@
           "path": "0089-gray-code/0089-gray-code.py",
           "sha": "6acb782ae2bddeebb65479c6cc698775676392bc",
           "lastSyncedAt": "2026-09-08T12:19:38.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0090-subsets-ii.py",
+          "path": "0090-subsets-ii/0090-subsets-ii.py",
+          "sha": "e05ad7951155e73eed9638700e19a0b069979d9a",
+          "lastSyncedAt": "2026-09-08T12:20:00.528Z"
         }
       ]
     }
