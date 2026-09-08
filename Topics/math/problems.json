@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-08T12:19:36.626Z",
+  "updatedAt": "2026-09-08T12:19:38.972Z",
   "problems": [
     {
       "frontendId": "2",
@@ -310,7 +310,7 @@
           "filename": "0089-gray-code.py",
           "path": "0089-gray-code/0089-gray-code.py",
           "sha": "6acb782ae2bddeebb65479c6cc698775676392bc",
-          "lastSyncedAt": "2026-09-08T12:19:36.626Z"
+          "lastSyncedAt": "2026-09-08T12:19:38.972Z"
         }
       ]
     },
