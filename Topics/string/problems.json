@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-05T14:00:12.296Z",
+  "updatedAt": "2026-09-08T12:22:33.755Z",
   "problems": [
     {
       "frontendId": "3",
@@ -491,6 +491,26 @@
           "path": "0079-word-search/0079-word-search.py",
           "sha": "833489a2c9b316a414c104066b429c76abe672df",
           "lastSyncedAt": "2026-09-05T14:00:12.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "87",
+      "title": "Scramble String",
+      "slug": "scramble-string",
+      "problemName": "0087-scramble-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/scramble-string/",
+      "folderPath": "0087-scramble-string/",
+      "readmePath": "0087-scramble-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0087-scramble-string.cpp",
+          "path": "0087-scramble-string/0087-scramble-string.cpp",
+          "sha": "709b6bc3c728c5c3f7420688c73b2e283ceeb683",
+          "lastSyncedAt": "2026-09-08T12:22:33.755Z"
         }
       ]
     },
