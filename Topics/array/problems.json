@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-06T17:06:42.169Z",
+  "updatedAt": "2026-09-08T12:19:06.263Z",
   "problems": [
     {
       "frontendId": "1",
@@ -843,6 +843,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
           "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
           "lastSyncedAt": "2026-09-06T17:06:42.169Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "0088-merge-sorted-array/",
+      "readmePath": "0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "11b659fd05dc17369afb9d37f77529cde01e6e94",
+          "lastSyncedAt": "2026-09-08T12:19:06.263Z"
         }
       ]
     },
