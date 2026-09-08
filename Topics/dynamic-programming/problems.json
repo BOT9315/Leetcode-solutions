@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-06T17:06:41.874Z",
+  "updatedAt": "2026-09-08T12:22:33.755Z",
   "problems": [
     {
       "frontendId": "5",
@@ -263,6 +263,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
           "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
           "lastSyncedAt": "2026-09-06T17:06:41.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "87",
+      "title": "Scramble String",
+      "slug": "scramble-string",
+      "problemName": "0087-scramble-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/scramble-string/",
+      "folderPath": "0087-scramble-string/",
+      "readmePath": "0087-scramble-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0087-scramble-string.cpp",
+          "path": "0087-scramble-string/0087-scramble-string.cpp",
+          "sha": "709b6bc3c728c5c3f7420688c73b2e283ceeb683",
+          "lastSyncedAt": "2026-09-08T12:22:33.755Z"
         }
       ]
     }
