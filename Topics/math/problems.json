@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-04T08:49:51.217Z",
+  "updatedAt": "2026-09-08T12:19:36.626Z",
   "problems": [
     {
       "frontendId": "2",
@@ -291,6 +291,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.py",
           "sha": "af7699f71f5061abe0349e4941f9af700bacb2da",
           "lastSyncedAt": "2026-09-04T08:49:51.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "89",
+      "title": "Gray Code",
+      "slug": "gray-code",
+      "problemName": "0089-gray-code",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+      "folderPath": "0089-gray-code/",
+      "readmePath": "0089-gray-code/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0089-gray-code.py",
+          "path": "0089-gray-code/0089-gray-code.py",
+          "sha": "6acb782ae2bddeebb65479c6cc698775676392bc",
+          "lastSyncedAt": "2026-09-08T12:19:36.626Z"
         }
       ]
     },
