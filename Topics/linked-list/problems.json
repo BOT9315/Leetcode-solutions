@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-08T12:17:32.162Z",
+  "updatedAt": "2026-09-08T12:17:35.904Z",
   "problems": [
     {
       "frontendId": "2",
@@ -182,7 +182,7 @@
           "filename": "0086-partition-list.py",
           "path": "0086-partition-list/0086-partition-list.py",
           "sha": "f46ad511b90d4dc755dfdce63a4959476da0f631",
-          "lastSyncedAt": "2026-09-08T12:17:32.162Z"
+          "lastSyncedAt": "2026-09-08T12:17:35.904Z"
         }
       ]
     }
