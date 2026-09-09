@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-09T16:45:11.814Z",
+  "updatedAt": "2026-09-09T16:45:40.176Z",
   "problems": [
     {
       "frontendId": "5",
@@ -302,7 +302,7 @@
           "filename": "0091-decode-ways.py",
           "path": "0091-decode-ways/0091-decode-ways.py",
           "sha": "63df0c8251d42b05fea5c83732d2685f1ba330f4",
-          "lastSyncedAt": "2026-09-09T16:45:11.814Z"
+          "lastSyncedAt": "2026-09-09T16:45:40.176Z"
         }
       ]
     }
