@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 19 | 53 | 17 |
+| 90 | 19 | 54 | 17 |
 
 ## Activity
 
@@ -26,20 +26,20 @@
 | 2026-09-06 | 5 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
-| 2026-09-09 | 1 |
+| 2026-09-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 52% |
+| Array | 46 | 51% |
 | String | 26 | 29% |
 | Two Pointers | 18 | 20% |
 | Math | 16 | 18% |
 | Dynamic Programming | 15 | 17% |
 | Backtracking | 12 | 13% |
 | Hash Table | 10 | 11% |
-| Linked List | 9 | 10% |
+| Linked List | 10 | 11% |
 | Matrix | 9 | 10% |
 | Binary Search | 8 | 9% |
 
@@ -68,7 +68,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 9 |
+| [Linked List](Topics/linked-list/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 17 |
 | [Matrix](Topics/matrix/) | 9 |
