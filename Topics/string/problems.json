@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-08T12:22:48.757Z",
+  "updatedAt": "2026-09-09T16:45:11.814Z",
   "problems": [
     {
       "frontendId": "3",
@@ -511,6 +511,26 @@
           "path": "0087-scramble-string/0087-scramble-string.cpp",
           "sha": "709b6bc3c728c5c3f7420688c73b2e283ceeb683",
           "lastSyncedAt": "2026-09-08T12:22:48.757Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "problemName": "0091-decode-ways",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+      "folderPath": "0091-decode-ways/",
+      "readmePath": "0091-decode-ways/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0091-decode-ways.py",
+          "path": "0091-decode-ways/0091-decode-ways.py",
+          "sha": "63df0c8251d42b05fea5c83732d2685f1ba330f4",
+          "lastSyncedAt": "2026-09-09T16:45:11.814Z"
         }
       ]
     },
