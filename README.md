@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 19 | 52 | 17 |
+| 89 | 19 | 53 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 14 |
+| 12 days | 12 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-23 | 1 |
 | 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
@@ -27,17 +26,18 @@
 | 2026-09-06 | 5 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
+| 2026-09-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 46 | 52% |
-| String | 25 | 28% |
+| String | 26 | 29% |
 | Two Pointers | 18 | 20% |
 | Math | 16 | 18% |
-| Dynamic Programming | 14 | 16% |
-| Backtracking | 12 | 14% |
+| Dynamic Programming | 15 | 17% |
+| Backtracking | 12 | 13% |
 | Hash Table | 10 | 11% |
 | Linked List | 9 | 10% |
 | Matrix | 9 | 10% |
@@ -61,7 +61,7 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 14 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 11 |
@@ -83,7 +83,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 26 |
+| [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
