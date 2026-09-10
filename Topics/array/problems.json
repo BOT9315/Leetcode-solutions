@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T09:07:22.756Z",
+  "updatedAt": "2026-09-10T09:11:19.915Z",
   "problems": [
     {
       "frontendId": "1",
@@ -931,6 +931,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "302edf63e68b41d7f492555c8a6ee0372d44ce6f",
           "lastSyncedAt": "2026-08-30T14:13:25.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0215-kth-largest-element-in-an-array.java",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
+          "sha": "b68c8dfe131c51be21439f22c31b40d10c191040",
+          "lastSyncedAt": "2026-09-10T09:11:19.915Z"
         }
       ]
     },
