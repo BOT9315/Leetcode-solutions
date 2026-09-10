@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-10T12:24:38.400Z",
+  "updatedAt": "2026-09-10T12:24:44.057Z",
   "problems": [
     {
       "frontendId": "2",
@@ -390,7 +390,7 @@
           "filename": "0628-maximum-product-of-three-numbers.java",
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.java",
           "sha": "0765583a6674f204b200c6371d43884b25a14711",
-          "lastSyncedAt": "2026-09-10T12:24:38.400Z"
+          "lastSyncedAt": "2026-09-10T12:24:44.057Z"
         }
       ]
     }
