@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-04T08:47:49.363Z",
+  "updatedAt": "2026-09-10T09:05:28.482Z",
   "problems": [
     {
       "frontendId": "43",
@@ -83,6 +83,26 @@
           "path": "0068-text-justification/0068-text-justification.py",
           "sha": "1216a0906a65d426d15bf0a99df6a50c54dde407",
           "lastSyncedAt": "2026-09-04T08:47:49.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2974-minimum-number-game.java",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.java",
+          "sha": "fec64284a152b64a4120805c21442fda40d05b50",
+          "lastSyncedAt": "2026-09-10T09:05:28.482Z"
         }
       ]
     }
