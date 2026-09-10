@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 19 | 54 | 17 |
+| 91 | 20 | 54 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 12 days | 15 |
+| 13 days | 13 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-24 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
@@ -27,28 +26,29 @@
 | 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
 | 2026-09-09 | 2 |
+| 2026-09-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 51% |
+| Array | 47 | 52% |
 | String | 26 | 29% |
 | Two Pointers | 18 | 20% |
 | Math | 16 | 18% |
-| Dynamic Programming | 15 | 17% |
+| Dynamic Programming | 15 | 16% |
 | Backtracking | 12 | 13% |
 | Hash Table | 10 | 11% |
 | Linked List | 10 | 11% |
 | Matrix | 9 | 10% |
-| Binary Search | 8 | 9% |
+| Sorting | 9 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 46 |
+| [Array](Topics/array/) | 47 |
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -66,7 +66,7 @@
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -79,9 +79,9 @@
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Simulation](Topics/simulation/) | 4 |
+| [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
