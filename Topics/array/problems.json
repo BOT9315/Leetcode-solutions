@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T12:24:23.089Z",
+  "updatedAt": "2026-09-10T12:24:30.049Z",
   "problems": [
     {
       "frontendId": "1",
@@ -970,7 +970,7 @@
           "filename": "0268-missing-number.java",
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "31f379e8d98341f8f3186e3a602c8a25a2cd6c98",
-          "lastSyncedAt": "2026-09-10T12:24:23.089Z"
+          "lastSyncedAt": "2026-09-10T12:24:30.049Z"
         }
       ]
     },
