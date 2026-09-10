@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T09:12:37.423Z",
+  "updatedAt": "2026-09-10T09:14:25.715Z",
   "problems": [
     {
       "frontendId": "1",
@@ -971,6 +971,26 @@
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
           "sha": "a715e59d10b45dab0ae3a670cf5a8a422e1fcf9d",
           "lastSyncedAt": "2026-09-10T09:07:22.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2733",
+      "title": "Neither Minimum nor Maximum",
+      "slug": "neither-minimum-nor-maximum",
+      "problemName": "2733-neither-minimum-nor-maximum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/neither-minimum-nor-maximum/",
+      "folderPath": "2733-neither-minimum-nor-maximum/",
+      "readmePath": "2733-neither-minimum-nor-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2733-neither-minimum-nor-maximum.java",
+          "path": "2733-neither-minimum-nor-maximum/2733-neither-minimum-nor-maximum.java",
+          "sha": "196c2face026cf112eafea42ef41a0ea92dd5796",
+          "lastSyncedAt": "2026-09-10T09:14:25.715Z"
         }
       ]
     },
