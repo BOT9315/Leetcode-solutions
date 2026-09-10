@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 91 | 20 | 54 | 17 |
+| 92 | 21 | 54 | 17 |
 
 ## Activity
 
@@ -26,29 +26,29 @@
 | 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
 | 2026-09-09 | 2 |
-| 2026-09-10 | 1 |
+| 2026-09-10 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 52% |
-| String | 26 | 29% |
-| Two Pointers | 18 | 20% |
-| Math | 16 | 18% |
+| Array | 48 | 52% |
+| String | 26 | 28% |
+| Two Pointers | 19 | 21% |
+| Math | 16 | 17% |
 | Dynamic Programming | 15 | 16% |
 | Backtracking | 12 | 13% |
 | Hash Table | 10 | 11% |
 | Linked List | 10 | 11% |
+| Sorting | 10 | 11% |
 | Matrix | 9 | 10% |
-| Sorting | 9 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -81,14 +81,14 @@
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 18 |
+| [Two Pointers](Topics/two-pointers/) | 19 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
