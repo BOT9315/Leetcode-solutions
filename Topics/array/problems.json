@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T09:03:54.506Z",
+  "updatedAt": "2026-09-10T09:05:28.482Z",
   "problems": [
     {
       "frontendId": "1",
@@ -931,6 +931,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "302edf63e68b41d7f492555c8a6ee0372d44ce6f",
           "lastSyncedAt": "2026-08-30T14:13:25.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2974-minimum-number-game.java",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.java",
+          "sha": "fec64284a152b64a4120805c21442fda40d05b50",
+          "lastSyncedAt": "2026-09-10T09:05:28.482Z"
         }
       ]
     }
