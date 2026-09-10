@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-10T09:05:28.482Z",
+  "updatedAt": "2026-09-10T09:05:32.259Z",
   "problems": [
     {
       "frontendId": "1",
@@ -950,7 +950,7 @@
           "filename": "2974-minimum-number-game.java",
           "path": "2974-minimum-number-game/2974-minimum-number-game.java",
           "sha": "fec64284a152b64a4120805c21442fda40d05b50",
-          "lastSyncedAt": "2026-09-10T09:05:28.482Z"
+          "lastSyncedAt": "2026-09-10T09:05:32.259Z"
         }
       ]
     }
