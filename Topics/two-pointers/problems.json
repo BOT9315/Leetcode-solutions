@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-08T12:19:09.119Z",
+  "updatedAt": "2026-09-10T09:03:54.503Z",
   "problems": [
     {
       "frontendId": "5",
@@ -156,6 +156,14 @@
       "folderPath": "0027-remove-element/",
       "readmePath": "0027-remove-element/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "0027-remove-element/0027-remove-element.java",
+          "sha": "0f0d9f058e2067d25ff99d2684a8e4db9a2b83bb",
+          "lastSyncedAt": "2026-09-10T09:03:54.503Z"
+        },
         {
           "language": "Python",
           "extension": ".py",
