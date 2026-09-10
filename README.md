@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 95 | 23 | 55 | 17 |
+| 96 | 24 | 55 | 17 |
 
 ## Activity
 
@@ -26,34 +26,34 @@
 | 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
 | 2026-09-09 | 2 |
-| 2026-09-10 | 5 |
+| 2026-09-10 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 54% |
+| Array | 52 | 54% |
 | String | 26 | 27% |
 | Two Pointers | 19 | 20% |
-| Math | 17 | 18% |
+| Math | 18 | 19% |
 | Dynamic Programming | 15 | 16% |
-| Sorting | 13 | 14% |
+| Sorting | 14 | 15% |
 | Backtracking | 12 | 13% |
-| Hash Table | 10 | 11% |
-| Linked List | 10 | 11% |
-| Matrix | 9 | 9% |
+| Hash Table | 11 | 11% |
+| Linked List | 10 | 10% |
+| Binary Search | 9 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 51 |
+| [Array](Topics/array/) | 52 |
 | [Backtracking](Topics/backtracking/) | 12 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -64,13 +64,13 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 18 |
+| [Math](Topics/math/) | 19 |
 | [Matrix](Topics/matrix/) | 9 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -82,7 +82,7 @@
 | [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 13 |
+| [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
