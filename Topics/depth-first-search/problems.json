@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-05T14:00:12.296Z",
+  "updatedAt": "2026-09-11T17:01:02.946Z",
   "problems": [
     {
       "frontendId": "79",
@@ -23,6 +23,26 @@
           "path": "0079-word-search/0079-word-search.py",
           "sha": "833489a2c9b316a414c104066b429c76abe672df",
           "lastSyncedAt": "2026-09-05T14:00:12.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0101-symmetric-tree.py",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.py",
+          "sha": "94a9591a3704e7b72abee3a67a0b29a3c8f297db",
+          "lastSyncedAt": "2026-09-11T17:01:02.946Z"
         }
       ]
     }
