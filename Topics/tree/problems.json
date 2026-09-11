@@ -4,8 +4,28 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-30T14:13:11.755Z",
+  "updatedAt": "2026-09-11T17:01:02.946Z",
   "problems": [
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0101-symmetric-tree.py",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.py",
+          "sha": "94a9591a3704e7b72abee3a67a0b29a3c8f297db",
+          "lastSyncedAt": "2026-09-11T17:01:02.946Z"
+        }
+      ]
+    },
     {
       "frontendId": "108",
       "title": "Convert Sorted Array to Binary Search Tree",
