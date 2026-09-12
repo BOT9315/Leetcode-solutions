@@ -3,18 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 96 | 24 | 55 | 17 |
+| 98 | 25 | 56 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 16 |
+| 15 days | 15 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-26 | 1 |
-| 2026-08-29 | 2 |
 | 2026-08-30 | 17 |
 | 2026-08-31 | 11 |
 | 2026-09-01 | 10 |
@@ -27,18 +25,20 @@
 | 2026-09-08 | 4 |
 | 2026-09-09 | 2 |
 | 2026-09-10 | 6 |
+| 2026-09-11 | 1 |
+| 2026-09-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 52 | 54% |
+| Array | 52 | 53% |
 | String | 26 | 27% |
-| Two Pointers | 19 | 20% |
-| Math | 18 | 19% |
-| Dynamic Programming | 15 | 16% |
-| Sorting | 14 | 15% |
-| Backtracking | 12 | 13% |
+| Two Pointers | 19 | 19% |
+| Math | 18 | 18% |
+| Dynamic Programming | 15 | 15% |
+| Sorting | 14 | 14% |
+| Backtracking | 12 | 12% |
 | Hash Table | 11 | 11% |
 | Linked List | 10 | 10% |
 | Binary Search | 9 | 9% |
@@ -51,15 +51,16 @@
 | [Array](Topics/array/) | 52 |
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Binary Search](Topics/binary-search/) | 7 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
@@ -87,7 +88,7 @@
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 3 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 19 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
