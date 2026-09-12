@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-12T05:55:32.946Z",
+  "updatedAt": "2026-09-12T05:55:48.097Z",
   "problems": [
     {
       "frontendId": "99",
@@ -22,7 +22,7 @@
           "filename": "0099-recover-binary-search-tree.py",
           "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.py",
           "sha": "9dcaa98902280584d7634672c1d357c5d4d22b49",
-          "lastSyncedAt": "2026-09-12T05:55:32.946Z"
+          "lastSyncedAt": "2026-09-12T05:55:48.097Z"
         }
       ]
     },
