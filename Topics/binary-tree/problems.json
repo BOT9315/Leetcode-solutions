@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-12T05:56:06.921Z",
+  "updatedAt": "2026-09-12T05:56:26.975Z",
   "problems": [
     {
       "frontendId": "99",
@@ -23,6 +23,26 @@
           "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.py",
           "sha": "9dcaa98902280584d7634672c1d357c5d4d22b49",
           "lastSyncedAt": "2026-09-12T05:56:06.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0100-same-tree.py",
+          "path": "0100-same-tree/0100-same-tree.py",
+          "sha": "44e04c6efd5c030914319593e82d8e00f794a32d",
+          "lastSyncedAt": "2026-09-12T05:56:26.975Z"
         }
       ]
     },
