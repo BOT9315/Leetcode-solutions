@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-11T17:01:15.502Z",
+  "updatedAt": "2026-09-12T05:55:32.946Z",
   "problems": [
     {
       "frontendId": "79",
@@ -23,6 +23,26 @@
           "path": "0079-word-search/0079-word-search.py",
           "sha": "833489a2c9b316a414c104066b429c76abe672df",
           "lastSyncedAt": "2026-09-05T14:00:12.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "problemName": "0099-recover-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "folderPath": "0099-recover-binary-search-tree/",
+      "readmePath": "0099-recover-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0099-recover-binary-search-tree.py",
+          "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.py",
+          "sha": "9dcaa98902280584d7634672c1d357c5d4d22b49",
+          "lastSyncedAt": "2026-09-12T05:55:32.946Z"
         }
       ]
     },
