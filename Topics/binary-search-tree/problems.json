@@ -4,8 +4,28 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-08-30T14:13:11.755Z",
+  "updatedAt": "2026-09-12T05:55:32.946Z",
   "problems": [
+    {
+      "frontendId": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "problemName": "0099-recover-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "folderPath": "0099-recover-binary-search-tree/",
+      "readmePath": "0099-recover-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0099-recover-binary-search-tree.py",
+          "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.py",
+          "sha": "9dcaa98902280584d7634672c1d357c5d4d22b49",
+          "lastSyncedAt": "2026-09-12T05:55:32.946Z"
+        }
+      ]
+    },
     {
       "frontendId": "108",
       "title": "Convert Sorted Array to Binary Search Tree",
