@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-13T04:48:23.206Z",
+  "updatedAt": "2026-09-13T04:53:26.948Z",
   "problems": [
     {
       "frontendId": "15",
@@ -262,7 +262,7 @@
           "filename": "1502-can-make-arithmetic-progression-from-sequence.java",
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.java",
           "sha": "cf72dc2d999ba418528ec7ec4c67a2e53427051f",
-          "lastSyncedAt": "2026-09-13T04:48:23.206Z"
+          "lastSyncedAt": "2026-09-13T04:53:26.948Z"
         }
       ]
     },
