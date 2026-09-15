@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 102 | 28 | 57 | 17 |
+| 103 | 29 | 57 | 17 |
 
 ## Activity
 
@@ -26,16 +26,16 @@
 | 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 1 |
-| 2026-09-15 | 1 |
+| 2026-09-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 53 | 52% |
+| Array | 53 | 51% |
 | String | 26 | 25% |
-| Two Pointers | 19 | 19% |
-| Math | 18 | 18% |
+| Two Pointers | 19 | 18% |
+| Math | 18 | 17% |
 | Dynamic Programming | 15 | 15% |
 | Sorting | 15 | 15% |
 | Backtracking | 12 | 12% |
@@ -52,15 +52,15 @@
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 6 |
+| [Binary Tree](Topics/binary-tree/) | 7 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 4 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
