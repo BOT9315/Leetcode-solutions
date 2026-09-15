@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-15T12:59:48.215Z",
+  "updatedAt": "2026-09-15T13:00:14.188Z",
   "problems": [
     {
       "frontendId": "79",
@@ -123,6 +123,26 @@
           "path": "0112-path-sum/0112-path-sum.py",
           "sha": "3339bca10407353e09c6964d950e0d08d6a95ff2",
           "lastSyncedAt": "2026-09-15T12:59:48.215Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "problemName": "0113-path-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+      "folderPath": "0113-path-sum-ii/",
+      "readmePath": "0113-path-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0113-path-sum-ii.py",
+          "path": "0113-path-sum-ii/0113-path-sum-ii.py",
+          "sha": "2e4379ce03a845575417bab848b1d1a24b0882e3",
+          "lastSyncedAt": "2026-09-15T13:00:14.188Z"
         }
       ]
     }
