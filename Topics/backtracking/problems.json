@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-15T13:00:14.188Z",
+  "updatedAt": "2026-09-15T13:00:20.299Z",
   "problems": [
     {
       "frontendId": "17",
@@ -262,7 +262,7 @@
           "filename": "0113-path-sum-ii.py",
           "path": "0113-path-sum-ii/0113-path-sum-ii.py",
           "sha": "2e4379ce03a845575417bab848b1d1a24b0882e3",
-          "lastSyncedAt": "2026-09-15T13:00:14.188Z"
+          "lastSyncedAt": "2026-09-15T13:00:20.299Z"
         }
       ]
     }
