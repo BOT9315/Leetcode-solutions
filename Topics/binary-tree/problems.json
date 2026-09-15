@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-14T06:56:23.839Z",
+  "updatedAt": "2026-09-15T12:59:22.758Z",
   "problems": [
     {
       "frontendId": "99",
@@ -103,6 +103,26 @@
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
           "sha": "e8f76c9d53d6aa02145a97923e235d3f68b504ef",
           "lastSyncedAt": "2026-08-30T14:13:11.755Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "0111-minimum-depth-of-binary-tree/",
+      "readmePath": "0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0111-minimum-depth-of-binary-tree.py",
+          "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.py",
+          "sha": "f0339f1411837ff4686da376428bae34071926e0",
+          "lastSyncedAt": "2026-09-15T12:59:22.758Z"
         }
       ]
     }
