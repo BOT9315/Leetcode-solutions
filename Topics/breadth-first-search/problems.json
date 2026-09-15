@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-15T12:59:24.396Z",
+  "updatedAt": "2026-09-15T12:59:22.758Z",
   "problems": [
     {
       "frontendId": "100",
@@ -82,7 +82,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.py",
           "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.py",
           "sha": "f0339f1411837ff4686da376428bae34071926e0",
-          "lastSyncedAt": "2026-09-15T12:59:24.396Z"
+          "lastSyncedAt": "2026-09-15T12:59:22.758Z"
         }
       ]
     }
