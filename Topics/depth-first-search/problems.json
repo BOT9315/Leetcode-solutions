@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-15T12:59:37.038Z",
+  "updatedAt": "2026-09-15T12:59:48.215Z",
   "problems": [
     {
       "frontendId": "79",
@@ -103,6 +103,26 @@
           "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.py",
           "sha": "f0339f1411837ff4686da376428bae34071926e0",
           "lastSyncedAt": "2026-09-15T12:59:37.038Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0112-path-sum.py",
+          "path": "0112-path-sum/0112-path-sum.py",
+          "sha": "3339bca10407353e09c6964d950e0d08d6a95ff2",
+          "lastSyncedAt": "2026-09-15T12:59:48.215Z"
         }
       ]
     }
