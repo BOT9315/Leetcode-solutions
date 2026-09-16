@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-16T14:13:20.890Z",
+  "updatedAt": "2026-09-16T14:13:42.241Z",
   "problems": [
     {
       "frontendId": "99",
@@ -102,7 +102,7 @@
           "filename": "0103-binary-tree-zigzag-level-order-traversal.py",
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
           "sha": "a207e1e53bf5617adb67b18f05f36b4a3bd07283",
-          "lastSyncedAt": "2026-09-16T14:13:20.890Z"
+          "lastSyncedAt": "2026-09-16T14:13:42.241Z"
         }
       ]
     },
