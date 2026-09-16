@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-16T14:12:49.974Z",
+  "updatedAt": "2026-09-16T14:13:20.380Z",
   "problems": [
     {
       "frontendId": "100",
@@ -63,6 +63,26 @@
           "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py",
           "sha": "603b0c7611f1680c7843e44dcc03be85feb19826",
           "lastSyncedAt": "2026-09-16T14:12:49.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.py",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
+          "sha": "a207e1e53bf5617adb67b18f05f36b4a3bd07283",
+          "lastSyncedAt": "2026-09-16T14:13:20.380Z"
         }
       ]
     },
