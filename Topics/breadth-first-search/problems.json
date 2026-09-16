@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-16T14:12:42.079Z",
+  "updatedAt": "2026-09-16T14:12:49.974Z",
   "problems": [
     {
       "frontendId": "100",
@@ -62,7 +62,7 @@
           "filename": "0102-binary-tree-level-order-traversal.py",
           "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py",
           "sha": "603b0c7611f1680c7843e44dcc03be85feb19826",
-          "lastSyncedAt": "2026-09-14T06:56:23.839Z"
+          "lastSyncedAt": "2026-09-16T14:12:49.974Z"
         }
       ]
     },
