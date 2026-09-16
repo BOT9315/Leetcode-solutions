@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-16T14:14:36.140Z",
+  "updatedAt": "2026-09-16T14:15:52.831Z",
   "problems": [
     {
       "frontendId": "99",
@@ -103,6 +103,26 @@
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
           "sha": "a207e1e53bf5617adb67b18f05f36b4a3bd07283",
           "lastSyncedAt": "2026-09-16T14:14:36.140Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0104-maximum-depth-of-binary-tree.py",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.py",
+          "sha": "e8303241acee79c848c11a1985c33df02716f256",
+          "lastSyncedAt": "2026-09-16T14:15:52.831Z"
         }
       ]
     },
