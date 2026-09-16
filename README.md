@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 104 | 29 | 58 | 17 |
+| 105 | 29 | 59 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 20 |
+| 2 days | 16 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 10 |
 | 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
@@ -27,19 +26,20 @@
 | 2026-09-12 | 3 |
 | 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 53 | 51% |
+| Array | 53 | 50% |
 | String | 26 | 25% |
 | Two Pointers | 19 | 18% |
 | Math | 18 | 17% |
 | Dynamic Programming | 15 | 14% |
 | Sorting | 15 | 14% |
-| Backtracking | 13 | 13% |
-| Hash Table | 11 | 11% |
+| Backtracking | 13 | 12% |
+| Hash Table | 11 | 10% |
 | Linked List | 10 | 10% |
 | Binary Search | 9 | 9% |
 
@@ -52,11 +52,11 @@
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -88,7 +88,7 @@
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 8 |
+| [Tree](Topics/tree/) | 9 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 19 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
