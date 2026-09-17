@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 105 | 29 | 59 | 17 |
+| 107 | 30 | 60 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 21 |
+| 3 days | 16 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 10 |
 | 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
@@ -26,45 +25,46 @@
 | 2026-09-12 | 3 |
 | 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
-| 2026-09-16 | 1 |
+| 2026-09-16 | 2 |
+| 2026-09-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 53 | 50% |
-| String | 26 | 25% |
+| Array | 54 | 50% |
+| String | 26 | 24% |
 | Two Pointers | 19 | 18% |
 | Math | 18 | 17% |
 | Dynamic Programming | 15 | 14% |
 | Sorting | 15 | 14% |
 | Backtracking | 13 | 12% |
 | Hash Table | 11 | 10% |
-| Linked List | 10 | 10% |
-| Binary Search | 9 | 9% |
+| Binary Tree | 10 | 9% |
+| Linked List | 10 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 53 |
+| [Array](Topics/array/) | 54 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 9 |
+| [Binary Tree](Topics/binary-tree/) | 10 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 7 |
+| [Depth-First Search](Topics/depth-first-search/) | 8 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 4 |
+| [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
@@ -88,7 +88,7 @@
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 9 |
+| [Tree](Topics/tree/) | 10 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 19 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
