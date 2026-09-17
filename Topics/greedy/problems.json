@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-03T16:56:11.442Z",
+  "updatedAt": "2026-09-17T09:25:54.600Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,6 +83,26 @@
           "path": "0055-jump-game/0055-jump-game.py",
           "sha": "c915609ace5a852b37b181a1789bdf8895bf9f2f",
           "lastSyncedAt": "2026-09-03T16:56:11.442Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "problemName": "0134-gas-station",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+      "folderPath": "0134-gas-station/",
+      "readmePath": "0134-gas-station/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0134-gas-station.java",
+          "path": "0134-gas-station/0134-gas-station.java",
+          "sha": "d780700e9c2892e5e52fbe71e64d53f2b4f1ec69",
+          "lastSyncedAt": "2026-09-17T09:25:54.600Z"
         }
       ]
     }
