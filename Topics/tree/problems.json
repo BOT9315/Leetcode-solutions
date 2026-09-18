@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-18T10:52:13.175Z",
+  "updatedAt": "2026-09-18T10:52:22.263Z",
   "problems": [
     {
       "frontendId": "99",
@@ -162,7 +162,7 @@
           "filename": "0110-balanced-binary-tree.py",
           "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.py",
           "sha": "0e91c1f7777de73903dbbbe9eb3d73b9a316cbf1",
-          "lastSyncedAt": "2026-09-18T10:52:13.175Z"
+          "lastSyncedAt": "2026-09-18T10:52:22.263Z"
         }
       ]
     },
