@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 108 | 31 | 60 | 17 |
+| 109 | 32 | 60 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 22 |
+| 4 days | 16 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 10 |
 | 2026-09-04 | 5 |
 | 2026-09-05 | 10 |
 | 2026-09-06 | 5 |
@@ -27,21 +26,22 @@
 | 2026-09-15 | 3 |
 | 2026-09-16 | 2 |
 | 2026-09-17 | 2 |
+| 2026-09-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 51% |
+| Array | 55 | 50% |
 | String | 26 | 24% |
-| Two Pointers | 20 | 19% |
+| Two Pointers | 20 | 18% |
 | Math | 18 | 17% |
 | Dynamic Programming | 15 | 14% |
 | Sorting | 15 | 14% |
 | Backtracking | 13 | 12% |
+| Binary Tree | 11 | 10% |
 | Hash Table | 11 | 10% |
-| Binary Tree | 10 | 9% |
-| Linked List | 10 | 9% |
+| Tree | 11 | 10% |
 
 ## Topics
 
@@ -52,7 +52,7 @@
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 10 |
+| [Binary Tree](Topics/binary-tree/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -60,7 +60,7 @@
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 8 |
+| [Depth-First Search](Topics/depth-first-search/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
@@ -88,7 +88,7 @@
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 10 |
+| [Tree](Topics/tree/) | 11 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 20 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
