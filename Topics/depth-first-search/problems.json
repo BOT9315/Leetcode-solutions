@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-16T14:15:52.831Z",
+  "updatedAt": "2026-09-18T10:52:09.451Z",
   "problems": [
     {
       "frontendId": "79",
@@ -103,6 +103,26 @@
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.py",
           "sha": "e8303241acee79c848c11a1985c33df02716f256",
           "lastSyncedAt": "2026-09-16T14:15:52.831Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "0110-balanced-binary-tree/",
+      "readmePath": "0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0110-balanced-binary-tree.py",
+          "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.py",
+          "sha": "0e91c1f7777de73903dbbbe9eb3d73b9a316cbf1",
+          "lastSyncedAt": "2026-09-18T10:52:09.451Z"
         }
       ]
     },
