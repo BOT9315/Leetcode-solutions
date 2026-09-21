@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-21T13:12:54.788Z",
+  "updatedAt": "2026-09-21T13:13:06.071Z",
   "problems": [
     {
       "frontendId": "99",
@@ -242,7 +242,7 @@
           "filename": "0129-sum-root-to-leaf-numbers.java",
           "path": "0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.java",
           "sha": "7eab22d0e1a0d9de9f2fb9bfd970d6761741fa30",
-          "lastSyncedAt": "2026-09-21T13:12:54.788Z"
+          "lastSyncedAt": "2026-09-21T13:13:06.071Z"
         }
       ]
     }
