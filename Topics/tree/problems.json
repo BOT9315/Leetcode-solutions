@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-18T10:52:33.527Z",
+  "updatedAt": "2026-09-21T13:09:29.156Z",
   "problems": [
     {
       "frontendId": "99",
@@ -223,6 +223,26 @@
           "path": "0113-path-sum-ii/0113-path-sum-ii.py",
           "sha": "2e4379ce03a845575417bab848b1d1a24b0882e3",
           "lastSyncedAt": "2026-09-15T13:00:20.299Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "problemName": "0129-sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+      "folderPath": "0129-sum-root-to-leaf-numbers/",
+      "readmePath": "0129-sum-root-to-leaf-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0129-sum-root-to-leaf-numbers.java",
+          "path": "0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.java",
+          "sha": "7eab22d0e1a0d9de9f2fb9bfd970d6761741fa30",
+          "lastSyncedAt": "2026-09-21T13:09:29.156Z"
         }
       ]
     }
