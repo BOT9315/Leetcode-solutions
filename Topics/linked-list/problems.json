@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-23T14:57:57.787Z",
+  "updatedAt": "2026-09-23T14:58:14.821Z",
   "problems": [
     {
       "frontendId": "2",
@@ -222,7 +222,7 @@
           "filename": "0114-flatten-binary-tree-to-linked-list.py",
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
           "sha": "4cadc744c5f9fbed0defcad1bd6a74a4ca086646",
-          "lastSyncedAt": "2026-09-23T14:57:57.787Z"
+          "lastSyncedAt": "2026-09-23T14:58:14.821Z"
         }
       ]
     }
