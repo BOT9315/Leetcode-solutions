@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-06T17:06:41.874Z",
+  "updatedAt": "2026-09-23T14:57:52.381Z",
   "problems": [
     {
       "frontendId": "20",
@@ -131,6 +131,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
           "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
           "lastSyncedAt": "2026-09-06T17:06:41.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0114-flatten-binary-tree-to-linked-list.py",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
+          "sha": "4cadc744c5f9fbed0defcad1bd6a74a4ca086646",
+          "lastSyncedAt": "2026-09-23T14:57:52.381Z"
         }
       ]
     },
