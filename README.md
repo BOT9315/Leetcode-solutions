@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 111 | 32 | 61 | 18 |
+| 112 | 32 | 62 | 18 |
 
 ## Activity
 
@@ -26,22 +26,22 @@
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-21 | 1 |
-| 2026-09-23 | 1 |
+| 2026-09-23 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 50% |
+| Array | 55 | 49% |
 | String | 27 | 24% |
 | Two Pointers | 20 | 18% |
 | Math | 18 | 16% |
-| Dynamic Programming | 15 | 14% |
-| Sorting | 15 | 14% |
+| Dynamic Programming | 15 | 13% |
+| Sorting | 15 | 13% |
 | Backtracking | 14 | 13% |
-| Binary Tree | 12 | 11% |
+| Binary Tree | 13 | 12% |
+| Tree | 13 | 12% |
 | Hash Table | 12 | 11% |
-| Tree | 12 | 11% |
 
 ## Topics
 
