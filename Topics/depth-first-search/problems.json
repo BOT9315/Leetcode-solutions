@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-23T14:58:20.130Z",
+  "updatedAt": "2026-09-24T14:09:42.587Z",
   "problems": [
     {
       "frontendId": "79",
@@ -223,6 +223,26 @@
           "path": "0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.java",
           "sha": "7eab22d0e1a0d9de9f2fb9bfd970d6761741fa30",
           "lastSyncedAt": "2026-09-21T13:13:06.071Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0130-surrounded-regions.java",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.java",
+          "sha": "e4628d3a45041d180bea1e262b8e20fbc2411105",
+          "lastSyncedAt": "2026-09-24T14:09:42.587Z"
         }
       ]
     }
