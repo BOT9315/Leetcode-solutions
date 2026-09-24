@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-06T17:06:42.224Z",
+  "updatedAt": "2026-09-24T14:09:42.587Z",
   "problems": [
     {
       "frontendId": "36",
@@ -183,6 +183,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
           "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
           "lastSyncedAt": "2026-09-06T17:06:42.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0130-surrounded-regions.java",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.java",
+          "sha": "e4628d3a45041d180bea1e262b8e20fbc2411105",
+          "lastSyncedAt": "2026-09-24T14:09:42.587Z"
         }
       ]
     }
