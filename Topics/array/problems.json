@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T10:17:23.121Z",
+  "updatedAt": "2026-09-25T10:39:52.623Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1091,6 +1091,26 @@
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.java",
           "sha": "cf72dc2d999ba418528ec7ec4c67a2e53427051f",
           "lastSyncedAt": "2026-09-13T04:53:26.948Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "9650fe0abf4dc2f863eecb5aadf37d9ee5ad277e",
+          "lastSyncedAt": "2026-09-25T10:39:52.623Z"
         }
       ]
     },
