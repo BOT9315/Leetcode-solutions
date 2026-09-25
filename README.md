@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 113 | 32 | 63 | 18 |
+| 114 | 33 | 63 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 26 |
+| 3 days | 16 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
 | 2026-09-09 | 2 |
 | 2026-09-10 | 6 |
@@ -27,20 +26,21 @@
 | 2026-09-21 | 1 |
 | 2026-09-23 | 2 |
 | 2026-09-24 | 1 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 56 | 50% |
+| Array | 57 | 50% |
 | String | 27 | 24% |
 | Two Pointers | 20 | 18% |
 | Math | 18 | 16% |
 | Dynamic Programming | 15 | 13% |
 | Sorting | 15 | 13% |
 | Backtracking | 14 | 12% |
-| Binary Tree | 13 | 12% |
-| Tree | 13 | 12% |
+| Binary Tree | 13 | 11% |
+| Tree | 13 | 11% |
 | Depth-First Search | 12 | 11% |
 
 ## Topics
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 56 |
+| [Array](Topics/array/) | 57 |
 | [Backtracking](Topics/backtracking/) | 14 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
@@ -82,7 +82,7 @@
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Simulation](Topics/simulation/) | 5 |
+| [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 8 |
