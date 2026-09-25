@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 112 | 32 | 62 | 18 |
+| 113 | 32 | 63 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 25 |
+| 2 days | 16 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 5 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 4 |
 | 2026-09-09 | 2 |
@@ -27,21 +26,22 @@
 | 2026-09-18 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-23 | 2 |
+| 2026-09-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 49% |
+| Array | 56 | 50% |
 | String | 27 | 24% |
 | Two Pointers | 20 | 18% |
 | Math | 18 | 16% |
 | Dynamic Programming | 15 | 13% |
 | Sorting | 15 | 13% |
-| Backtracking | 14 | 13% |
+| Backtracking | 14 | 12% |
 | Binary Tree | 13 | 12% |
 | Tree | 13 | 12% |
-| Hash Table | 12 | 11% |
+| Depth-First Search | 12 | 11% |
 
 ## Topics
 
