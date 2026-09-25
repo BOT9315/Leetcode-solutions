@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-13T05:21:07.496Z",
+  "updatedAt": "2026-09-25T10:39:52.623Z",
   "problems": [
     {
       "frontendId": "43",
@@ -83,6 +83,26 @@
           "path": "0068-text-justification/0068-text-justification.py",
           "sha": "1216a0906a65d426d15bf0a99df6a50c54dde407",
           "lastSyncedAt": "2026-09-04T08:47:49.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "9650fe0abf4dc2f863eecb5aadf37d9ee5ad277e",
+          "lastSyncedAt": "2026-09-25T10:39:52.623Z"
         }
       ]
     },
