@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 115 | 34 | 63 | 18 |
+| 116 | 35 | 63 | 18 |
 
 ## Activity
 
@@ -26,13 +26,13 @@
 | 2026-09-23 | 2 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
-| 2026-09-26 | 1 |
+| 2026-09-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 57 | 50% |
+| Array | 57 | 49% |
 | String | 28 | 24% |
 | Two Pointers | 20 | 17% |
 | Math | 18 | 16% |
@@ -62,6 +62,7 @@
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 12 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Graph](Topics/graph/) | 0 |
@@ -78,6 +79,7 @@
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
+| [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
@@ -85,7 +87,7 @@
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
-| [Stack](Topics/stack/) | 8 |
+| [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 29 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
