@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 57 |
+| [Array](Topics/array/) | 58 |
 | [Backtracking](Topics/backtracking/) | 14 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
@@ -73,7 +73,7 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 19 |
+| [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 10 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -93,7 +93,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 13 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 20 |
+| [Two Pointers](Topics/two-pointers/) | 21 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
