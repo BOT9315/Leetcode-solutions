@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-27T04:50:09.551Z",
+  "updatedAt": "2026-09-27T04:57:40.211Z",
   "problems": [
     {
       "frontendId": "5",
@@ -379,6 +379,26 @@
           "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
           "sha": "a78966f7697497320ebafebedc3121524929d7e2",
           "lastSyncedAt": "2026-08-30T14:13:42.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "0189-rotate-array/0189-rotate-array.java",
+          "sha": "b31605e1cb699a8030bccdc58d1e00ccbb2fc6dc",
+          "lastSyncedAt": "2026-09-27T04:57:40.211Z"
         }
       ]
     },
