@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-27T04:58:17.204Z",
+  "updatedAt": "2026-09-27T05:10:14.907Z",
   "problems": [
     {
       "frontendId": "2",
@@ -164,6 +164,14 @@
       "folderPath": "0048-rotate-image/",
       "readmePath": "0048-rotate-image/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "b2b34c6a9a41e0ae15188e36250576a93b38da7c",
+          "lastSyncedAt": "2026-09-27T05:10:14.907Z"
+        },
         {
           "language": "Python",
           "extension": ".py",
