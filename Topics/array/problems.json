@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T10:56:57.162Z",
+  "updatedAt": "2026-09-27T04:50:01.216Z",
   "problems": [
     {
       "frontendId": "1",
@@ -156,6 +156,14 @@
       "folderPath": "0026-remove-duplicates-from-sorted-array/",
       "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "d35f2881ba7683f637d57366de83b2e1148b64a7",
+          "lastSyncedAt": "2026-09-27T04:50:01.216Z"
+        },
         {
           "language": "Python",
           "extension": ".py",
