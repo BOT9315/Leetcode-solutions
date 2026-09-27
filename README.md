@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 117 | 35 | 64 | 18 |
+| 118 | 36 | 64 | 18 |
 
 ## Activity
 
@@ -26,13 +26,13 @@
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
-| 2026-09-27 | 1 |
+| 2026-09-27 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 58 | 50% |
+| Array | 59 | 50% |
 | String | 28 | 24% |
 | Two Pointers | 21 | 18% |
 | Math | 19 | 16% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 58 |
+| [Array](Topics/array/) | 59 |
 | [Backtracking](Topics/backtracking/) | 14 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
