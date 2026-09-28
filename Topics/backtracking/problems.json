@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-23T14:56:02.261Z",
+  "updatedAt": "2026-09-28T12:46:10.065Z",
   "problems": [
     {
       "frontendId": "17",
@@ -283,6 +283,26 @@
           "path": "0126-word-ladder-ii/0126-word-ladder-ii.java",
           "sha": "b83e0fd129be2a90987f0696485fdb9f9368af41",
           "lastSyncedAt": "2026-09-23T14:56:02.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "0131-palindrome-partitioning/",
+      "readmePath": "0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0131-palindrome-partitioning.cpp",
+          "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
+          "sha": "e4d23039d72f0594b5c675f128e8c36b38f6451a",
+          "lastSyncedAt": "2026-09-28T12:46:10.065Z"
         }
       ]
     }
