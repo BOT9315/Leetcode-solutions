@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T06:15:26.450Z",
+  "updatedAt": "2026-09-29T10:45:48.774Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "0126-word-ladder-ii/0126-word-ladder-ii.java",
           "sha": "b83e0fd129be2a90987f0696485fdb9f9368af41",
           "lastSyncedAt": "2026-09-23T14:56:02.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "133",
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "problemName": "0133-clone-graph",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
+      "folderPath": "0133-clone-graph/",
+      "readmePath": "0133-clone-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0133-clone-graph.java",
+          "path": "0133-clone-graph/0133-clone-graph.java",
+          "sha": "160bf8b701195059efbf17ef6b6a85098ba57dfd",
+          "lastSyncedAt": "2026-09-29T10:45:48.774Z"
         }
       ]
     },
