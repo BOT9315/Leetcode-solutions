@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T14:09:52.146Z",
+  "updatedAt": "2026-09-29T10:45:48.774Z",
   "problems": [
     {
       "frontendId": "79",
@@ -243,6 +243,26 @@
           "path": "0130-surrounded-regions/0130-surrounded-regions.java",
           "sha": "e4628d3a45041d180bea1e262b8e20fbc2411105",
           "lastSyncedAt": "2026-09-24T14:09:52.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "133",
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "problemName": "0133-clone-graph",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
+      "folderPath": "0133-clone-graph/",
+      "readmePath": "0133-clone-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0133-clone-graph.java",
+          "path": "0133-clone-graph/0133-clone-graph.java",
+          "sha": "160bf8b701195059efbf17ef6b6a85098ba57dfd",
+          "lastSyncedAt": "2026-09-29T10:45:48.774Z"
         }
       ]
     }
