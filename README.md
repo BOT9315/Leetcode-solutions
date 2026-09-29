@@ -3,18 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 118 | 36 | 64 | 18 |
+| 120 | 36 | 66 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 16 days | 29 |
+| 7 days | 16 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 6 |
-| 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
@@ -27,21 +25,23 @@
 | 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
 | 2026-09-27 | 2 |
+| 2026-09-28 | 1 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 59 | 50% |
-| String | 28 | 24% |
+| Array | 59 | 49% |
+| String | 29 | 24% |
 | Two Pointers | 21 | 18% |
 | Math | 19 | 16% |
-| Sorting | 16 | 14% |
-| Dynamic Programming | 15 | 13% |
-| Backtracking | 14 | 12% |
+| Dynamic Programming | 16 | 13% |
+| Sorting | 16 | 13% |
+| Backtracking | 15 | 13% |
+| Hash Table | 14 | 12% |
 | Binary Tree | 13 | 11% |
-| Hash Table | 13 | 11% |
-| Tree | 13 | 11% |
+| Depth-First Search | 13 | 11% |
 
 ## Topics
 
@@ -49,7 +49,7 @@
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
 | [Array](Topics/array/) | 59 |
-| [Backtracking](Topics/backtracking/) | 14 |
+| [Backtracking](Topics/backtracking/) | 15 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -57,17 +57,17 @@
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 9 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 12 |
+| [Depth-First Search](Topics/depth-first-search/) | 13 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
-| [Graph](Topics/graph/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -88,7 +88,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 13 |
