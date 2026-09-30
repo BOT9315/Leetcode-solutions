@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 121 | 37 | 66 | 18 |
+| 122 | 38 | 66 | 18 |
 
 ## Activity
 
@@ -26,20 +26,20 @@
 | 2026-09-27 | 2 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
-| 2026-09-30 | 1 |
+| 2026-09-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 59 | 49% |
+| Array | 59 | 48% |
 | String | 29 | 24% |
-| Two Pointers | 21 | 17% |
+| Two Pointers | 22 | 18% |
 | Math | 19 | 16% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
 | Backtracking | 15 | 12% |
-| Hash Table | 14 | 12% |
+| Hash Table | 15 | 12% |
 | Binary Tree | 13 | 11% |
 | Depth-First Search | 13 | 11% |
 
@@ -65,13 +65,14 @@
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 15 |
+| [Hash Table](Topics/hash-table/) | 16 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 12 |
+| [Linked List](Topics/linked-list/) | 13 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 10 |
@@ -93,7 +94,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 13 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 21 |
+| [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
