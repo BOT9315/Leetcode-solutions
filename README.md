@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 120 | 36 | 66 | 18 |
+| 121 | 37 | 66 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 16 days | 31 |
+| 8 days | 16 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-12 | 3 |
 | 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
 | 2026-09-16 | 2 |
@@ -27,6 +26,7 @@
 | 2026-09-27 | 2 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
@@ -34,11 +34,11 @@
 | --- | ---: | ---: |
 | Array | 59 | 49% |
 | String | 29 | 24% |
-| Two Pointers | 21 | 18% |
+| Two Pointers | 21 | 17% |
 | Math | 19 | 16% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
-| Backtracking | 15 | 13% |
+| Backtracking | 15 | 12% |
 | Hash Table | 14 | 12% |
 | Binary Tree | 13 | 11% |
 | Depth-First Search | 13 | 11% |
@@ -71,7 +71,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 11 |
+| [Linked List](Topics/linked-list/) | 12 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 10 |
@@ -83,7 +83,7 @@
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 7 |
+| [Recursion](Topics/recursion/) | 8 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
