@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-26T06:36:58.866Z",
+  "updatedAt": "2026-09-30T09:01:56.284Z",
   "problems": [
     {
       "frontendId": "20",
@@ -131,6 +131,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.py",
           "sha": "912ae5b40b942f8c835c85d587a6ea4d87cd017b",
           "lastSyncedAt": "2026-09-06T17:06:41.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "0094-binary-tree-inorder-traversal/",
+      "readmePath": "0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0094-binary-tree-inorder-traversal.cpp",
+          "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
+          "sha": "0b0bb984ae8ced5b2c285299c403033739d19e1c",
+          "lastSyncedAt": "2026-09-30T09:01:56.284Z"
         }
       ]
     },
