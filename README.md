@@ -53,7 +53,7 @@
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 13 |
+| [Binary Tree](Topics/binary-tree/) | 14 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -61,7 +61,7 @@
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 13 |
+| [Depth-First Search](Topics/depth-first-search/) | 14 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
@@ -88,11 +88,11 @@
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
-| [Stack](Topics/stack/) | 9 |
+| [Stack](Topics/stack/) | 10 |
 | [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 13 |
+| [Tree](Topics/tree/) | 14 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 1 |
