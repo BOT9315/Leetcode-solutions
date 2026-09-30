@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-30T09:01:56.728Z",
+  "updatedAt": "2026-09-30T09:01:56.284Z",
   "problems": [
     {
       "frontendId": "94",
@@ -22,7 +22,7 @@
           "filename": "0094-binary-tree-inorder-traversal.cpp",
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
           "sha": "0b0bb984ae8ced5b2c285299c403033739d19e1c",
-          "lastSyncedAt": "2026-09-30T09:01:56.728Z"
+          "lastSyncedAt": "2026-09-30T09:01:56.284Z"
         }
       ]
     },
