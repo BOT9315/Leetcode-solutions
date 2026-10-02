@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 123 | 39 | 66 | 18 |
+| 124 | 39 | 66 | 19 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 16 days | 32 |
+| 1 days | 16 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
 | 2026-09-16 | 2 |
 | 2026-09-17 | 2 |
@@ -27,16 +26,17 @@
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 3 |
+| 2026-10-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 59 | 48% |
-| String | 29 | 24% |
+| String | 30 | 24% |
 | Two Pointers | 22 | 18% |
 | Math | 19 | 15% |
-| Dynamic Programming | 16 | 13% |
+| Dynamic Programming | 17 | 14% |
 | Sorting | 16 | 13% |
 | Backtracking | 15 | 12% |
 | Hash Table | 15 | 12% |
@@ -64,7 +64,7 @@
 | [Depth-First Search](Topics/depth-first-search/) | 14 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
@@ -89,7 +89,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 30 |
+| [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 14 |
