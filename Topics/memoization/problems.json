@@ -4,7 +4,7 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-09-04T08:49:51.217Z",
+  "updatedAt": "2026-10-03T06:37:09.502Z",
   "problems": [
     {
       "frontendId": "70",
@@ -23,6 +23,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.py",
           "sha": "af7699f71f5061abe0349e4941f9af700bacb2da",
           "lastSyncedAt": "2026-09-04T08:49:51.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0139-word-break.java",
+          "path": "0139-word-break/0139-word-break.java",
+          "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
+          "lastSyncedAt": "2026-10-03T06:37:09.502Z"
         }
       ]
     }
