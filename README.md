@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 126 | 39 | 67 | 20 |
+| 127 | 39 | 68 | 20 |
 
 ## Activity
 
@@ -26,29 +26,29 @@
 | 2026-09-29 | 1 |
 | 2026-09-30 | 3 |
 | 2026-10-02 | 1 |
-| 2026-10-03 | 2 |
+| 2026-10-03 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 59 | 47% |
-| String | 31 | 25% |
+| Array | 60 | 47% |
+| String | 32 | 25% |
 | Two Pointers | 22 | 17% |
+| Dynamic Programming | 19 | 15% |
 | Math | 19 | 15% |
-| Dynamic Programming | 18 | 14% |
+| Hash Table | 16 | 13% |
 | Sorting | 16 | 13% |
 | Backtracking | 15 | 12% |
 | Binary Tree | 15 | 12% |
 | Depth-First Search | 15 | 12% |
-| Hash Table | 15 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 59 |
+| [Array](Topics/array/) | 60 |
 | [Backtracking](Topics/backtracking/) | 15 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
@@ -59,17 +59,18 @@
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
+| [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 17 |
+| [Hash Table](Topics/hash-table/) | 18 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -78,7 +79,7 @@
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 10 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -91,11 +92,11 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 33 |
+| [String](Topics/string/) | 34 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 15 |
-| [Trie](Topics/trie/) | 1 |
+| [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
