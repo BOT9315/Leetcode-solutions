@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-03T06:15:02.067Z",
+  "updatedAt": "2026-10-03T06:15:08.786Z",
   "problems": [
     {
       "frontendId": "79",
@@ -302,7 +302,7 @@
           "filename": "0236-lowest-common-ancestor-of-a-binary-tree.cpp",
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.cpp",
           "sha": "afe2753e1a17f1f6db1db447c2c0f25ca6ed8a38",
-          "lastSyncedAt": "2026-10-03T06:15:02.067Z"
+          "lastSyncedAt": "2026-10-03T06:15:08.786Z"
         }
       ]
     }
