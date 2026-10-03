@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T06:24:16.403Z",
+  "updatedAt": "2026-10-03T06:37:09.502Z",
   "problems": [
     {
       "frontendId": "3",
@@ -659,6 +659,26 @@
           "path": "0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java",
           "sha": "8db82bf0e5389ed4cea414b915f0818bf83ffee5",
           "lastSyncedAt": "2026-10-03T06:24:16.403Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0139-word-break.java",
+          "path": "0139-word-break/0139-word-break.java",
+          "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
+          "lastSyncedAt": "2026-10-03T06:37:09.502Z"
         }
       ]
     },
