@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 125 | 39 | 67 | 19 |
+| 126 | 39 | 67 | 20 |
 
 ## Activity
 
@@ -26,17 +26,17 @@
 | 2026-09-29 | 1 |
 | 2026-09-30 | 3 |
 | 2026-10-02 | 1 |
-| 2026-10-03 | 1 |
+| 2026-10-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 59 | 47% |
-| String | 30 | 24% |
-| Two Pointers | 22 | 18% |
+| String | 31 | 25% |
+| Two Pointers | 22 | 17% |
 | Math | 19 | 15% |
-| Dynamic Programming | 17 | 14% |
+| Dynamic Programming | 18 | 14% |
 | Sorting | 16 | 13% |
 | Backtracking | 15 | 12% |
 | Binary Tree | 15 | 12% |
@@ -65,7 +65,7 @@
 | [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
@@ -91,7 +91,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 32 |
+| [String](Topics/string/) | 33 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 15 |
