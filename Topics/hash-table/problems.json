@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-02T13:41:25.000Z",
+  "updatedAt": "2026-10-03T06:37:09.502Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,6 +283,26 @@
           "path": "0133-clone-graph/0133-clone-graph.java",
           "sha": "160bf8b701195059efbf17ef6b6a85098ba57dfd",
           "lastSyncedAt": "2026-09-29T10:45:50.154Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0139-word-break.java",
+          "path": "0139-word-break/0139-word-break.java",
+          "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
+          "lastSyncedAt": "2026-10-03T06:37:09.502Z"
         }
       ]
     },
