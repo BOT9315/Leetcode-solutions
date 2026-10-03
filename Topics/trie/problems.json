@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-10-03T06:42:37.621Z",
+  "updatedAt": "2026-10-03T06:57:12.967Z",
   "problems": [
     {
       "frontendId": "14",
@@ -42,7 +42,7 @@
           "filename": "0139-word-break.java",
           "path": "0139-word-break/0139-word-break.java",
           "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
-          "lastSyncedAt": "2026-10-03T06:42:37.621Z"
+          "lastSyncedAt": "2026-10-03T06:57:12.967Z"
         }
       ]
     }
