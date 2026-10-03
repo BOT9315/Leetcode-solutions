@@ -49,7 +49,7 @@
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
 | [Array](Topics/array/) | 60 |
-| [Backtracking](Topics/backtracking/) | 15 |
+| [Backtracking](Topics/backtracking/) | 16 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 7 |
@@ -57,7 +57,7 @@
 | [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -66,7 +66,7 @@
 | [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
@@ -92,7 +92,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 34 |
+| [String](Topics/string/) | 35 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 15 |
