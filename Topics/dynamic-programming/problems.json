@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-03T06:24:13.394Z",
+  "updatedAt": "2026-10-03T06:24:16.403Z",
   "problems": [
     {
       "frontendId": "5",
@@ -362,7 +362,7 @@
           "filename": "0132-palindrome-partitioning-ii.java",
           "path": "0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java",
           "sha": "8db82bf0e5389ed4cea414b915f0818bf83ffee5",
-          "lastSyncedAt": "2026-10-03T06:24:13.394Z"
+          "lastSyncedAt": "2026-10-03T06:24:16.403Z"
         }
       ]
     }
