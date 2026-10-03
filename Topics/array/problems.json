@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-27T05:17:50.894Z",
+  "updatedAt": "2026-10-03T06:37:09.502Z",
   "problems": [
     {
       "frontendId": "1",
@@ -967,6 +967,26 @@
           "path": "0134-gas-station/0134-gas-station.java",
           "sha": "d780700e9c2892e5e52fbe71e64d53f2b4f1ec69",
           "lastSyncedAt": "2026-09-17T09:26:06.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0139-word-break.java",
+          "path": "0139-word-break/0139-word-break.java",
+          "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
+          "lastSyncedAt": "2026-10-03T06:37:09.502Z"
         }
       ]
     },
