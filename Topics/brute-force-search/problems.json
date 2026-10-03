@@ -4,7 +4,7 @@
     "slug": "brute-force-search",
     "name": "Brute-Force Search"
   },
-  "updatedAt": "2026-10-03T06:37:09.502Z",
+  "updatedAt": "2026-10-03T06:37:20.560Z",
   "problems": [
     {
       "frontendId": "139",
@@ -22,7 +22,7 @@
           "filename": "0139-word-break.java",
           "path": "0139-word-break/0139-word-break.java",
           "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
-          "lastSyncedAt": "2026-10-03T06:37:09.502Z"
+          "lastSyncedAt": "2026-10-03T06:37:20.560Z"
         }
       ]
     }
