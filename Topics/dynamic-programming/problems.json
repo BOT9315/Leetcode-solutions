@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-03T07:03:37.775Z",
+  "updatedAt": "2026-10-04T15:52:56.140Z",
   "problems": [
     {
       "frontendId": "5",
@@ -403,6 +403,26 @@
           "path": "0139-word-break/0139-word-break.java",
           "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
           "lastSyncedAt": "2026-10-03T06:57:24.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0678-valid-parenthesis-string.java",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
+          "sha": "b896813fee0a7244a1f9d57e569cd744d82fbc41",
+          "lastSyncedAt": "2026-10-04T15:52:56.140Z"
         }
       ]
     }
