@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 128 | 39 | 69 | 20 |
+| 129 | 39 | 70 | 20 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 34 |
+| 3 days | 16 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 2 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-21 | 1 |
@@ -27,19 +26,20 @@
 | 2026-09-30 | 3 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 4 |
+| 2026-10-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 60 | 47% |
-| String | 33 | 26% |
+| String | 34 | 26% |
 | Two Pointers | 22 | 17% |
-| Dynamic Programming | 20 | 16% |
+| Dynamic Programming | 21 | 16% |
 | Math | 19 | 15% |
-| Backtracking | 16 | 13% |
-| Hash Table | 16 | 13% |
-| Sorting | 16 | 13% |
+| Backtracking | 16 | 12% |
+| Hash Table | 16 | 12% |
+| Sorting | 16 | 12% |
 | Binary Tree | 15 | 12% |
 | Depth-First Search | 15 | 12% |
 
@@ -57,7 +57,7 @@
 | [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -66,10 +66,10 @@
 | [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 18 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
@@ -91,8 +91,8 @@
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
-| [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 35 |
+| [Stack](Topics/stack/) | 11 |
+| [String](Topics/string/) | 36 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 15 |
