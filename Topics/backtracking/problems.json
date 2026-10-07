@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-10-07T14:18:41.690Z",
+  "updatedAt": "2026-10-07T14:18:55.276Z",
   "problems": [
     {
       "frontendId": "17",
@@ -342,7 +342,7 @@
           "filename": "0301-remove-invalid-parentheses.java",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.java",
           "sha": "99d375c745001e46002c7653e853a6216359aa5f",
-          "lastSyncedAt": "2026-10-07T14:18:41.690Z"
+          "lastSyncedAt": "2026-10-07T14:18:55.276Z"
         }
       ]
     }
