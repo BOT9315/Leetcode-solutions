@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-10-07T14:19:00.727Z",
+  "updatedAt": "2026-10-07T14:19:09.841Z",
   "problems": [
     {
       "frontendId": "100",
@@ -242,7 +242,7 @@
           "filename": "0301-remove-invalid-parentheses.java",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.java",
           "sha": "99d375c745001e46002c7653e853a6216359aa5f",
-          "lastSyncedAt": "2026-10-07T14:19:00.727Z"
+          "lastSyncedAt": "2026-10-07T14:19:09.841Z"
         }
       ]
     }
