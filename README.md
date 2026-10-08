@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 133 | 41 | 71 | 21 |
+| 134 | 41 | 72 | 21 |
 
 ## Activity
 
@@ -26,14 +26,14 @@
 | 2026-10-03 | 4 |
 | 2026-10-04 | 1 |
 | 2026-10-07 | 1 |
-| 2026-10-08 | 3 |
+| 2026-10-08 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 60 | 45% |
-| String | 38 | 29% |
+| Array | 61 | 46% |
+| String | 38 | 28% |
 | Two Pointers | 24 | 18% |
 | Dynamic Programming | 21 | 16% |
 | Math | 19 | 14% |
@@ -48,11 +48,11 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 60 |
+| [Array](Topics/array/) | 61 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
