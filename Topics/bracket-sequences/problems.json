@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-04T15:53:08.481Z",
+  "updatedAt": "2026-10-08T06:20:15.636Z",
   "problems": [
     {
       "frontendId": "20",
@@ -91,6 +91,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
           "sha": "b896813fee0a7244a1f9d57e569cd744d82fbc41",
           "lastSyncedAt": "2026-10-04T15:53:08.481Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1021-remove-outermost-parentheses.java",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
+          "sha": "70d428fd3d237f5eda1635a89525d3e58b8d9331",
+          "lastSyncedAt": "2026-10-08T06:20:15.636Z"
         }
       ]
     }
