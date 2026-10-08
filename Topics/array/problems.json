@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-03T06:57:24.099Z",
+  "updatedAt": "2026-10-08T13:00:09.920Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1007,6 +1008,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "302edf63e68b41d7f492555c8a6ee0372d44ce6f",
           "lastSyncedAt": "2026-08-30T14:13:25.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "9016750a3ed6109ec84373db7448264b349072ca",
+          "lastSyncedAt": "2026-10-08T13:00:09.920Z"
         }
       ]
     },
