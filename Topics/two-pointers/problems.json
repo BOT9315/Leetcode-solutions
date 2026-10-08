@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-08T06:08:41.915Z",
+  "updatedAt": "2026-10-08T06:08:43.610Z",
   "problems": [
     {
       "frontendId": "5",
@@ -466,7 +466,7 @@
           "filename": "0344-reverse-string.cpp",
           "path": "0344-reverse-string/0344-reverse-string.cpp",
           "sha": "cf3e2dae7829cd67ea28d74b3a03aae9aaface2b",
-          "lastSyncedAt": "2026-10-08T06:08:41.915Z"
+          "lastSyncedAt": "2026-10-08T06:08:43.610Z"
         }
       ]
     },
