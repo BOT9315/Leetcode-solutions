@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-08T06:20:15.636Z",
+  "updatedAt": "2026-10-08T06:20:15.986Z",
   "problems": [
     {
       "frontendId": "20",
@@ -110,7 +110,7 @@
           "filename": "1021-remove-outermost-parentheses.java",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
           "sha": "70d428fd3d237f5eda1635a89525d3e58b8d9331",
-          "lastSyncedAt": "2026-10-08T06:20:15.636Z"
+          "lastSyncedAt": "2026-10-08T06:20:15.986Z"
         }
       ]
     }
