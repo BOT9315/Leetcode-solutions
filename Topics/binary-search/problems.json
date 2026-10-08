@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-09-10T12:24:30.049Z",
+  "updatedAt": "2026-10-08T13:00:09.920Z",
   "problems": [
     {
       "frontendId": "4",
@@ -123,6 +124,26 @@
           "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py",
           "sha": "e2b85318db404e6bf4cf573b9efa17449218ee90",
           "lastSyncedAt": "2026-09-06T17:04:13.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "9016750a3ed6109ec84373db7448264b349072ca",
+          "lastSyncedAt": "2026-10-08T13:00:09.920Z"
         }
       ]
     },
