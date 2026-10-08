@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 132 | 41 | 70 | 21 |
+| 133 | 41 | 71 | 21 |
 
 ## Activity
 
@@ -26,15 +26,15 @@
 | 2026-10-03 | 4 |
 | 2026-10-04 | 1 |
 | 2026-10-07 | 1 |
-| 2026-10-08 | 2 |
+| 2026-10-08 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 60 | 45% |
-| String | 37 | 28% |
-| Two Pointers | 23 | 17% |
+| String | 38 | 29% |
+| Two Pointers | 24 | 18% |
 | Dynamic Programming | 21 | 16% |
 | Math | 19 | 14% |
 | Backtracking | 17 | 13% |
@@ -92,12 +92,12 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 39 |
+| [String](Topics/string/) | 40 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 15 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 23 |
+| [Two Pointers](Topics/two-pointers/) | 24 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
