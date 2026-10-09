@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-09T16:47:47.593Z",
+  "updatedAt": "2026-10-09T16:48:02.749Z",
   "problems": [
     {
       "frontendId": "20",
@@ -131,7 +131,7 @@
           "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
-          "lastSyncedAt": "2026-10-09T16:47:47.593Z"
+          "lastSyncedAt": "2026-10-09T16:48:02.749Z"
         }
       ]
     }
