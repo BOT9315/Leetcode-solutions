@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-08T12:58:07.631Z",
+  "updatedAt": "2026-10-09T16:47:35.926Z",
   "problems": [
     {
       "frontendId": "3",
@@ -820,6 +820,26 @@
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
           "sha": "70d428fd3d237f5eda1635a89525d3e58b8d9331",
           "lastSyncedAt": "2026-10-08T06:20:32.360Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "problemName": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+      "folderPath": "1541-minimum-insertions-to-balance-a-parentheses-string/",
+      "readmePath": "1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.java",
+          "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
+          "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
+          "lastSyncedAt": "2026-10-09T16:47:35.926Z"
         }
       ]
     }
