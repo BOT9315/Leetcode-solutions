@@ -3,16 +3,17 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 135 | 41 | 73 | 21 |
+| 134 | 41 | 72 | 21 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 38 |
+| 2 days | 16 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
+| 2026-09-21 | 1 |
 | 2026-09-23 | 2 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
@@ -26,14 +27,13 @@
 | 2026-10-04 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 4 |
-| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 45% |
-| String | 39 | 29% |
+| Array | 61 | 46% |
+| String | 38 | 28% |
 | Two Pointers | 24 | 18% |
 | Dynamic Programming | 21 | 16% |
 | Math | 19 | 14% |
