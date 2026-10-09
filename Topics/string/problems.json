@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T16:47:37.452Z",
+  "updatedAt": "2026-10-09T16:47:47.593Z",
   "problems": [
     {
       "frontendId": "3",
@@ -839,7 +839,7 @@
           "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
-          "lastSyncedAt": "2026-10-09T16:47:37.452Z"
+          "lastSyncedAt": "2026-10-09T16:47:47.593Z"
         }
       ]
     }
