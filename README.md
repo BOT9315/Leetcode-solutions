@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 134 | 41 | 72 | 21 |
+| 135 | 41 | 73 | 21 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 37 |
+| 3 days | 16 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-23 | 2 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
@@ -27,13 +26,14 @@
 | 2026-10-04 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 4 |
+| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 46% |
-| String | 38 | 28% |
+| Array | 61 | 45% |
+| String | 39 | 29% |
 | Two Pointers | 24 | 18% |
 | Dynamic Programming | 21 | 16% |
 | Math | 19 | 14% |
@@ -57,7 +57,7 @@
 | [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 12 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -69,7 +69,7 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 6 |
+| [Greedy](Topics/greedy/) | 7 |
 | [Hash Table](Topics/hash-table/) | 18 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
@@ -91,8 +91,8 @@
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 16 |
-| [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 40 |
+| [Stack](Topics/stack/) | 13 |
+| [String](Topics/string/) | 41 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 15 |
