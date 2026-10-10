@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 135 | 41 | 73 | 21 |
+| 136 | 41 | 74 | 21 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 38 |
+| 4 days | 16 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-23 | 2 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
@@ -27,19 +26,20 @@
 | 2026-10-07 | 1 |
 | 2026-10-08 | 4 |
 | 2026-10-09 | 1 |
+| 2026-10-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 45% |
+| Array | 62 | 46% |
 | String | 39 | 29% |
 | Two Pointers | 24 | 18% |
-| Dynamic Programming | 21 | 16% |
+| Dynamic Programming | 21 | 15% |
 | Math | 19 | 14% |
 | Backtracking | 17 | 13% |
+| Sorting | 17 | 13% |
 | Hash Table | 16 | 12% |
-| Sorting | 16 | 12% |
 | Binary Tree | 15 | 11% |
 | Depth-First Search | 15 | 11% |
 
@@ -48,11 +48,11 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 61 |
+| [Array](Topics/array/) | 62 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 8 |
+| [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
@@ -69,10 +69,10 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 7 |
+| [Greedy](Topics/greedy/) | 8 |
 | [Hash Table](Topics/hash-table/) | 18 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -90,7 +90,7 @@
 | [Recursion](Topics/recursion/) | 8 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 16 |
+| [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 41 |
 | [String Matching](Topics/string-matching/) | 1 |
