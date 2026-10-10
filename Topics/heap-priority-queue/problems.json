@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "heap-priority-queue",
-    "name": "Heap (Priority Queue)"
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
   },
-  "updatedAt": "2026-09-13T05:21:07.496Z",
+  "updatedAt": "2026-10-10T08:26:55.943Z",
   "problems": [
     {
       "frontendId": "23",
@@ -43,6 +44,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b68c8dfe131c51be21439f22c31b40d10c191040",
           "lastSyncedAt": "2026-09-10T09:11:20.386Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "b51b664fb8c577f780dc6a738de7c7c5a3addb43",
+          "lastSyncedAt": "2026-10-10T08:26:55.943Z"
         }
       ]
     },
