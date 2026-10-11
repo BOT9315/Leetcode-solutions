@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-11T04:58:01.278Z",
+  "updatedAt": "2026-10-11T04:58:55.881Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -23,7 +23,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.cpp",
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "55f3fd7e0482f4251de192d5cb482e2e402126fb",
-          "lastSyncedAt": "2026-10-11T04:58:01.278Z"
+          "lastSyncedAt": "2026-10-11T04:58:55.881Z"
         }
       ]
     }
