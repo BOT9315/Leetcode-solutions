@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 136 | 41 | 74 | 21 |
+| 137 | 42 | 74 | 21 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 39 |
+| 5 days | 16 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
 | 2026-09-27 | 2 |
@@ -27,18 +26,19 @@
 | 2026-10-08 | 4 |
 | 2026-10-09 | 1 |
 | 2026-10-10 | 1 |
+| 2026-10-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 62 | 46% |
-| String | 39 | 29% |
+| Array | 63 | 46% |
+| String | 39 | 28% |
 | Two Pointers | 24 | 18% |
 | Dynamic Programming | 21 | 15% |
 | Math | 19 | 14% |
-| Backtracking | 17 | 13% |
-| Sorting | 17 | 13% |
+| Backtracking | 17 | 12% |
+| Sorting | 17 | 12% |
 | Hash Table | 16 | 12% |
 | Binary Tree | 15 | 11% |
 | Depth-First Search | 15 | 11% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 62 |
+| [Array](Topics/array/) | 63 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
@@ -67,6 +67,7 @@
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 21 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
