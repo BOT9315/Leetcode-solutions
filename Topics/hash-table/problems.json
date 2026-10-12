@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-12T14:01:22.763Z",
+  "updatedAt": "2026-10-12T14:02:06.725Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,7 +383,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "c4b0932eba93d1238247c60fa1e70ea3f32288e2",
-          "lastSyncedAt": "2026-10-12T14:01:22.763Z"
+          "lastSyncedAt": "2026-10-12T14:02:06.725Z"
         }
       ]
     }
