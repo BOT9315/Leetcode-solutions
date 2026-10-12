@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-09-10T12:24:30.049Z",
+  "updatedAt": "2026-10-12T14:00:58.250Z",
   "problems": [
     {
       "frontendId": "29",
@@ -103,6 +104,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "31f379e8d98341f8f3186e3a602c8a25a2cd6c98",
           "lastSyncedAt": "2026-09-10T12:24:30.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
+          "sha": "c4b0932eba93d1238247c60fa1e70ea3f32288e2",
+          "lastSyncedAt": "2026-10-12T14:00:58.250Z"
         }
       ]
     }
