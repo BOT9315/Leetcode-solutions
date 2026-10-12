@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 137 | 42 | 74 | 21 |
+| 138 | 42 | 74 | 22 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 16 days | 40 |
+| 6 days | 16 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
 | 2026-09-27 | 2 |
 | 2026-09-28 | 1 |
@@ -27,19 +26,20 @@
 | 2026-10-09 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
+| 2026-10-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 63 | 46% |
+| Array | 64 | 46% |
 | String | 39 | 28% |
-| Two Pointers | 24 | 18% |
+| Two Pointers | 24 | 17% |
 | Dynamic Programming | 21 | 15% |
 | Math | 19 | 14% |
 | Backtracking | 17 | 12% |
+| Hash Table | 17 | 12% |
 | Sorting | 17 | 12% |
-| Hash Table | 16 | 12% |
 | Binary Tree | 15 | 11% |
 | Depth-First Search | 15 | 11% |
 
@@ -48,14 +48,14 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 63 |
+| [Array](Topics/array/) | 64 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 15 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 6 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 12 |
@@ -70,8 +70,8 @@
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 18 |
+| [Greedy](Topics/greedy/) | 9 |
+| [Hash Table](Topics/hash-table/) | 19 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
