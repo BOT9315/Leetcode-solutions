@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T12:59:57.759Z",
+  "updatedAt": "2026-10-13T13:00:06.674Z",
   "problems": [
     {
       "frontendId": "11",
@@ -203,7 +203,7 @@
           "filename": "3727-maximum-alternating-sum-of-squares.cpp",
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "bcaf5788c8406e71e7e32b0396e55ce0e21dc907",
-          "lastSyncedAt": "2026-10-13T12:59:57.759Z"
+          "lastSyncedAt": "2026-10-13T13:00:06.674Z"
         }
       ]
     }
