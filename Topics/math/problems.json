@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-14T13:29:46.781Z",
+  "updatedAt": "2026-10-14T13:29:52.904Z",
   "problems": [
     {
       "frontendId": "2",
@@ -439,7 +439,7 @@
           "filename": "3723-maximize-sum-of-squares-of-digits.cpp",
           "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "379578d84a82f47a65a3e65608fd738654eadc5a",
-          "lastSyncedAt": "2026-10-14T13:29:46.781Z"
+          "lastSyncedAt": "2026-10-14T13:29:52.904Z"
         }
       ]
     }
