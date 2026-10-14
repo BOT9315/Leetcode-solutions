@@ -3,18 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 138 | 42 | 74 | 22 |
+| 140 | 42 | 76 | 22 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 16 days | 41 |
+| 8 days | 16 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-26 | 2 |
-| 2026-09-27 | 2 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 3 |
@@ -27,19 +25,21 @@
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
+| 2026-10-13 | 1 |
+| 2026-10-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 64 | 46% |
+| Array | 65 | 46% |
 | String | 39 | 28% |
 | Two Pointers | 24 | 17% |
 | Dynamic Programming | 21 | 15% |
-| Math | 19 | 14% |
+| Math | 20 | 14% |
+| Sorting | 18 | 13% |
 | Backtracking | 17 | 12% |
 | Hash Table | 17 | 12% |
-| Sorting | 17 | 12% |
 | Binary Tree | 15 | 11% |
 | Depth-First Search | 15 | 11% |
 
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 64 |
+| [Array](Topics/array/) | 65 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
@@ -70,7 +70,7 @@
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 9 |
+| [Greedy](Topics/greedy/) | 11 |
 | [Hash Table](Topics/hash-table/) | 19 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
@@ -78,7 +78,7 @@
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 20 |
+| [Math](Topics/math/) | 21 |
 | [Matrix](Topics/matrix/) | 10 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -91,7 +91,7 @@
 | [Recursion](Topics/recursion/) | 8 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 17 |
+| [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 41 |
 | [String Matching](Topics/string-matching/) | 1 |
