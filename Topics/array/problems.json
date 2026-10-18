@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T13:12:04.014Z",
+  "updatedAt": "2026-10-18T15:55:20.334Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1188,6 +1188,26 @@
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.java",
           "sha": "cf72dc2d999ba418528ec7ec4c67a2e53427051f",
           "lastSyncedAt": "2026-09-13T04:53:26.948Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
+          "lastSyncedAt": "2026-10-18T15:55:20.334Z"
         }
       ]
     },
