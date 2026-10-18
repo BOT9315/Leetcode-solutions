@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "memoization",
-    "name": "Memoization"
+    "name": "Memoization",
+    "tagId": "33"
   },
-  "updatedAt": "2026-10-03T06:57:24.099Z",
+  "updatedAt": "2026-10-18T15:55:21.448Z",
   "problems": [
     {
       "frontendId": "70",
@@ -43,6 +44,26 @@
           "path": "0139-word-break/0139-word-break.java",
           "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
           "lastSyncedAt": "2026-10-03T06:57:24.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
+          "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
+          "lastSyncedAt": "2026-10-18T15:55:21.448Z"
         }
       ]
     }
