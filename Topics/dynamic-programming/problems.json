@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T15:55:20.334Z",
+  "updatedAt": "2026-10-18T15:55:37.999Z",
   "problems": [
     {
       "frontendId": "5",
@@ -443,7 +443,7 @@
           "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
-          "lastSyncedAt": "2026-10-18T15:55:20.334Z"
+          "lastSyncedAt": "2026-10-18T15:55:37.999Z"
         }
       ]
     }
