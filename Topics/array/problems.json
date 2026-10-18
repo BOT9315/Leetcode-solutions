@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T15:55:37.999Z",
+  "updatedAt": "2026-10-18T15:55:47.051Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1207,7 +1207,7 @@
           "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
-          "lastSyncedAt": "2026-10-18T15:55:37.999Z"
+          "lastSyncedAt": "2026-10-18T15:55:47.051Z"
         }
       ]
     },
