@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 142 | 43 | 76 | 23 |
+| 143 | 43 | 77 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 45 |
+| 1 days | 16 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 3 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 4 |
 | 2026-10-04 | 1 |
@@ -27,15 +26,16 @@
 | 2026-10-14 | 1 |
 | 2026-10-15 | 1 |
 | 2026-10-18 | 1 |
+| 2026-10-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 67 | 47% |
-| String | 39 | 27% |
+| String | 40 | 28% |
 | Two Pointers | 24 | 17% |
-| Dynamic Programming | 22 | 15% |
+| Dynamic Programming | 23 | 16% |
 | Math | 21 | 15% |
 | Hash Table | 18 | 13% |
 | Sorting | 18 | 13% |
@@ -67,7 +67,7 @@
 | [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 22 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -96,7 +96,7 @@
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 13 |
-| [String](Topics/string/) | 41 |
+| [String](Topics/string/) | 42 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 16 |
