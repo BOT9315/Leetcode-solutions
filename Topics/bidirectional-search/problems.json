@@ -5,7 +5,7 @@
     "name": "Bidirectional Search",
     "tagId": "97547"
   },
-  "updatedAt": "2026-10-21T14:00:52.396Z",
+  "updatedAt": "2026-10-21T14:01:04.034Z",
   "problems": [
     {
       "frontendId": "126",
@@ -43,7 +43,7 @@
           "filename": "0127-word-ladder.java",
           "path": "0127-word-ladder/0127-word-ladder.java",
           "sha": "a3b2c422ff81952c29bdb345e5f4a7cf1562d4b0",
-          "lastSyncedAt": "2026-10-21T14:00:52.396Z"
+          "lastSyncedAt": "2026-10-21T14:01:04.034Z"
         }
       ]
     }
