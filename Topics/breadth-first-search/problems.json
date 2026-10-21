@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-10-07T14:19:09.841Z",
+  "updatedAt": "2026-10-21T14:00:31.158Z",
   "problems": [
     {
       "frontendId": "100",
@@ -182,7 +183,7 @@
           "filename": "0127-word-ladder.java",
           "path": "0127-word-ladder/0127-word-ladder.java",
           "sha": "a3b2c422ff81952c29bdb345e5f4a7cf1562d4b0",
-          "lastSyncedAt": "2026-10-02T13:41:25.000Z"
+          "lastSyncedAt": "2026-10-21T14:00:31.158Z"
         }
       ]
     },
