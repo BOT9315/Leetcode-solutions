@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bidirectional-search",
-    "name": "Bidirectional Search"
+    "name": "Bidirectional Search",
+    "tagId": "97547"
   },
-  "updatedAt": "2026-09-23T14:56:02.261Z",
+  "updatedAt": "2026-10-21T14:00:31.158Z",
   "problems": [
     {
       "frontendId": "126",
@@ -23,6 +24,26 @@
           "path": "0126-word-ladder-ii/0126-word-ladder-ii.java",
           "sha": "b83e0fd129be2a90987f0696485fdb9f9368af41",
           "lastSyncedAt": "2026-09-23T14:56:02.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "problemName": "0127-word-ladder",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+      "folderPath": "0127-word-ladder/",
+      "readmePath": "0127-word-ladder/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0127-word-ladder.java",
+          "path": "0127-word-ladder/0127-word-ladder.java",
+          "sha": "a3b2c422ff81952c29bdb345e5f4a7cf1562d4b0",
+          "lastSyncedAt": "2026-10-21T14:00:31.158Z"
         }
       ]
     }
