@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-08T12:58:07.631Z",
+  "updatedAt": "2026-10-22T10:31:13.619Z",
   "problems": [
     {
       "frontendId": "5",
@@ -488,6 +488,26 @@
           "path": "0344-reverse-string/0344-reverse-string.cpp",
           "sha": "cf3e2dae7829cd67ea28d74b3a03aae9aaface2b",
           "lastSyncedAt": "2026-10-08T06:08:43.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "0345-reverse-vowels-of-a-string/",
+      "readmePath": "0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0345-reverse-vowels-of-a-string.java",
+          "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.java",
+          "sha": "22a13d9ae7e7af138e64837b9b70f3f152c5d4ce",
+          "lastSyncedAt": "2026-10-22T10:31:13.619Z"
         }
       ]
     },
