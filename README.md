@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 144 | 44 | 77 | 23 |
+| 145 | 44 | 78 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 47 |
+| 3 days | 16 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 4 |
 | 2026-10-04 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 4 |
@@ -27,18 +26,19 @@
 | 2026-10-18 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
+| 2026-10-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 67 | 47% |
+| Array | 68 | 47% |
 | String | 41 | 28% |
 | Two Pointers | 25 | 17% |
 | Dynamic Programming | 23 | 16% |
-| Math | 21 | 15% |
-| Hash Table | 18 | 13% |
-| Sorting | 18 | 13% |
+| Math | 21 | 14% |
+| Hash Table | 18 | 12% |
+| Sorting | 18 | 12% |
 | Backtracking | 17 | 12% |
 | Binary Tree | 16 | 11% |
 | Tree | 16 | 11% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 67 |
+| [Array](Topics/array/) | 68 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -56,7 +56,7 @@
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 16 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 6 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 12 |
