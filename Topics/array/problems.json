@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T15:55:47.051Z",
+  "updatedAt": "2026-10-23T14:47:05.389Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1348,6 +1348,26 @@
           "path": "2974-minimum-number-game/2974-minimum-number-game.java",
           "sha": "fec64284a152b64a4120805c21442fda40d05b50",
           "lastSyncedAt": "2026-09-13T05:21:07.496Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3644-maximum-k-to-sort-a-permutation.cpp",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
+          "sha": "d467ed64df025cde506df88dd509fa1dce8f5d80",
+          "lastSyncedAt": "2026-10-23T14:47:05.389Z"
         }
       ]
     },
