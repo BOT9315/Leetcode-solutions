@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T10:41:58.500Z",
+  "updatedAt": "2026-10-24T15:08:09.549Z",
   "problems": [
     {
       "frontendId": "3",
@@ -880,6 +880,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
           "lastSyncedAt": "2026-10-09T16:49:21.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "5f6b885cc430a633fc2524640262f6733e1fceab",
+          "lastSyncedAt": "2026-10-24T15:08:09.549Z"
         }
       ]
     }
