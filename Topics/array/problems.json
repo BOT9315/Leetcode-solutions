@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T14:52:26.898Z",
+  "updatedAt": "2026-10-25T04:50:12.350Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1168,6 +1168,26 @@
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
           "sha": "a715e59d10b45dab0ae3a670cf5a8a422e1fcf9d",
           "lastSyncedAt": "2026-09-10T09:07:22.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1254-number-of-closed-islands.cpp",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
+          "sha": "cf18580eb16d98cd52e296aabf48b7a3c7a21130",
+          "lastSyncedAt": "2026-10-25T04:50:12.350Z"
         }
       ]
     },
