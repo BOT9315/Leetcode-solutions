@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-09-27T05:17:50.894Z",
+  "updatedAt": "2026-10-25T04:50:12.350Z",
   "problems": [
     {
       "frontendId": "36",
@@ -211,6 +212,26 @@
           "path": "0130-surrounded-regions/0130-surrounded-regions.java",
           "sha": "e4628d3a45041d180bea1e262b8e20fbc2411105",
           "lastSyncedAt": "2026-09-24T14:09:52.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1254-number-of-closed-islands.cpp",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
+          "sha": "cf18580eb16d98cd52e296aabf48b7a3c7a21130",
+          "lastSyncedAt": "2026-10-25T04:50:12.350Z"
         }
       ]
     }
