@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "depth-first-search",
-    "name": "Depth-First Search"
+    "name": "Depth-First Search",
+    "tagId": "21"
   },
-  "updatedAt": "2026-10-03T06:15:08.786Z",
+  "updatedAt": "2026-10-25T04:50:12.350Z",
   "problems": [
     {
       "frontendId": "79",
@@ -303,6 +304,26 @@
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.cpp",
           "sha": "afe2753e1a17f1f6db1db447c2c0f25ca6ed8a38",
           "lastSyncedAt": "2026-10-03T06:15:08.786Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1254-number-of-closed-islands.cpp",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
+          "sha": "cf18580eb16d98cd52e296aabf48b7a3c7a21130",
+          "lastSyncedAt": "2026-10-25T04:50:12.350Z"
         }
       ]
     }
