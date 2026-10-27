@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 148 | 45 | 80 | 23 |
+| 149 | 46 | 80 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 16 days | 51 |
+| 7 days | 16 days | 52 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-09 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
@@ -27,6 +26,7 @@
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
+| 2026-10-27 | 1 |
 
 ## Top Tags
 
@@ -35,7 +35,7 @@
 | Array | 70 | 47% |
 | String | 42 | 28% |
 | Two Pointers | 25 | 17% |
-| Dynamic Programming | 23 | 16% |
+| Dynamic Programming | 23 | 15% |
 | Math | 22 | 15% |
 | Hash Table | 18 | 12% |
 | Sorting | 18 | 12% |
