@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-10-30T05:51:42.124Z",
+  "updatedAt": "2026-10-30T05:51:52.887Z",
   "problems": [
     {
       "frontendId": "3970",
@@ -23,7 +23,7 @@
           "filename": "3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
           "path": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
           "sha": "28d04cc972f2fd170132171043957729f1f366d8",
-          "lastSyncedAt": "2026-10-30T05:51:42.124Z"
+          "lastSyncedAt": "2026-10-30T05:51:52.887Z"
         }
       ]
     }
