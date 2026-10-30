@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 149 | 46 | 80 | 23 |
+| 150 | 46 | 81 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 16 days | 52 |
+| 1 days | 16 days | 53 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
@@ -27,13 +26,14 @@
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
+| 2026-10-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 70 | 47% |
-| String | 42 | 28% |
+| String | 43 | 29% |
 | Two Pointers | 25 | 17% |
 | Dynamic Programming | 23 | 15% |
 | Math | 22 | 15% |
@@ -71,11 +71,11 @@
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Graph Theory](Topics/graph/) | 1 |
+| [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 11 |
 | [Hash Table](Topics/hash-table/) | 20 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -92,11 +92,12 @@
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
+| [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 13 |
-| [String](Topics/string/) | 44 |
+| [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 16 |
