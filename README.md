@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 150 | 46 | 81 | 23 |
+| 151 | 46 | 82 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 53 |
+| 2 days | 16 days | 54 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
 | 2026-10-14 | 1 |
@@ -27,20 +26,21 @@
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
+| 2026-10-31 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 70 | 47% |
-| String | 43 | 29% |
+| Array | 71 | 47% |
+| String | 43 | 28% |
 | Two Pointers | 25 | 17% |
 | Dynamic Programming | 23 | 15% |
 | Math | 22 | 15% |
+| Depth-First Search | 18 | 12% |
 | Hash Table | 18 | 12% |
 | Sorting | 18 | 12% |
 | Backtracking | 17 | 11% |
-| Depth-First Search | 17 | 11% |
 | Binary Tree | 16 | 11% |
 
 ## Topics
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 70 |
+| [Array](Topics/array/) | 71 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -59,12 +59,12 @@
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 17 |
+| [Depth-First Search](Topics/depth-first-search/) | 18 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
@@ -81,7 +81,7 @@
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 23 |
-| [Matrix](Topics/matrix/) | 12 |
+| [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
@@ -103,7 +103,7 @@
 | [Tree](Topics/tree/) | 16 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 25 |
-| [Union-Find](Topics/union-find/) | 4 |
+| [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
