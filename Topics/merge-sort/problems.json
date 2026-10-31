@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "merge-sort",
-    "name": "Merge Sort"
+    "name": "Merge Sort",
+    "tagId": "61051"
   },
-  "updatedAt": "2026-08-31T13:40:00.789Z",
+  "updatedAt": "2026-10-31T07:26:16.422Z",
   "problems": [
     {
       "frontendId": "23",
@@ -23,6 +24,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "65e361115d146fa3caa419fd6580ef8ebd01265e",
           "lastSyncedAt": "2026-08-31T13:40:00.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "0912-sort-an-array/",
+      "readmePath": "0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0912-sort-an-array.cpp",
+          "path": "0912-sort-an-array/0912-sort-an-array.cpp",
+          "sha": "9fc881a43de51715e164bd1faebe4a0ba5f6a3e3",
+          "lastSyncedAt": "2026-10-31T07:26:16.422Z"
         }
       ]
     }
