@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T07:21:30.340Z",
+  "updatedAt": "2026-10-31T07:22:33.907Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1081,6 +1081,14 @@
       "folderPath": "0215-kth-largest-element-in-an-array/",
       "readmePath": "0215-kth-largest-element-in-an-array/README.md",
       "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "020c5b8750c23071b740a26a583806b67a4efeae",
+          "lastSyncedAt": "2026-10-31T07:22:33.907Z"
+        },
         {
           "language": "Java",
           "extension": ".java",
