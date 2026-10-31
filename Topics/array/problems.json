@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T15:48:14.268Z",
+  "updatedAt": "2026-10-31T07:21:30.340Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1048,6 +1048,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "b31605e1cb699a8030bccdc58d1e00ccbb2fc6dc",
           "lastSyncedAt": "2026-09-27T05:16:39.002Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "647fcf105d8b932c578b85bb96679996d9b4b5f1",
+          "lastSyncedAt": "2026-10-31T07:21:30.340Z"
         }
       ]
     },
