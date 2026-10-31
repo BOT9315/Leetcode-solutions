@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 151 | 46 | 82 | 23 |
+| 152 | 47 | 82 | 23 |
 
 ## Activity
 
@@ -26,7 +26,7 @@
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
-| 2026-10-31 | 1 |
+| 2026-10-31 | 2 |
 
 ## Top Tags
 
@@ -34,14 +34,14 @@
 | --- | ---: | ---: |
 | Array | 71 | 47% |
 | String | 43 | 28% |
-| Two Pointers | 25 | 17% |
+| Two Pointers | 25 | 16% |
 | Dynamic Programming | 23 | 15% |
-| Math | 22 | 15% |
+| Math | 22 | 14% |
 | Depth-First Search | 18 | 12% |
 | Hash Table | 18 | 12% |
 | Sorting | 18 | 12% |
 | Backtracking | 17 | 11% |
-| Binary Tree | 16 | 11% |
+| Binary Tree | 17 | 11% |
 
 ## Topics
 
@@ -54,8 +54,8 @@
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 9 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 3 |
-| [Binary Tree](Topics/binary-tree/) | 16 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 17 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
@@ -100,7 +100,7 @@
 | [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 16 |
+| [Tree](Topics/tree/) | 17 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 25 |
 | [Union-Find](Topics/union-find/) | 5 |
