@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 152 | 47 | 82 | 23 |
+| 153 | 47 | 83 | 23 |
 
 ## Activity
 
@@ -26,20 +26,20 @@
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
-| 2026-10-31 | 2 |
+| 2026-10-31 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 71 | 47% |
+| Array | 72 | 47% |
 | String | 43 | 28% |
 | Two Pointers | 25 | 16% |
 | Dynamic Programming | 23 | 15% |
 | Math | 22 | 14% |
+| Sorting | 19 | 12% |
 | Depth-First Search | 18 | 12% |
 | Hash Table | 18 | 12% |
-| Sorting | 18 | 12% |
 | Backtracking | 17 | 11% |
 | Binary Tree | 17 | 11% |
 
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 71 |
+| [Array](Topics/array/) | 72 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -62,11 +62,13 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
+| [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 18 |
 | [Design](Topics/design/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
@@ -75,7 +77,7 @@
 | [Greedy](Topics/greedy/) | 11 |
 | [Hash Table](Topics/hash-table/) | 20 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -83,19 +85,20 @@
 | [Math](Topics/math/) | 23 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
-| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
+| [Radix Sort](Topics/radix-sort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 18 |
+| [Sorting](Topics/sorting/) | 19 |
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
