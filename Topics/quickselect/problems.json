@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "quickselect",
-    "name": "Quickselect"
+    "name": "Quickselect",
+    "tagId": "61069"
   },
-  "updatedAt": "2026-09-10T09:11:20.386Z",
+  "updatedAt": "2026-10-31T07:22:33.907Z",
   "problems": [
     {
       "frontendId": "215",
@@ -16,6 +17,14 @@
       "folderPath": "0215-kth-largest-element-in-an-array/",
       "readmePath": "0215-kth-largest-element-in-an-array/README.md",
       "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "020c5b8750c23071b740a26a583806b67a4efeae",
+          "lastSyncedAt": "2026-10-31T07:22:33.907Z"
+        },
         {
           "language": "Java",
           "extension": ".java",
