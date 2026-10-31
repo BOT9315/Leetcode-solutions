@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-09T16:49:21.879Z",
+  "updatedAt": "2026-10-31T07:16:34.661Z",
   "problems": [
     {
       "frontendId": "20",
@@ -24,6 +24,14 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "e02fa02bf1a4367745daa8427e5d50a6e712dee3",
           "lastSyncedAt": "2026-08-30T14:28:09.744Z"
+        },
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "179960ba29118fb035aeac89d518820806cf30f7",
+          "lastSyncedAt": "2026-10-31T07:16:34.661Z"
         },
         {
           "language": "Python",
