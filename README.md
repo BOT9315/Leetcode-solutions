@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 153 | 47 | 83 | 23 |
+| 154 | 47 | 84 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 54 |
+| 3 days | 16 days | 55 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
 | 2026-10-14 | 1 |
 | 2026-10-15 | 1 |
@@ -27,16 +26,17 @@
 | 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-31 | 3 |
+| 2026-11-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 72 | 47% |
+| Array | 73 | 47% |
 | String | 43 | 28% |
 | Two Pointers | 25 | 16% |
 | Dynamic Programming | 23 | 15% |
-| Math | 22 | 14% |
+| Math | 23 | 15% |
 | Sorting | 19 | 12% |
 | Depth-First Search | 18 | 12% |
 | Hash Table | 18 | 12% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 72 |
+| [Array](Topics/array/) | 73 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -82,7 +82,7 @@
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 23 |
+| [Math](Topics/math/) | 24 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
