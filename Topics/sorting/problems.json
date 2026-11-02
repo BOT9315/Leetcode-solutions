@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-31T07:26:23.282Z",
+  "updatedAt": "2026-11-02T12:47:34.304Z",
   "problems": [
     {
       "frontendId": "15",
@@ -232,6 +232,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "31f379e8d98341f8f3186e3a602c8a25a2cd6c98",
           "lastSyncedAt": "2026-09-10T12:24:30.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "problemName": "0462-minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "folderPath": "0462-minimum-moves-to-equal-array-elements-ii/",
+      "readmePath": "0462-minimum-moves-to-equal-array-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0462-minimum-moves-to-equal-array-elements-ii.cpp",
+          "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
+          "sha": "a8151a5a9750d3ffb863ae0180c59bfc37de9bfd",
+          "lastSyncedAt": "2026-11-02T12:47:34.304Z"
         }
       ]
     },
