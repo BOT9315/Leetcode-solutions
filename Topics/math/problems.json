@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-02T12:47:34.304Z",
+  "updatedAt": "2026-11-02T12:47:36.593Z",
   "problems": [
     {
       "frontendId": "2",
@@ -439,7 +439,7 @@
           "filename": "0462-minimum-moves-to-equal-array-elements-ii.cpp",
           "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
           "sha": "a8151a5a9750d3ffb863ae0180c59bfc37de9bfd",
-          "lastSyncedAt": "2026-11-02T12:47:34.304Z"
+          "lastSyncedAt": "2026-11-02T12:47:36.593Z"
         }
       ]
     },
