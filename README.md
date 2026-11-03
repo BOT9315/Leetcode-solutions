@@ -90,8 +90,8 @@
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Quicksort](Topics/quicksort/) | 2 |
-| [Radix Sort](Topics/radix-sort/) | 1 |
+| [quicksort](Topics/quicksort/) | 0 |
+| [radix-sort](Topics/radix-sort/) | 0 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
