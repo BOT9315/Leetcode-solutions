@@ -47,7 +47,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Algorithm X](Topics/algorithm-x/) | 2 |
+| [algorithm-x](Topics/algorithm-x/) | 0 |
 | [Array](Topics/array/) | 75 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
