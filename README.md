@@ -66,7 +66,7 @@
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [depth-first-search](Topics/depth-first-search/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 18 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
@@ -83,13 +83,13 @@
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 26 |
-| [matrix](Topics/matrix/) | 0 |
+| [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Queue](Topics/queue/) | 1 |
-| [quickselect](Topics/quickselect/) | 0 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
@@ -102,9 +102,9 @@
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [tournament-sort](Topics/tournament-sort/) | 0 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 17 |
-| [trie](Topics/trie/) | 0 |
+| [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 25 |
 | [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
