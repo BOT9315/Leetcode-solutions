@@ -3,18 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 154 | 47 | 84 | 23 |
+| 156 | 48 | 85 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 55 |
+| 5 days | 16 days | 57 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-13 | 1 |
-| 2026-10-14 | 1 |
 | 2026-10-15 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-21 | 1 |
@@ -27,17 +25,19 @@
 | 2026-10-30 | 1 |
 | 2026-10-31 | 3 |
 | 2026-11-01 | 1 |
+| 2026-11-02 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 73 | 47% |
+| Array | 75 | 48% |
 | String | 43 | 28% |
+| Math | 25 | 16% |
 | Two Pointers | 25 | 16% |
 | Dynamic Programming | 23 | 15% |
-| Math | 23 | 15% |
-| Sorting | 19 | 12% |
+| Sorting | 20 | 13% |
 | Depth-First Search | 18 | 12% |
 | Hash Table | 18 | 12% |
 | Backtracking | 17 | 11% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 73 |
+| [Array](Topics/array/) | 75 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -82,7 +82,7 @@
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 24 |
+| [Math](Topics/math/) | 26 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -98,7 +98,7 @@
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 19 |
+| [Sorting](Topics/sorting/) | 20 |
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
