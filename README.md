@@ -57,9 +57,9 @@
 | [Binary Search Tree](Topics/binary-search-tree/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 17 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
-| [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [boyer-moore-string-search-algorithm](Topics/boyer-moore-string-search-algorithm/) | 0 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
+| [breadth-first-search](Topics/breadth-first-search/) | 0 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
