@@ -60,7 +60,7 @@
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 15 |
-| [brute-force-search](Topics/brute-force-search/) | 0 |
+| [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
