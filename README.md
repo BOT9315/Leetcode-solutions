@@ -62,7 +62,7 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
-| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [bucket-sort](Topics/bucket-sort/) | 0 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -90,8 +90,8 @@
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [quicksort](Topics/quicksort/) | 0 |
-| [radix-sort](Topics/radix-sort/) | 0 |
+| [Quicksort](Topics/quicksort/) | 2 |
+| [Radix Sort](Topics/radix-sort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
