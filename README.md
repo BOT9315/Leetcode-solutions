@@ -60,9 +60,9 @@
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 15 |
-| [Brute-Force Search](Topics/brute-force-search/) | 1 |
+| [brute-force-search](Topics/brute-force-search/) | 0 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
-| [bucket-sort](Topics/bucket-sort/) | 0 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
