@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T13:20:36.583Z",
+  "updatedAt": "2026-11-03T13:20:50.255Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1535,7 +1535,7 @@
           "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
           "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
           "sha": "e4f894bdfa88b7a0205224ca2044ef5d5d0a3e4e",
-          "lastSyncedAt": "2026-11-03T13:20:36.583Z"
+          "lastSyncedAt": "2026-11-03T13:20:50.255Z"
         }
       ]
     }
