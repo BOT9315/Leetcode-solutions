@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T12:05:15.070Z",
+  "updatedAt": "2026-11-06T12:06:23.008Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1395,7 +1395,7 @@
           "filename": "2747-count-zero-request-servers.cpp",
           "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.cpp",
           "sha": "ebfcdfb47abd38edebb0a257e0efe58f3e225d52",
-          "lastSyncedAt": "2026-11-06T12:05:15.070Z"
+          "lastSyncedAt": "2026-11-06T12:06:23.008Z"
         }
       ]
     },
