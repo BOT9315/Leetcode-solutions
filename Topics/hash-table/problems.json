@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T14:01:04.034Z",
+  "updatedAt": "2026-11-06T12:03:52.133Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "31f379e8d98341f8f3186e3a602c8a25a2cd6c98",
           "lastSyncedAt": "2026-09-10T12:24:30.049Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2747-count-zero-request-servers.cpp",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.cpp",
+          "sha": "ebfcdfb47abd38edebb0a257e0efe58f3e225d52",
+          "lastSyncedAt": "2026-11-06T12:03:52.133Z"
         }
       ]
     },
