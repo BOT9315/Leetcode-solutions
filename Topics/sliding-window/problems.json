@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sliding-window",
-    "name": "Sliding Window"
+    "name": "Sliding Window",
+    "tagId": "55821"
   },
-  "updatedAt": "2026-09-05T13:58:35.737Z",
+  "updatedAt": "2026-11-06T12:03:58.927Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,6 +64,26 @@
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "ec71600d52e7db1a99aeafbce2ca858049153965",
           "lastSyncedAt": "2026-09-05T13:58:35.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2747-count-zero-request-servers.cpp",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.cpp",
+          "sha": "ebfcdfb47abd38edebb0a257e0efe58f3e225d52",
+          "lastSyncedAt": "2026-11-06T12:03:58.927Z"
         }
       ]
     }
