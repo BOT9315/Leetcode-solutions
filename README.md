@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 156 | 48 | 85 | 23 |
+| 157 | 48 | 86 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 16 days | 57 |
+| 1 days | 16 days | 58 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-15 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
@@ -27,19 +26,20 @@
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
+| 2026-11-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 75 | 48% |
-| String | 43 | 28% |
+| Array | 76 | 48% |
+| String | 43 | 27% |
 | Math | 25 | 16% |
 | Two Pointers | 25 | 16% |
 | Dynamic Programming | 23 | 15% |
-| Sorting | 20 | 13% |
-| Depth-First Search | 18 | 12% |
-| Hash Table | 18 | 12% |
+| Sorting | 21 | 13% |
+| Hash Table | 19 | 12% |
+| Depth-First Search | 18 | 11% |
 | Backtracking | 17 | 11% |
 | Binary Tree | 17 | 11% |
 
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 75 |
+| [Array](Topics/array/) | 76 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -75,7 +75,7 @@
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 11 |
-| [Hash Table](Topics/hash-table/) | 20 |
+| [Hash Table](Topics/hash-table/) | 21 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -97,8 +97,8 @@
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
-| [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 20 |
+| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sorting](Topics/sorting/) | 21 |
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
