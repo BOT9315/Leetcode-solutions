@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-07T08:32:27.236Z",
+  "updatedAt": "2026-11-07T08:32:28.626Z",
   "problems": [
     {
       "frontendId": "23",
@@ -91,7 +91,7 @@
           "filename": "1882-process-tasks-using-servers.cpp",
           "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.cpp",
           "sha": "a505ded67d9d135f98768c5fceeaf716fb46853b",
-          "lastSyncedAt": "2026-11-07T08:32:27.236Z"
+          "lastSyncedAt": "2026-11-07T08:32:28.626Z"
         }
       ]
     },
