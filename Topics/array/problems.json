@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T12:06:23.008Z",
+  "updatedAt": "2026-11-07T08:32:27.236Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1316,6 +1316,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
           "lastSyncedAt": "2026-10-18T15:55:47.051Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1882-process-tasks-using-servers.cpp",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.cpp",
+          "sha": "a505ded67d9d135f98768c5fceeaf716fb46853b",
+          "lastSyncedAt": "2026-11-07T08:32:27.236Z"
         }
       ]
     },
