@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T08:33:56.470Z",
+  "updatedAt": "2026-11-09T05:15:27.304Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1316,6 +1316,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
           "lastSyncedAt": "2026-10-18T15:55:47.051Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1606",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "slug": "find-servers-that-handled-most-number-of-requests",
+      "problemName": "1606-find-servers-that-handled-most-number-of-requests",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+      "folderPath": "1606-find-servers-that-handled-most-number-of-requests/",
+      "readmePath": "1606-find-servers-that-handled-most-number-of-requests/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1606-find-servers-that-handled-most-number-of-requests.cpp",
+          "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.cpp",
+          "sha": "fbe7ad685a8e50c39c3b1c28ea96c4b21fc68437",
+          "lastSyncedAt": "2026-11-09T05:15:27.304Z"
         }
       ]
     },
