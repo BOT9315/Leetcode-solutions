@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-07T08:33:14.729Z",
+  "updatedAt": "2026-11-09T05:15:27.304Z",
   "problems": [
     {
       "frontendId": "23",
@@ -72,6 +72,26 @@
           "path": "0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "9fc881a43de51715e164bd1faebe4a0ba5f6a3e3",
           "lastSyncedAt": "2026-10-31T07:26:23.282Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1606",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "slug": "find-servers-that-handled-most-number-of-requests",
+      "problemName": "1606-find-servers-that-handled-most-number-of-requests",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+      "folderPath": "1606-find-servers-that-handled-most-number-of-requests/",
+      "readmePath": "1606-find-servers-that-handled-most-number-of-requests/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1606-find-servers-that-handled-most-number-of-requests.cpp",
+          "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.cpp",
+          "sha": "fbe7ad685a8e50c39c3b1c28ea96c4b21fc68437",
+          "lastSyncedAt": "2026-11-09T05:15:27.304Z"
         }
       ]
     },
