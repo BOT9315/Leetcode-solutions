@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T13:24:47.497Z",
+  "updatedAt": "2026-11-11T13:24:50.571Z",
   "problems": [
     {
       "frontendId": "2",
@@ -559,7 +559,7 @@
           "filename": "3789-minimum-cost-to-acquire-required-items.cpp",
           "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.cpp",
           "sha": "cc67c4e19d00c40e89a9719e5a6650d5d6477512",
-          "lastSyncedAt": "2026-11-11T13:24:47.497Z"
+          "lastSyncedAt": "2026-11-11T13:24:50.571Z"
         }
       ]
     }
