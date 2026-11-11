@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 159 | 48 | 87 | 24 |
+| 160 | 48 | 88 | 24 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 60 |
+| 1 days | 16 days | 61 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
@@ -27,6 +26,7 @@
 | 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
+| 2026-11-11 | 1 |
 
 ## Top Tags
 
@@ -34,7 +34,7 @@
 | --- | ---: | ---: |
 | Array | 78 | 49% |
 | String | 43 | 27% |
-| Math | 25 | 16% |
+| Math | 26 | 16% |
 | Two Pointers | 25 | 16% |
 | Dynamic Programming | 23 | 14% |
 | Sorting | 21 | 13% |
@@ -74,7 +74,7 @@
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 2 |
-| [Greedy](Topics/greedy/) | 11 |
+| [Greedy](Topics/greedy/) | 12 |
 | [Hash Table](Topics/hash-table/) | 21 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
@@ -82,7 +82,7 @@
 | [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 26 |
+| [Math](Topics/math/) | 27 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
