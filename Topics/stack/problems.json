@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T07:16:34.661Z",
+  "updatedAt": "2026-11-13T12:46:00.570Z",
   "problems": [
     {
       "frontendId": "20",
@@ -280,6 +280,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
           "lastSyncedAt": "2026-10-09T16:49:21.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3420",
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "slug": "count-non-decreasing-subarrays-after-k-operations",
+      "problemName": "3420-count-non-decreasing-subarrays-after-k-operations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+      "folderPath": "3420-count-non-decreasing-subarrays-after-k-operations/",
+      "readmePath": "3420-count-non-decreasing-subarrays-after-k-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "sha": "bd631d1daa3bc1f233cbc342af210d7e8eb975fb",
+          "lastSyncedAt": "2026-11-13T12:46:00.570Z"
         }
       ]
     }
