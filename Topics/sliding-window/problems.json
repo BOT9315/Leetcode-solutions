@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-06T12:06:23.008Z",
+  "updatedAt": "2026-11-13T12:46:01.997Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.cpp",
           "sha": "ebfcdfb47abd38edebb0a257e0efe58f3e225d52",
           "lastSyncedAt": "2026-11-06T12:06:23.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3420",
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "slug": "count-non-decreasing-subarrays-after-k-operations",
+      "problemName": "3420-count-non-decreasing-subarrays-after-k-operations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+      "folderPath": "3420-count-non-decreasing-subarrays-after-k-operations/",
+      "readmePath": "3420-count-non-decreasing-subarrays-after-k-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "sha": "bd631d1daa3bc1f233cbc342af210d7e8eb975fb",
+          "lastSyncedAt": "2026-11-13T12:46:01.997Z"
         }
       ]
     }
