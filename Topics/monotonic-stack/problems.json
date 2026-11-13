@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-13T12:46:01.997Z",
+  "updatedAt": "2026-11-13T12:46:14.635Z",
   "problems": [
     {
       "frontendId": "42",
@@ -83,7 +83,7 @@
           "filename": "3420-count-non-decreasing-subarrays-after-k-operations.cpp",
           "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.cpp",
           "sha": "bd631d1daa3bc1f233cbc342af210d7e8eb975fb",
-          "lastSyncedAt": "2026-11-13T12:46:01.997Z"
+          "lastSyncedAt": "2026-11-13T12:46:14.635Z"
         }
       ]
     }
