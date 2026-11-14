@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T15:18:07.832Z",
+  "updatedAt": "2026-11-14T15:18:31.914Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1535,7 +1535,7 @@
           "filename": "3364-minimum-positive-sum-subarray.cpp",
           "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
           "sha": "aabcecf756e9b98fa1ab7d375bfcd75c7f936272",
-          "lastSyncedAt": "2026-11-14T15:18:07.832Z"
+          "lastSyncedAt": "2026-11-14T15:18:31.914Z"
         }
       ]
     },
