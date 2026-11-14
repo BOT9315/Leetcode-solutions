@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-14T15:18:31.914Z",
+  "updatedAt": "2026-11-14T15:18:52.991Z",
   "problems": [
     {
       "frontendId": "3364",
@@ -23,7 +23,7 @@
           "filename": "3364-minimum-positive-sum-subarray.cpp",
           "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
           "sha": "aabcecf756e9b98fa1ab7d375bfcd75c7f936272",
-          "lastSyncedAt": "2026-11-14T15:18:31.914Z"
+          "lastSyncedAt": "2026-11-14T15:18:52.991Z"
         }
       ]
     }
