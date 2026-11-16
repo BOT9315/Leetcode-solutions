@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-31T07:16:34.661Z",
+  "updatedAt": "2026-11-16T12:57:02.869Z",
   "problems": [
     {
       "frontendId": "3",
@@ -888,6 +888,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
           "lastSyncedAt": "2026-10-09T16:49:21.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2243-calculate-digit-sum-of-a-string.cpp",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.cpp",
+          "sha": "fa471ac714c5dd7610f5db39216e57a380e8323e",
+          "lastSyncedAt": "2026-11-16T12:57:02.869Z"
         }
       ]
     },
