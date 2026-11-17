@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-17T05:34:01.433Z",
+  "updatedAt": "2026-11-17T05:34:33.785Z",
   "problems": [
     {
       "frontendId": "2",
@@ -263,7 +263,7 @@
           "filename": "0142-linked-list-cycle-ii.cpp",
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "9c4404aa46823f91e1016d707b29041b714ee59b",
-          "lastSyncedAt": "2026-11-17T05:34:01.433Z"
+          "lastSyncedAt": "2026-11-17T05:34:33.785Z"
         }
       ]
     },
