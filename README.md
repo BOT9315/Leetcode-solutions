@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 163 | 50 | 88 | 25 |
+| 164 | 50 | 89 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 64 |
+| 2 days | 16 days | 65 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-31 | 3 |
@@ -27,6 +26,7 @@
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-17 | 1 |
 
 ## Top Tags
 
@@ -35,10 +35,10 @@
 | Array | 80 | 49% |
 | String | 44 | 27% |
 | Math | 26 | 16% |
-| Two Pointers | 25 | 15% |
+| Two Pointers | 26 | 16% |
 | Dynamic Programming | 23 | 14% |
 | Sorting | 21 | 13% |
-| Hash Table | 19 | 12% |
+| Hash Table | 20 | 12% |
 | Depth-First Search | 18 | 11% |
 | Backtracking | 17 | 10% |
 | Binary Tree | 17 | 10% |
@@ -72,14 +72,14 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 12 |
-| [Hash Table](Topics/hash-table/) | 21 |
+| [Hash Table](Topics/hash-table/) | 22 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 13 |
+| [Linked List](Topics/linked-list/) | 14 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 27 |
@@ -108,7 +108,7 @@
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 17 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 25 |
+| [Two Pointers](Topics/two-pointers/) | 26 |
 | [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
