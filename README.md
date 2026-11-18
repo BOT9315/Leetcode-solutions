@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 164 | 50 | 89 | 25 |
+| 165 | 50 | 90 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 65 |
+| 3 days | 16 days | 66 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-27 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-31 | 3 |
 | 2026-11-01 | 1 |
@@ -27,13 +26,14 @@
 | 2026-11-14 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-17 | 1 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 80 | 49% |
-| String | 44 | 27% |
+| Array | 80 | 48% |
+| String | 45 | 27% |
 | Math | 26 | 16% |
 | Two Pointers | 26 | 16% |
 | Dynamic Programming | 23 | 14% |
@@ -103,7 +103,7 @@
 | [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 21 |
 | [Stack](Topics/stack/) | 14 |
-| [String](Topics/string/) | 46 |
+| [String](Topics/string/) | 47 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 17 |
