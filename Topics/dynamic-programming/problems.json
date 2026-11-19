@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T14:12:42.688Z",
+  "updatedAt": "2026-11-19T14:12:53.186Z",
   "problems": [
     {
       "frontendId": "5",
@@ -443,7 +443,7 @@
           "filename": "0152-maximum-product-subarray.java",
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
           "sha": "53b3a314708875d97f7adf82d01f068916c91cfb",
-          "lastSyncedAt": "2026-11-19T14:12:42.688Z"
+          "lastSyncedAt": "2026-11-19T14:12:53.186Z"
         }
       ]
     },
