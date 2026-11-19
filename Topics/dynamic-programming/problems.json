@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T14:01:42.352Z",
+  "updatedAt": "2026-11-19T14:11:33.473Z",
   "problems": [
     {
       "frontendId": "5",
@@ -424,6 +424,26 @@
           "path": "0139-word-break/0139-word-break.java",
           "sha": "6e195d772c55fd4e61b4ce616866b2520b55b4be",
           "lastSyncedAt": "2026-10-03T06:57:24.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "0152-maximum-product-subarray/",
+      "readmePath": "0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0152-maximum-product-subarray.java",
+          "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
+          "sha": "53b3a314708875d97f7adf82d01f068916c91cfb",
+          "lastSyncedAt": "2026-11-19T14:11:33.473Z"
         }
       ]
     },
