@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-13T12:46:55.926Z",
+  "updatedAt": "2026-11-20T12:49:17.326Z",
   "problems": [
     {
       "frontendId": "20",
@@ -180,6 +180,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
           "sha": "4cadc744c5f9fbed0defcad1bd6a74a4ca086646",
           "lastSyncedAt": "2026-09-23T14:58:20.130Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "0143-reorder-list/",
+      "readmePath": "0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "0143-reorder-list/0143-reorder-list.java",
+          "sha": "548ef8ba6ba53a6c247ec7735446cad42c21af75",
+          "lastSyncedAt": "2026-11-20T12:49:17.326Z"
         }
       ]
     },
