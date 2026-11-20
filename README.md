@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 166 | 50 | 91 | 25 |
+| 167 | 50 | 92 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 67 |
+| 5 days | 16 days | 68 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-31 | 3 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
@@ -27,6 +26,7 @@
 | 2026-11-17 | 1 |
 | 2026-11-18 | 1 |
 | 2026-11-19 | 1 |
+| 2026-11-20 | 1 |
 
 ## Top Tags
 
@@ -34,8 +34,8 @@
 | --- | ---: | ---: |
 | Array | 81 | 49% |
 | String | 45 | 27% |
+| Two Pointers | 27 | 16% |
 | Math | 26 | 16% |
-| Two Pointers | 26 | 16% |
 | Dynamic Programming | 24 | 14% |
 | Sorting | 21 | 13% |
 | Hash Table | 20 | 12% |
@@ -79,7 +79,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 14 |
+| [Linked List](Topics/linked-list/) | 15 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 27 |
@@ -96,19 +96,19 @@
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 8 |
+| [Recursion](Topics/recursion/) | 9 |
 | [Segment Tree](Topics/segment-tree/) | 2 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 21 |
-| [Stack](Topics/stack/) | 14 |
+| [Stack](Topics/stack/) | 15 |
 | [String](Topics/string/) | 47 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 17 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 26 |
+| [Two Pointers](Topics/two-pointers/) | 27 |
 | [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
