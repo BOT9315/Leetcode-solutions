@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T14:12:53.186Z",
+  "updatedAt": "2026-11-21T13:00:08.814Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1536,6 +1536,26 @@
           "path": "2974-minimum-number-game/2974-minimum-number-game.java",
           "sha": "fec64284a152b64a4120805c21442fda40d05b50",
           "lastSyncedAt": "2026-09-13T05:21:07.496Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "3331-find-subtree-sizes-after-changes/",
+      "readmePath": "3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3331-find-subtree-sizes-after-changes.java",
+          "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
+          "sha": "6d6080a0f2bcbd93699885ead959fc8337770517",
+          "lastSyncedAt": "2026-11-21T13:00:08.814Z"
         }
       ]
     },
