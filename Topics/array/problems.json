@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T13:03:00.263Z",
+  "updatedAt": "2026-11-21T13:03:12.831Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1555,7 +1555,7 @@
           "filename": "3331-find-subtree-sizes-after-changes.java",
           "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
           "sha": "6d6080a0f2bcbd93699885ead959fc8337770517",
-          "lastSyncedAt": "2026-11-21T13:03:00.263Z"
+          "lastSyncedAt": "2026-11-21T13:03:12.831Z"
         }
       ]
     },
