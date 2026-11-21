@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-21T13:04:34.350Z",
+  "updatedAt": "2026-11-21T13:04:46.479Z",
   "problems": [
     {
       "frontendId": "79",
@@ -363,7 +363,7 @@
           "filename": "3331-find-subtree-sizes-after-changes.java",
           "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
           "sha": "6d6080a0f2bcbd93699885ead959fc8337770517",
-          "lastSyncedAt": "2026-11-21T13:04:34.350Z"
+          "lastSyncedAt": "2026-11-21T13:04:46.479Z"
         }
       ]
     },
