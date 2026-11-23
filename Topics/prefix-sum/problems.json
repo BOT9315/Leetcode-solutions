@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-14T15:19:27.222Z",
+  "updatedAt": "2026-11-23T05:16:15.322Z",
   "problems": [
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1352-product-of-the-last-k-numbers.java",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.java",
+          "sha": "b1f705705cf997bd5d6b02a57d1d3d36b34fb7ec",
+          "lastSyncedAt": "2026-11-23T05:16:15.322Z"
+        }
+      ]
+    },
     {
       "frontendId": "3364",
       "title": "Minimum Positive Sum Subarray ",
