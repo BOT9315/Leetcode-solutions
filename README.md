@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 169 | 51 | 93 | 25 |
+| 170 | 51 | 94 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 16 days | 70 |
+| 8 days | 16 days | 71 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-03 | 1 |
 | 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
@@ -27,15 +26,16 @@
 | 2026-11-20 | 1 |
 | 2026-11-21 | 1 |
 | 2026-11-22 | 1 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 82 | 49% |
+| Array | 83 | 49% |
 | String | 47 | 28% |
+| Math | 27 | 16% |
 | Two Pointers | 27 | 16% |
-| Math | 26 | 15% |
 | Dynamic Programming | 24 | 14% |
 | Hash Table | 21 | 12% |
 | Sorting | 21 | 12% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 82 |
+| [Array](Topics/array/) | 83 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -65,9 +65,10 @@
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
+| [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 19 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 24 |
 | [Enumeration](Topics/enumeration/) | 1 |
@@ -82,7 +83,7 @@
 | [Linked List](Topics/linked-list/) | 15 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 27 |
+| [Math](Topics/math/) | 28 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -90,7 +91,7 @@
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
