@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T05:16:20.524Z",
+  "updatedAt": "2026-11-23T05:16:32.052Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1315,7 +1315,7 @@
           "filename": "1352-product-of-the-last-k-numbers.java",
           "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.java",
           "sha": "b1f705705cf997bd5d6b02a57d1d3d36b34fb7ec",
-          "lastSyncedAt": "2026-11-23T05:16:20.524Z"
+          "lastSyncedAt": "2026-11-23T05:16:32.052Z"
         }
       ]
     },
