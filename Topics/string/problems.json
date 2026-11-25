@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T12:40:02.544Z",
+  "updatedAt": "2026-11-25T07:29:33.471Z",
   "problems": [
     {
       "frontendId": "3",
@@ -888,6 +888,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "0d5c26cfb36018dc9e28b047932f29951b31ac91",
           "lastSyncedAt": "2026-10-09T16:49:21.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1967",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "problemName": "1967-number-of-strings-that-appear-as-substrings-in-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "folderPath": "1967-number-of-strings-that-appear-as-substrings-in-word/",
+      "readmePath": "1967-number-of-strings-that-appear-as-substrings-in-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1967-number-of-strings-that-appear-as-substrings-in-word.java",
+          "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.java",
+          "sha": "0c9950088901ca17a85ab9bf6cf5251377fe941a",
+          "lastSyncedAt": "2026-11-25T07:29:33.471Z"
         }
       ]
     },
