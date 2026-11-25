@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 170 | 51 | 94 | 25 |
+| 171 | 52 | 94 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 16 days | 71 |
+| 1 days | 16 days | 72 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-11 | 1 |
@@ -27,13 +26,14 @@
 | 2026-11-21 | 1 |
 | 2026-11-22 | 1 |
 | 2026-11-23 | 1 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 83 | 49% |
-| String | 47 | 28% |
+| Array | 84 | 49% |
+| String | 48 | 28% |
 | Math | 27 | 16% |
 | Two Pointers | 27 | 16% |
 | Dynamic Programming | 24 | 14% |
@@ -48,7 +48,7 @@
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 83 |
+| [Array](Topics/array/) | 84 |
 | [Backtracking](Topics/backtracking/) | 17 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -104,7 +104,7 @@
 | [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 21 |
 | [Stack](Topics/stack/) | 15 |
-| [String](Topics/string/) | 49 |
+| [String](Topics/string/) | 50 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 18 |
