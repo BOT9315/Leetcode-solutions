@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-25T07:30:10.198Z",
+  "updatedAt": "2026-11-25T07:30:20.013Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1435,7 +1435,7 @@
           "filename": "1967-number-of-strings-that-appear-as-substrings-in-word.java",
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.java",
           "sha": "0c9950088901ca17a85ab9bf6cf5251377fe941a",
-          "lastSyncedAt": "2026-11-25T07:30:10.198Z"
+          "lastSyncedAt": "2026-11-25T07:30:20.013Z"
         }
       ]
     },
