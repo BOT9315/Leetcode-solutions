@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-27T13:00:17.266Z",
+  "updatedAt": "2026-11-27T13:00:37.884Z",
   "problems": [
     {
       "frontendId": "5",
@@ -503,7 +503,7 @@
           "filename": "3946-maximum-number-of-items-from-sale-i.java",
           "path": "3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.java",
           "sha": "db5e174432e5a4040935dadfb0e1448cf89b57a9",
-          "lastSyncedAt": "2026-11-27T13:00:17.266Z"
+          "lastSyncedAt": "2026-11-27T13:00:37.884Z"
         }
       ]
     }
