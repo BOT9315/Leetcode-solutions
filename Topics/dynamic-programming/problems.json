@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T14:12:53.186Z",
+  "updatedAt": "2026-11-27T13:00:08.270Z",
   "problems": [
     {
       "frontendId": "5",
@@ -484,6 +484,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "7d55a2662a4d66f8f623179e0a486d8741ce8f3f",
           "lastSyncedAt": "2026-10-18T15:55:37.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3946-maximum-number-of-items-from-sale-i.java",
+          "path": "3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.java",
+          "sha": "db5e174432e5a4040935dadfb0e1448cf89b57a9",
+          "lastSyncedAt": "2026-11-27T13:00:08.270Z"
         }
       ]
     }
